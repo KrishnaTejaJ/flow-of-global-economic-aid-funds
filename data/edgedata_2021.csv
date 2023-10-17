@@ -1,0 +1,3487 @@
+Source,Target,Weight
+Australia,Afghanistan,50.540001
+Australia,Albania,0.01
+Australia,Antigua and Barbuda,0.06
+Australia,Argentina,0.06
+Australia,Bangladesh,93.059998
+Australia,Bhutan,2.48
+Australia,Bolivia,0.04
+Australia,Bosnia and Herzegovina,0.02
+Australia,Botswana,0.33
+Australia,Brazil,0.12
+Australia,Burundi,1.32
+Australia,Cabo Verde,0.02
+Australia,Cambodia,78.220001
+Australia,Cameroon,0.58
+Australia,Chad,0.03
+Australia,China (People's Republic of),0.21
+Australia,Colombia,0.06
+Australia,Comoros,0.02
+Australia,Costa Rica,0.01
+Australia,Cote d'Ivoire,0.05
+Australia,Cuba,0.01
+Australia,Democratic Republic of the Congo,2.53
+Australia,Dominica,0.03
+Australia,Dominican Republic,0.01
+Australia,Ecuador,0.03
+Australia,Egypt,0.06
+Australia,El Salvador,0.01
+Australia,Eritrea,0.02
+Australia,Eswatini,0.13
+Australia,Ethiopia,8.5
+Australia,Fiji,193.149994
+Australia,Gambia,0.05
+Australia,Ghana,1.68
+Australia,Grenada,0.02
+Australia,Guatemala,0.01
+Australia,Guinea-Bissau,0.02
+Australia,Guyana,0.01
+Australia,Honduras,0.01
+Australia,India,20.389999
+Australia,Indonesia,327.829987
+Australia,Iran,0.1
+Australia,Iraq,15.9
+Australia,Jamaica,0.02
+Australia,Jordan,15.3
+Australia,Kenya,5.75
+Australia,Kiribati,29.57
+Australia,Kosovo,0.01
+Australia,Kyrgyzstan,0.03
+Australia,Lao People's Democratic Republic,41.02
+Australia,Lebanon,10.88
+Australia,Lesotho,0.09
+Australia,Liberia,0.02
+Australia,Madagascar,0.22
+Australia,Malawi,1.82
+Australia,Malaysia,1.64
+Australia,Maldives,1.51
+Australia,Marshall Islands,2.68
+Australia,Mauritius,0.28
+Australia,Mexico,0.11
+Australia,Micronesia,3.94
+Australia,Moldova,0.01
+Australia,Mongolia,4.79
+Australia,Montenegro,0.01
+Australia,Morocco,0.01
+Australia,Mozambique,1.15
+Australia,Myanmar,68.239998
+Australia,Namibia,0.07
+Australia,Nauru,20.290001
+Australia,Nepal,25.57
+Australia,Nicaragua,0.05
+Australia,Niger,0.26
+Australia,Nigeria,2.41
+Australia,Niue,2.38
+Australia,North Macedonia,0.01
+Australia,Pakistan,10.82
+Australia,Palau,4.63
+Australia,Panama,0.01
+Australia,Papua New Guinea,586.22998
+Australia,Paraguay,0.03
+Australia,Peru,0.2
+Australia,Philippines,65.209999
+Australia,Rwanda,2.8
+Australia,Saint Lucia,0.01
+Australia,Saint Vincent and the Grenadines,0.05
+Australia,Samoa,34.990002
+Australia,Senegal,0.02
+Australia,Serbia,0.02
+Australia,Sierra Leone,0.01
+Australia,Solomon Islands,137.639999
+Australia,Somalia,0.66
+Australia,South Africa,1.47
+Australia,South Sudan,1.85
+Australia,Sri Lanka,20.09
+Australia,Sudan,0.19
+Australia,Suriname,0.03
+Australia,Syrian Arab Republic,3.06
+Australia,Tajikistan,0.01
+Australia,Tanzania,2.41
+Australia,Thailand,6.78
+Australia,Timor-Leste,104.120003
+Australia,Tokelau,0.7
+Australia,Tonga,31.4
+Australia,Tunisia,0.01
+Australia,Türkiye,0.07
+Australia,Tuvalu,11.31
+Australia,Uganda,3.13
+Australia,Ukraine,0.07
+Australia,Uzbekistan,0.02
+Australia,Vanuatu,89.779999
+Australia,Viet Nam,88
+Australia,Wallis and Futuna,0.06
+Australia,West Bank and Gaza Strip,18.26
+Australia,Yemen,7.51
+Australia,Zambia,2.66
+Australia,Zimbabwe,2.92
+Austria,Afghanistan,3.82
+Austria,Albania,13.92
+Austria,Algeria,0.45
+Austria,Angola,0.01
+Austria,Argentina,0.54
+Austria,Armenia,5.19
+Austria,Azerbaijan,0.49
+Austria,Bangladesh,6.09
+Austria,Belarus,1.78
+Austria,Belize,0.01
+Austria,Benin,0.01
+Austria,Bhutan,0.64
+Austria,Bolivia,0.4
+Austria,Bosnia and Herzegovina,26.459999
+Austria,Brazil,2.91
+Austria,Burkina Faso,13.64
+Austria,Burundi,0.11
+Austria,Cabo Verde,0.27
+Austria,Cambodia,0.08
+Austria,Cameroon,0.35
+Austria,Central African Republic,0.01
+Austria,Chad,0.03
+Austria,China (People's Republic of),6.42
+Austria,Colombia,3.21
+Austria,Costa Rica,0.47
+Austria,Cote d'Ivoire,1.16
+Austria,Cuba,0.14
+Austria,Democratic People's Republic of Korea,0.01
+Austria,Democratic Republic of the Congo,0.41
+Austria,Dominica,0.01
+Austria,Dominican Republic,0.02
+Austria,Ecuador,0.49
+Austria,Egypt,3.91
+Austria,El Salvador,0.59
+Austria,Eritrea,0.03
+Austria,Ethiopia,16.049999
+Austria,Fiji,0.06
+Austria,Gabon,0.19
+Austria,Gambia,0.12
+Austria,Georgia,6.04
+Austria,Ghana,2.99
+Austria,Grenada,0.01
+Austria,Guatemala,5.59
+Austria,Guinea-Bissau,0.01
+Austria,Haiti,0.05
+Austria,Honduras,0.17
+Austria,India,11.67
+Austria,Indonesia,8.38
+Austria,Iran,18.459999
+Austria,Iraq,3.31
+Austria,Jordan,7.42
+Austria,Kazakhstan,3.41
+Austria,Kenya,2.53
+Austria,Kosovo,11.09
+Austria,Kyrgyzstan,0.71
+Austria,Lao People's Democratic Republic,1.04
+Austria,Lebanon,7.58
+Austria,Lesotho,0.23
+Austria,Liberia,0.03
+Austria,Libya,3.57
+Austria,Madagascar,0.1
+Austria,Malawi,0.06
+Austria,Malaysia,0.21
+Austria,Maldives,0.1
+Austria,Mali,1.74
+Austria,Mauritius,0.06
+Austria,Mexico,5.01
+Austria,Moldova,5.12
+Austria,Mongolia,3.57
+Austria,Montenegro,1.07
+Austria,Morocco,0.98
+Austria,Mozambique,12.89
+Austria,Myanmar,0.07
+Austria,Namibia,0.06
+Austria,Nepal,2.3
+Austria,Nicaragua,0.76
+Austria,Niger,0.09
+Austria,Nigeria,1.56
+Austria,North Macedonia,3.24
+Austria,Pakistan,4.68
+Austria,Panama,0.03
+Austria,Paraguay,0.21
+Austria,Peru,1.14
+Austria,Philippines,0.74
+Austria,Rwanda,0.31
+Austria,Saint Lucia,0.02
+Austria,Saint Vincent and the Grenadines,0.16
+Austria,Senegal,0.84
+Austria,Serbia,29.48
+Austria,Sierra Leone,0.06
+Austria,Somalia,1.05
+Austria,South Africa,0.77
+Austria,South Sudan,2.4
+Austria,Sri Lanka,1.88
+Austria,States Ex-Yugoslavia unspecified,2.63
+Austria,Sudan,0.35
+Austria,Syrian Arab Republic,17.74
+Austria,Tajikistan,0.37
+Austria,Tanzania,1.25
+Austria,Thailand,0.84
+Austria,Timor-Leste,0.1
+Austria,Togo,0.03
+Austria,Tunisia,3.35
+Austria,Türkiye,27.610001
+Austria,Turkmenistan,0.29
+Austria,Uganda,15.11
+Austria,Ukraine,20.5
+Austria,Uzbekistan,2.14
+Austria,Vanuatu,0.15
+Austria,Venezuela,1.6
+Austria,Viet Nam,2.69
+Austria,West Bank and Gaza Strip,7.81
+Austria,Yemen,8.27
+Austria,Zambia,0.17
+Austria,Zimbabwe,0.16
+Belgium,Afghanistan,2.63
+Belgium,Albania,0.04
+Belgium,Algeria,0.12
+Belgium,Angola,0.35
+Belgium,Armenia,0.77
+Belgium,Bangladesh,1.21
+Belgium,Belarus,0.24
+Belgium,Benin,27.290001
+Belgium,Bolivia,6.86
+Belgium,Brazil,1.48
+Belgium,Burkina Faso,39.389999
+Belgium,Burundi,36.389999
+Belgium,Cabo Verde,1.59
+Belgium,Cambodia,4.14
+Belgium,Cameroon,2.64
+Belgium,China (People's Republic of),0.44
+Belgium,Colombia,1.74
+Belgium,Congo,0.94
+Belgium,Costa Rica,0.06
+Belgium,Cote d'Ivoire,0.34
+Belgium,Cuba,4.48
+Belgium,Democratic Republic of the Congo,113.010002
+Belgium,Dominican Republic,0.45
+Belgium,Ecuador,7.34
+Belgium,Egypt,1.01
+Belgium,El Salvador,2.27
+Belgium,Ethiopia,10.63
+Belgium,Gambia,0.06
+Belgium,Georgia,0.01
+Belgium,Ghana,1.02
+Belgium,Guatemala,2.37
+Belgium,Guinea,12.49
+Belgium,Haiti,5.68
+Belgium,Honduras,1.11
+Belgium,India,1.61
+Belgium,Indonesia,2.96
+Belgium,Iran,0.22
+Belgium,Iraq,5.14
+Belgium,Jordan,2.44
+Belgium,Kenya,13.02
+Belgium,Kosovo,0.01
+Belgium,Lebanon,9.99
+Belgium,Libya,0.31
+Belgium,Madagascar,4.66
+Belgium,Malawi,2.88
+Belgium,Mali,21.629999
+Belgium,Mauritania,0.42
+Belgium,Mexico,0.06
+Belgium,Moldova,0.01
+Belgium,Morocco,16.950001
+Belgium,Mozambique,16.35
+Belgium,Myanmar,0.02
+Belgium,Namibia,0.04
+Belgium,Nepal,0.19
+Belgium,Nicaragua,2.19
+Belgium,Niger,34.57
+Belgium,Nigeria,5.94
+Belgium,Pakistan,0.06
+Belgium,Papua New Guinea,0.02
+Belgium,Paraguay,0.01
+Belgium,Peru,8.29
+Belgium,Philippines,5.49
+Belgium,Rwanda,52.330002
+Belgium,Senegal,16.889999
+Belgium,Somalia,0.05
+Belgium,South Africa,11.62
+Belgium,Sri Lanka,0.41
+Belgium,Sudan,0.01
+Belgium,Suriname,0.18
+Belgium,Syrian Arab Republic,22.92
+Belgium,Tanzania,14.82
+Belgium,Thailand,0.02
+Belgium,Togo,0.71
+Belgium,Tunisia,0.59
+Belgium,Türkiye,13.1
+Belgium,Uganda,49.689999
+Belgium,Ukraine,3.88
+Belgium,Uzbekistan,0.01
+Belgium,Viet Nam,8.16
+Belgium,West Bank and Gaza Strip,23.73
+Belgium,Yemen,6.85
+Belgium,Zambia,1.5
+Belgium,Zimbabwe,0.8
+Canada,Afghanistan,113.209999
+Canada,Albania,0.01
+Canada,Angola,2.33
+Canada,Antigua and Barbuda,0.16
+Canada,Argentina,4.42
+Canada,Armenia,0.9
+Canada,Azerbaijan,1.35
+Canada,Bangladesh,86.010002
+Canada,Belarus,1.52
+Canada,Belize,1.05
+Canada,Benin,17.85
+Canada,Bhutan,0.48
+Canada,Bolivia,11.32
+Canada,Bosnia and Herzegovina,0.12
+Canada,Botswana,0.21
+Canada,Brazil,1.24
+Canada,Burkina Faso,49.560001
+Canada,Burundi,5.44
+Canada,Cabo Verde,0.2
+Canada,Cambodia,2
+Canada,Cameroon,15.84
+Canada,Central African Republic,13.18
+Canada,Chad,10.98
+Canada,Colombia,37.18
+Canada,Comoros,0.22
+Canada,Congo,0.99
+Canada,Costa Rica,2.73
+Canada,Cote d'Ivoire,10.16
+Canada,Cuba,3.16
+Canada,Democratic People's Republic of Korea,1.27
+Canada,Democratic Republic of the Congo,68.93
+Canada,Djibouti,0.28
+Canada,Dominica,1.4
+Canada,Dominican Republic,0.11
+Canada,Ecuador,8.41
+Canada,Egypt,15
+Canada,El Salvador,5.69
+Canada,Equatorial Guinea,0.18
+Canada,Eritrea,0.19
+Canada,Eswatini,0.52
+Canada,Ethiopia,99.080002
+Canada,Fiji,0.15
+Canada,Gabon,0.33
+Canada,Gambia,0.3
+Canada,Georgia,0.23
+Canada,Ghana,52.709999
+Canada,Grenada,0.48
+Canada,Guatemala,16.450001
+Canada,Guinea,3.85
+Canada,Guinea-Bissau,0.23
+Canada,Guyana,4.83
+Canada,Haiti,56.560001
+Canada,Honduras,22.83
+Canada,India,12.96
+Canada,Indonesia,7.11
+Canada,Iran,0.09
+Canada,Iraq,74.230003
+Canada,Jamaica,6.48
+Canada,Jordan,66.870003
+Canada,Kazakhstan,0.17
+Canada,Kenya,32.049999
+Canada,Kiribati,0.12
+Canada,Kosovo,0.08
+Canada,Kyrgyzstan,1.45
+Canada,Lao People's Democratic Republic,0.69
+Canada,Lebanon,68.260002
+Canada,Lesotho,0.59
+Canada,Liberia,1.06
+Canada,Libya,3.66
+Canada,Madagascar,4.82
+Canada,Malawi,10.52
+Canada,Malaysia,0.65
+Canada,Maldives,1.21
+Canada,Mali,92.489998
+Canada,Marshall Islands,0.32
+Canada,Mauritania,3.13
+Canada,Mauritius,0.19
+Canada,Mexico,4.74
+Canada,Micronesia,0.1
+Canada,Moldova,0.18
+Canada,Mongolia,4.97
+Canada,Montenegro,0.11
+Canada,Montserrat,0.03
+Canada,Morocco,5.86
+Canada,Mozambique,82.269997
+Canada,Myanmar,20.120001
+Canada,Namibia,0.23
+Canada,Nauru,0.1
+Canada,Nepal,7.89
+Canada,Nicaragua,14.15
+Canada,Niger,20.379999
+Canada,Nigeria,60.389999
+Canada,North Macedonia,0.11
+Canada,Pakistan,29.719999
+Canada,Palau,0.1
+Canada,Panama,0.42
+Canada,Papua New Guinea,0.11
+Canada,Paraguay,0.18
+Canada,Peru,18.799999
+Canada,Philippines,11.25
+Canada,Rwanda,21.99
+Canada,Saint Lucia,0.97
+Canada,Saint Vincent and the Grenadines,0.92
+Canada,Samoa,0.12
+Canada,Sao Tome and Principe,0.16
+Canada,Senegal,62.48
+Canada,Serbia,0.13
+Canada,Sierra Leone,5.95
+Canada,Solomon Islands,0.1
+Canada,Somalia,36.950001
+Canada,South Africa,9
+Canada,South Sudan,108.959999
+Canada,Sri Lanka,3
+Canada,Sudan,48.889999
+Canada,Suriname,0.93
+Canada,Syrian Arab Republic,69.580002
+Canada,Tajikistan,1.55
+Canada,Tanzania,48.889999
+Canada,Thailand,0.05
+Canada,Timor-Leste,0.2
+Canada,Togo,4.45
+Canada,Tonga,0.12
+Canada,Tunisia,6.67
+Canada,Türkiye,0.15
+Canada,Turkmenistan,0.06
+Canada,Tuvalu,0.12
+Canada,Uganda,30.389999
+Canada,Ukraine,37.849998
+Canada,Uzbekistan,0.13
+Canada,Vanuatu,0.2
+Canada,Venezuela,13.39
+Canada,Viet Nam,11.97
+Canada,West Bank and Gaza Strip,37.419998
+Canada,Yemen,64.589996
+Canada,Zambia,8
+Canada,Zimbabwe,13.82
+Czech Republic,Afghanistan,3.02
+Czech Republic,Albania,0.24
+Czech Republic,Algeria,0.05
+Czech Republic,Angola,0.02
+Czech Republic,Argentina,0.01
+Czech Republic,Armenia,0.33
+Czech Republic,Bangladesh,0.23
+Czech Republic,Belarus,1.31
+Czech Republic,Bolivia,0.01
+Czech Republic,Bosnia and Herzegovina,5.79
+Czech Republic,Brazil,0.04
+Czech Republic,Burkina Faso,0.28
+Czech Republic,Cabo Verde,0.05
+Czech Republic,Cambodia,2.04
+Czech Republic,Cameroon,0.05
+Czech Republic,China (People's Republic of),0.04
+Czech Republic,Colombia,0.23
+Czech Republic,Cuba,0.34
+Czech Republic,Democratic Republic of the Congo,0.01
+Czech Republic,Ecuador,0.02
+Czech Republic,Egypt,4.39
+Czech Republic,El Salvador,0.01
+Czech Republic,Ethiopia,4.45
+Czech Republic,Georgia,4.68
+Czech Republic,Ghana,0.76
+Czech Republic,Guinea,0.01
+Czech Republic,Haiti,0.12
+Czech Republic,India,0.19
+Czech Republic,Indonesia,0.01
+Czech Republic,Iran,0.01
+Czech Republic,Iraq,3.45
+Czech Republic,Jordan,1.81
+Czech Republic,Kenya,0.27
+Czech Republic,Kosovo,0.18
+Czech Republic,Kyrgyzstan,0.02
+Czech Republic,Lao People's Democratic Republic,0.05
+Czech Republic,Lebanon,1.07
+Czech Republic,Libya,0.71
+Czech Republic,Malawi,0.02
+Czech Republic,Mali,1.9
+Czech Republic,Mauritania,0.25
+Czech Republic,Mexico,0.01
+Czech Republic,Moldova,5.77
+Czech Republic,Mongolia,0.34
+Czech Republic,Montenegro,0.03
+Czech Republic,Morocco,1.38
+Czech Republic,Mozambique,0.02
+Czech Republic,Myanmar,1.33
+Czech Republic,Namibia,0.08
+Czech Republic,Nicaragua,0.04
+Czech Republic,Niger,1.38
+Czech Republic,Nigeria,1.14
+Czech Republic,North Macedonia,0.13
+Czech Republic,Pakistan,0.02
+Czech Republic,Panama,0.01
+Czech Republic,Papua New Guinea,0.02
+Czech Republic,Paraguay,0.01
+Czech Republic,Peru,0.31
+Czech Republic,Philippines,0.07
+Czech Republic,Rwanda,0.01
+Czech Republic,Senegal,1.46
+Czech Republic,Serbia,0.48
+Czech Republic,Somalia,0.05
+Czech Republic,South Africa,0.92
+Czech Republic,Sri Lanka,0.04
+Czech Republic,States Ex-Yugoslavia unspecified,0.05
+Czech Republic,Syrian Arab Republic,3.09
+Czech Republic,Tajikistan,0.03
+Czech Republic,Thailand,0.03
+Czech Republic,Tunisia,0.84
+Czech Republic,Türkiye,2.39
+Czech Republic,Uganda,0.01
+Czech Republic,Ukraine,4.08
+Czech Republic,Uzbekistan,0.07
+Czech Republic,Venezuela,0.07
+Czech Republic,Viet Nam,1.93
+Czech Republic,West Bank and Gaza Strip,0.84
+Czech Republic,Yemen,0.16
+Czech Republic,Zambia,3.46
+Czech Republic,Zimbabwe,0.03
+Denmark,Afghanistan,108.18
+Denmark,Albania,0.01
+Denmark,Angola,0.29
+Denmark,Argentina,0.35
+Denmark,Armenia,0.08
+Denmark,Azerbaijan,0.03
+Denmark,Bangladesh,21.99
+Denmark,Belarus,0.05
+Denmark,Benin,0.41
+Denmark,Bolivia,0.64
+Denmark,Bosnia and Herzegovina,0.07
+Denmark,Brazil,0.34
+Denmark,Burkina Faso,41.560001
+Denmark,Burundi,0.36
+Denmark,Cambodia,2.17
+Denmark,Cameroon,1.36
+Denmark,Central African Republic,2.76
+Denmark,Chad,0.88
+Denmark,China (People's Republic of),0.41
+Denmark,Colombia,1.01
+Denmark,Congo,0.11
+Denmark,Democratic People's Republic of Korea,0.08
+Denmark,Democratic Republic of the Congo,2.08
+Denmark,Djibouti,1.15
+Denmark,Eritrea,0.19
+Denmark,Ethiopia,65.849998
+Denmark,Georgia,0.86
+Denmark,Ghana,7.63
+Denmark,Guatemala,0.64
+Denmark,Guinea,0.56
+Denmark,Haiti,0.03
+Denmark,Honduras,0.1
+Denmark,India,6.52
+Denmark,Indonesia,3.81
+Denmark,Iran,3.01
+Denmark,Iraq,10.37
+Denmark,Jordan,4.96
+Denmark,Kenya,52.689999
+Denmark,Lao People's Democratic Republic,0.52
+Denmark,Lebanon,31.42
+Denmark,Liberia,0.91
+Denmark,Libya,2.52
+Denmark,Malawi,2.76
+Denmark,Malaysia,0.02
+Denmark,Mali,89.730003
+Denmark,Mauritania,0.02
+Denmark,Mexico,0.2
+Denmark,Moldova,0.01
+Denmark,Morocco,2.47
+Denmark,Mozambique,3.02
+Denmark,Myanmar,22.450001
+Denmark,Nepal,3.21
+Denmark,Nicaragua,0.1
+Denmark,Niger,31.93
+Denmark,Nigeria,2.89
+Denmark,Pakistan,5.54
+Denmark,Peru,0.04
+Denmark,Philippines,0.54
+Denmark,Rwanda,6.39
+Denmark,Senegal,0.07
+Denmark,Serbia,0.01
+Denmark,Sierra Leone,1.38
+Denmark,Somalia,42.490002
+Denmark,South Africa,1.35
+Denmark,South Sudan,15.66
+Denmark,Sri Lanka,0.06
+Denmark,Sudan,18.309999
+Denmark,Syrian Arab Republic,75.300003
+Denmark,Tanzania,50.75
+Denmark,Thailand,0.06
+Denmark,Togo,0.41
+Denmark,Tunisia,2.95
+Denmark,Türkiye,2.65
+Denmark,Uganda,64.489998
+Denmark,Ukraine,35.009998
+Denmark,Vanuatu,0.03
+Denmark,Venezuela,0.59
+Denmark,Viet Nam,1.63
+Denmark,West Bank and Gaza Strip,19.59
+Denmark,Yemen,26.16
+Denmark,Zimbabwe,4.32
+Finland,Afghanistan,35.799999
+Finland,Albania,0.07
+Finland,Algeria,0.12
+Finland,Armenia,0.03
+Finland,Azerbaijan,0.01
+Finland,Bangladesh,0.56
+Finland,Belarus,0.17
+Finland,Benin,0.16
+Finland,Bhutan,0.22
+Finland,Bolivia,0.44
+Finland,Bosnia and Herzegovina,0.17
+Finland,Botswana,0.23
+Finland,Brazil,0.24
+Finland,Burkina Faso,1.73
+Finland,Burundi,0.89
+Finland,Cambodia,1.49
+Finland,Central African Republic,2.24
+Finland,China (People's Republic of),0.22
+Finland,Colombia,1.15
+Finland,Democratic People's Republic of Korea,0.59
+Finland,Democratic Republic of the Congo,2.18
+Finland,Djibouti,0.02
+Finland,Dominican Republic,0.06
+Finland,Egypt,0.38
+Finland,Eritrea,0.01
+Finland,Eswatini,0.86
+Finland,Ethiopia,37.209999
+Finland,Gambia,0.35
+Finland,Georgia,1.51
+Finland,Ghana,0.98
+Finland,Guatemala,0.27
+Finland,Guinea,0.04
+Finland,Haiti,1.26
+Finland,Honduras,0.58
+Finland,India,3.77
+Finland,Indonesia,1.17
+Finland,Iraq,4.38
+Finland,Jordan,0.34
+Finland,Kazakhstan,0.04
+Finland,Kenya,10.67
+Finland,Kosovo,0.87
+Finland,Kyrgyzstan,0.79
+Finland,Lao People's Democratic Republic,1.14
+Finland,Lebanon,2.33
+Finland,Liberia,0.1
+Finland,Libya,0.82
+Finland,Madagascar,1.33
+Finland,Malawi,1.18
+Finland,Mali,1.14
+Finland,Mauritius,0.7
+Finland,Mexico,0.19
+Finland,Moldova,0.59
+Finland,Mongolia,0.44
+Finland,Morocco,0.26
+Finland,Mozambique,17.26
+Finland,Myanmar,15.24
+Finland,Namibia,0.76
+Finland,Nepal,23.08
+Finland,Nicaragua,0.28
+Finland,Niger,1.32
+Finland,Nigeria,0.17
+Finland,Peru,0.34
+Finland,Philippines,0.68
+Finland,Rwanda,0.22
+Finland,Saint Lucia,0.01
+Finland,Senegal,0.13
+Finland,Sierra Leone,0.51
+Finland,Somalia,22.360001
+Finland,South Africa,2.85
+Finland,South Sudan,6.86
+Finland,Sri Lanka,0.17
+Finland,States Ex-Yugoslavia unspecified,0.1
+Finland,Sudan,0.51
+Finland,Syrian Arab Republic,16.93
+Finland,Tajikistan,1.13
+Finland,Tanzania,20.74
+Finland,Thailand,2.3
+Finland,Tunisia,0.3
+Finland,Türkiye,3
+Finland,Uganda,6.37
+Finland,Ukraine,10.46
+Finland,Uzbekistan,0.08
+Finland,Vanuatu,0.01
+Finland,Viet Nam,3.5
+Finland,West Bank and Gaza Strip,10.19
+Finland,Yemen,4.47
+Finland,Zambia,4.5
+Finland,Zimbabwe,0.44
+France,Afghanistan,44.48
+France,Albania,6.49
+France,Algeria,100.029999
+France,Angola,29.700001
+France,Argentina,13.45
+France,Armenia,36.040001
+France,Azerbaijan,44.040001
+France,Bangladesh,175.899994
+France,Belarus,1.34
+France,Benin,84.690002
+France,Bhutan,0.04
+France,Bolivia,150.820007
+France,Bosnia and Herzegovina,2.77
+France,Botswana,1.52
+France,Brazil,470.279999
+France,Burkina Faso,126.980003
+France,Burundi,8.93
+France,Cabo Verde,1.19
+France,Cambodia,111.5
+France,Cameroon,135.740005
+France,Central African Republic,30.530001
+France,Chad,84.900002
+France,Colombia,300.029999
+France,Comoros,46.330002
+France,Congo,48.810001
+France,Costa Rica,5.59
+France,Cote d'Ivoire,359.540009
+France,Cuba,16.83
+France,Democratic People's Republic of Korea,0.4
+France,Democratic Republic of the Congo,35.23
+France,Djibouti,10.04
+France,Dominican Republic,264.290009
+France,Ecuador,40.389999
+France,Egypt,169.619995
+France,El Salvador,27.4
+France,Equatorial Guinea,2.67
+France,Eritrea,0.64
+France,Eswatini,0.15
+France,Ethiopia,43.919998
+France,Fiji,0.64
+France,Gabon,53.400002
+France,Gambia,1.04
+France,Georgia,194.679993
+France,Ghana,44.599998
+France,Grenada,0.05
+France,Guatemala,1.87
+France,Guinea,76.839996
+France,Guinea-Bissau,2.3
+France,Guyana,0.76
+France,Haiti,70.949997
+France,Honduras,0.29
+France,Indonesia,32.189999
+France,Iran,13.31
+France,Iraq,39.77
+France,Jordan,62.369999
+France,Kazakhstan,3.53
+France,Kenya,73.160004
+France,Kosovo,3.68
+France,Kyrgyzstan,1.7
+France,Lao People's Democratic Republic,12.85
+France,Lebanon,92.349998
+France,Lesotho,0.02
+France,Liberia,6.34
+France,Libya,6.74
+France,Madagascar,106.269997
+France,Malawi,2.97
+France,Malaysia,5.12
+France,Maldives,0.13
+France,Mali,119.690002
+France,Mexico,352.660004
+France,Moldova,3.78
+France,Mongolia,2.73
+France,Montenegro,0.62
+France,Morocco,250.369995
+France,Mozambique,45.68
+France,Myanmar,8.15
+France,Nepal,1.17
+France,Nicaragua,6.5
+France,Niger,125.910004
+France,Nigeria,117.720001
+France,North Macedonia,1.52
+France,Pakistan,45.119999
+France,Papua New Guinea,0.08
+France,Paraguay,30.629999
+France,Philippines,319.769989
+France,Rwanda,71.459999
+France,Saint Lucia,0.95
+France,Saint Vincent and the Grenadines,0.17
+France,Samoa,0.01
+France,Sao Tome and Principe,0.5
+France,Senegal,245.970001
+France,Serbia,71.709999
+France,Sierra Leone,1.65
+France,Somalia,20.809999
+France,South Africa,216
+France,South Sudan,5.11
+France,Sri Lanka,13.85
+France,States Ex-Yugoslavia unspecified,0.05
+France,Sudan,44.25
+France,Suriname,0.66
+France,Syrian Arab Republic,63.32
+France,Tajikistan,0.17
+France,Tanzania,40.189999
+France,Thailand,15.26
+France,Timor-Leste,0.18
+France,Togo,43.66
+France,Tonga,0.09
+France,Tunisia,145.699997
+France,Türkiye,45.25
+France,Turkmenistan,0.43
+France,Uganda,67.110001
+France,Ukraine,25.33
+France,Uzbekistan,16.51
+France,Vanuatu,4.94
+France,Venezuela,9.68
+France,Viet Nam,123.830002
+France,Wallis and Futuna,109.510002
+France,West Bank and Gaza Strip,69
+France,Yemen,12.56
+France,Zambia,4.69
+France,Zimbabwe,5.68
+Germany,Afghanistan,619.119995
+Germany,Albania,190.429993
+Germany,Algeria,30.91
+Germany,Angola,5.11
+Germany,Argentina,11.61
+Germany,Armenia,54.439999
+Germany,Bangladesh,133.880005
+Germany,Belarus,15.04
+Germany,Belize,0.11
+Germany,Benin,55.43
+Germany,Bhutan,2.66
+Germany,Bolivia,37.700001
+Germany,Bosnia and Herzegovina,48.610001
+Germany,Botswana,1.31
+Germany,Brazil,31.870001
+Germany,Burkina Faso,69.940002
+Germany,Burundi,30.85
+Germany,Cabo Verde,1.09
+Germany,Cambodia,55.09
+Germany,Cameroon,137.139999
+Germany,Central African Republic,69.269997
+Germany,Chad,37.610001
+Germany,China (People's Republic of),359.899994
+Germany,Colombia,286.640015
+Germany,Comoros,0.02
+Germany,Congo,0.7
+Germany,Costa Rica,3.12
+Germany,Cote d'Ivoire,92.739998
+Germany,Cuba,1.96
+Germany,Democratic People's Republic of Korea,1.98
+Germany,Democratic Republic of the Congo,191.199997
+Germany,Djibouti,0.18
+Germany,Dominica,0.12
+Germany,Dominican Republic,2.66
+Germany,Ecuador,42.84
+Germany,Equatorial Guinea,0.01
+Germany,Eritrea,3.84
+Germany,Eswatini,0.21
+Germany,Ethiopia,174.229996
+Germany,Fiji,1.33
+Germany,Gabon,0.78
+Germany,Gambia,2.15
+Germany,Georgia,256.450012
+Germany,Ghana,262.410004
+Germany,Grenada,0.73
+Germany,Guatemala,26.42
+Germany,Guinea,11.89
+Germany,Guinea-Bissau,0.31
+Germany,Guyana,0.77
+Germany,Haiti,7.21
+Germany,Honduras,19.860001
+Germany,India,710.73999
+Germany,Indonesia,210.410004
+Germany,Iran,111.139999
+Germany,Iraq,366.579987
+Germany,Jordan,438.480011
+Germany,Kazakhstan,3.83
+Germany,Kenya,88.970001
+Germany,Kosovo,30.59
+Germany,Kyrgyzstan,36.34
+Germany,Lao People's Democratic Republic,33.599998
+Germany,Lebanon,354.200012
+Germany,Lesotho,1.1
+Germany,Liberia,35.110001
+Germany,Libya,50.869999
+Germany,Madagascar,84
+Germany,Malawi,93.300003
+Germany,Malaysia,13.31
+Germany,Maldives,0.37
+Germany,Mali,118.360001
+Germany,Marshall Islands,1.56
+Germany,Mauritania,22.030001
+Germany,Mauritius,3.93
+Germany,Moldova,15.82
+Germany,Mongolia,18.120001
+Germany,Montenegro,0.2
+Germany,Morocco,201.779999
+Germany,Mozambique,97.75
+Germany,Myanmar,40.759998
+Germany,Namibia,58.450001
+Germany,Nepal,54.330002
+Germany,Nicaragua,7.79
+Germany,Niger,154.369995
+Germany,Nigeria,145.880005
+Germany,North Macedonia,6.82
+Germany,Pakistan,147.330002
+Germany,Palau,0.05
+Germany,Panama,0.95
+Germany,Papua New Guinea,2.36
+Germany,Paraguay,3.72
+Germany,Philippines,17.709999
+Germany,Rwanda,100.790001
+Germany,Saint Lucia,0.02
+Germany,Saint Vincent and the Grenadines,0.02
+Germany,Samoa,0.15
+Germany,Senegal,118.82
+Germany,Serbia,43.57
+Germany,Sierra Leone,22.41
+Germany,Solomon Islands,0.43
+Germany,Somalia,170.779999
+Germany,South Sudan,137.050003
+Germany,Sri Lanka,15.75
+Germany,Sudan,167.5
+Germany,Suriname,0.14
+Germany,Syrian Arab Republic,670.390015
+Germany,Tajikistan,12.85
+Germany,Tanzania,62.389999
+Germany,Thailand,19.42
+Germany,Timor-Leste,6.04
+Germany,Togo,67.550003
+Germany,Tonga,0.05
+Germany,Tunisia,383.320007
+Germany,Türkiye,144.199997
+Germany,Turkmenistan,1.42
+Germany,Uganda,82.599998
+Germany,Ukraine,223.660004
+Germany,Uzbekistan,18.959999
+Germany,Venezuela,24.1
+Germany,Viet Nam,123.849998
+Germany,Wallis and Futuna,0.01
+Germany,West Bank and Gaza Strip,292.98999
+Germany,Yemen,397.670013
+Germany,Zambia,47.509998
+Germany,Zimbabwe,44.02
+Greece,Albania,1.9
+Greece,Armenia,0.03
+Greece,Bosnia and Herzegovina,0.97
+Greece,China (People's Republic of),0.01
+Greece,Democratic Republic of the Congo,0.02
+Greece,Djibouti,0.34
+Greece,Egypt,2.83
+Greece,Ethiopia,0.02
+Greece,Gabon,0.34
+Greece,Georgia,0.02
+Greece,Ghana,1.04
+Greece,Haiti,0.12
+Greece,Indonesia,4.73
+Greece,Iran,1.03
+Greece,Iraq,0.07
+Greece,Jordan,1.04
+Greece,Kenya,3.77
+Greece,Lao People's Democratic Republic,2.03
+Greece,Lebanon,0.31
+Greece,Libya,1.83
+Greece,Niger,0.07
+Greece,North Macedonia,0.86
+Greece,Pakistan,0.87
+Greece,Rwanda,3.78
+Greece,Saint Vincent and the Grenadines,0.01
+Greece,Serbia,0.04
+Greece,Syrian Arab Republic,1.03
+Greece,Tunisia,0.67
+Greece,Türkiye,2.48
+Greece,Uganda,0.01
+Greece,Ukraine,0.71
+Greece,Venezuela,0.02
+Greece,Viet Nam,1.68
+Greece,West Bank and Gaza Strip,0.19
+Greece,Yemen,0.04
+Greece,Zimbabwe,0.02
+Hungary,Afghanistan,0.07
+Hungary,Albania,0.51
+Hungary,Algeria,1.46
+Hungary,Angola,0.76
+Hungary,Argentina,0.3
+Hungary,Armenia,0.65
+Hungary,Azerbaijan,4.28
+Hungary,Bangladesh,2.81
+Hungary,Belarus,0.61
+Hungary,Benin,0.03
+Hungary,Bosnia and Herzegovina,10.75
+Hungary,Brazil,3.89
+Hungary,Cabo Verde,9.87
+Hungary,Cambodia,0.33
+Hungary,Cameroon,0.02
+Hungary,China (People's Republic of),5.21
+Hungary,Colombia,0.72
+Hungary,Costa Rica,0.05
+Hungary,Cuba,0.2
+Hungary,Democratic Republic of the Congo,0.47
+Hungary,Ecuador,1.87
+Hungary,Egypt,3.64
+Hungary,Eritrea,0.11
+Hungary,Ethiopia,1.79
+Hungary,Fiji,0.02
+Hungary,Gambia,0.01
+Hungary,Georgia,1.23
+Hungary,Ghana,3.61
+Hungary,Guinea,0.01
+Hungary,India,4.22
+Hungary,Indonesia,2.33
+Hungary,Iran,7.14
+Hungary,Iraq,4.59
+Hungary,Jordan,10.08
+Hungary,Kazakhstan,4.9
+Hungary,Kenya,3.02
+Hungary,Kosovo,1.61
+Hungary,Kyrgyzstan,1.88
+Hungary,Lao People's Democratic Republic,3.66
+Hungary,Lebanon,5.81
+Hungary,Libya,0.05
+Hungary,Malaysia,0.41
+Hungary,Mali,0.1
+Hungary,Mauritania,0.07
+Hungary,Mauritius,0.01
+Hungary,Mexico,0.71
+Hungary,Moldova,2.18
+Hungary,Mongolia,6.73
+Hungary,Montenegro,8.19
+Hungary,Morocco,3.12
+Hungary,Mozambique,0.38
+Hungary,Myanmar,0.77
+Hungary,Namibia,0.06
+Hungary,Nepal,0.35
+Hungary,Nigeria,3.73
+Hungary,North Macedonia,0.44
+Hungary,Pakistan,4.99
+Hungary,Panama,0.05
+Hungary,Paraguay,0.01
+Hungary,Peru,0.06
+Hungary,Philippines,0.6
+Hungary,Rwanda,4.42
+Hungary,Sao Tome and Principe,0.02
+Hungary,Senegal,0.23
+Hungary,Serbia,5.3
+Hungary,South Africa,1.58
+Hungary,South Sudan,0.06
+Hungary,Sri Lanka,5.23
+Hungary,Sudan,0.52
+Hungary,Syrian Arab Republic,16.690001
+Hungary,Tajikistan,0.45
+Hungary,Tanzania,0.59
+Hungary,Thailand,0.46
+Hungary,Timor-Leste,0.02
+Hungary,Togo,8.02
+Hungary,Tunisia,5.41
+Hungary,Türkiye,5.48
+Hungary,Turkmenistan,0.34
+Hungary,Uganda,8.74
+Hungary,Ukraine,20.790001
+Hungary,Uzbekistan,0.51
+Hungary,Venezuela,0.01
+Hungary,Viet Nam,12.28
+Hungary,West Bank and Gaza Strip,2.14
+Hungary,Yemen,1.26
+Hungary,Zambia,0.02
+Hungary,Zimbabwe,0.06
+Iceland,Afghanistan,1.82
+Iceland,Belarus,0.22
+Iceland,Burkina Faso,0.22
+Iceland,Costa Rica,0.06
+Iceland,Democratic Republic of the Congo,0.24
+Iceland,Dominica,0.05
+Iceland,Egypt,0.05
+Iceland,El Salvador,0.08
+Iceland,Ethiopia,1.17
+Iceland,Guinea-Bissau,0.01
+Iceland,India,0.08
+Iceland,Jordan,0.24
+Iceland,Kazakhstan,0.18
+Iceland,Kenya,0.28
+Iceland,Lebanon,0.43
+Iceland,Liberia,0.37
+Iceland,Malawi,6.6
+Iceland,Mali,0.17
+Iceland,Namibia,0.1
+Iceland,Niger,0.17
+Iceland,Sao Tome and Principe,0.02
+Iceland,Senegal,0.01
+Iceland,Sierra Leone,2.78
+Iceland,Somalia,0.14
+Iceland,South Sudan,0.37
+Iceland,Syrian Arab Republic,0.95
+Iceland,Tanzania,0.01
+Iceland,Togo,0.03
+Iceland,Türkiye,0.34
+Iceland,Uganda,8.08
+Iceland,Ukraine,0.08
+Iceland,Viet Nam,0.01
+Iceland,West Bank and Gaza Strip,0.88
+Iceland,Yemen,1.14
+Ireland,Afghanistan,7.61
+Ireland,Albania,0.14
+Ireland,Argentina,0.01
+Ireland,Armenia,0.05
+Ireland,Bangladesh,2.57
+Ireland,Benin,0.02
+Ireland,Bolivia,0.11
+Ireland,Brazil,0.47
+Ireland,Burkina Faso,1.31
+Ireland,Burundi,2.5
+Ireland,Cambodia,1.42
+Ireland,Cameroon,1
+Ireland,Central African Republic,6.23
+Ireland,Chad,2.58
+Ireland,China (People's Republic of),0.05
+Ireland,Colombia,2.85
+Ireland,Congo,0.02
+Ireland,Cote d'Ivoire,0.02
+Ireland,Democratic People's Republic of Korea,0.59
+Ireland,Democratic Republic of the Congo,7.85
+Ireland,Ecuador,0.03
+Ireland,Egypt,0.03
+Ireland,Eritrea,1.44
+Ireland,Ethiopia,47.970001
+Ireland,Fiji,0.03
+Ireland,Georgia,0.45
+Ireland,Ghana,0.51
+Ireland,Guatemala,1.62
+Ireland,Guinea,0.42
+Ireland,Guinea-Bissau,0.31
+Ireland,Haiti,2.4
+Ireland,Honduras,1.37
+Ireland,India,1.55
+Ireland,Indonesia,0.08
+Ireland,Iraq,1.89
+Ireland,Jordan,3.47
+Ireland,Kenya,10.37
+Ireland,Kosovo,0.26
+Ireland,Lao People's Democratic Republic,1.29
+Ireland,Lebanon,4.62
+Ireland,Liberia,6.95
+Ireland,Libya,0.07
+Ireland,Madagascar,0.76
+Ireland,Malawi,20.6
+Ireland,Mali,1.12
+Ireland,Mauritania,0.4
+Ireland,Mexico,0.19
+Ireland,Mozambique,32.060001
+Ireland,Myanmar,2.86
+Ireland,Namibia,0.05
+Ireland,Nepal,1.06
+Ireland,Nicaragua,1.37
+Ireland,Niger,3.82
+Ireland,Nigeria,2.97
+Ireland,Papua New Guinea,0.01
+Ireland,Paraguay,0.03
+Ireland,Peru,0.64
+Ireland,Philippines,0.52
+Ireland,Rwanda,2.37
+Ireland,Saint Vincent and the Grenadines,0.24
+Ireland,Senegal,0.53
+Ireland,Sierra Leone,19.18
+Ireland,Solomon Islands,0.01
+Ireland,Somalia,8.53
+Ireland,South Africa,5.69
+Ireland,South Sudan,11.53
+Ireland,Sri Lanka,0.03
+Ireland,Sudan,6.39
+Ireland,Syrian Arab Republic,9.42
+Ireland,Tanzania,29.799999
+Ireland,Thailand,0.28
+Ireland,Togo,0.02
+Ireland,Tunisia,0.01
+Ireland,Türkiye,3.41
+Ireland,Turkmenistan,0.01
+Ireland,Uganda,28.780001
+Ireland,Ukraine,0.43
+Ireland,Venezuela,0.59
+Ireland,Viet Nam,4.29
+Ireland,West Bank and Gaza Strip,12.76
+Ireland,Yemen,7.57
+Ireland,Zambia,5.88
+Ireland,Zimbabwe,10.78
+Italy,Afghanistan,97.010002
+Italy,Albania,13.59
+Italy,Algeria,1.4
+Italy,Angola,3.96
+Italy,Armenia,0.23
+Italy,Azerbaijan,0.51
+Italy,Bangladesh,2.24
+Italy,Belarus,0.28
+Italy,Benin,5.5
+Italy,Bhutan,0.05
+Italy,Bolivia,4.1
+Italy,Bosnia and Herzegovina,4.98
+Italy,Brazil,12.84
+Italy,Burkina Faso,17.719999
+Italy,Burundi,4.17
+Italy,Cabo Verde,1.66
+Italy,Cambodia,0.29
+Italy,Cameroon,7.58
+Italy,Central African Republic,7.81
+Italy,Chad,5.34
+Italy,Colombia,3.79
+Italy,Congo,0.83
+Italy,Costa Rica,0.08
+Italy,Cote d'Ivoire,4.34
+Italy,Cuba,15.8
+Italy,Democratic People's Republic of Korea,0.02
+Italy,Democratic Republic of the Congo,12.13
+Italy,Djibouti,0.48
+Italy,Dominican Republic,0.09
+Italy,Ecuador,3.21
+Italy,Egypt,7.06
+Italy,El Salvador,2.6
+Italy,Eritrea,1.63
+Italy,Ethiopia,53.049999
+Italy,Gabon,0.12
+Italy,Gambia,0.91
+Italy,Georgia,0.19
+Italy,Ghana,1.17
+Italy,Guatemala,0.73
+Italy,Guinea,1.61
+Italy,Guinea-Bissau,0.57
+Italy,Haiti,2.37
+Italy,Honduras,0.07
+Italy,India,18.780001
+Italy,Indonesia,0.75
+Italy,Iran,3.94
+Italy,Iraq,12.21
+Italy,Jordan,60.889999
+Italy,Kazakhstan,0.25
+Italy,Kenya,12.18
+Italy,Kosovo,0.58
+Italy,Kyrgyzstan,0.05
+Italy,Lao People's Democratic Republic,0.13
+Italy,Lebanon,29.030001
+Italy,Libya,21.889999
+Italy,Madagascar,3
+Italy,Malawi,1.67
+Italy,Malaysia,0.02
+Italy,Mali,8.91
+Italy,Mauritania,1.24
+Italy,Mauritius,0.01
+Italy,Mexico,0.44
+Italy,Moldova,0.52
+Italy,Mongolia,0.08
+Italy,Montenegro,0.05
+Italy,Mozambique,22.92
+Italy,Myanmar,6.13
+Italy,Namibia,0.02
+Italy,Nepal,1.32
+Italy,Nicaragua,2.79
+Italy,Niger,22.690001
+Italy,Nigeria,4.1
+Italy,North Macedonia,0.11
+Italy,Pakistan,4.5
+Italy,Panama,0.01
+Italy,Papua New Guinea,0.14
+Italy,Paraguay,0.59
+Italy,Peru,2.97
+Italy,Philippines,0.85
+Italy,Rwanda,7.96
+Italy,Sao Tome and Principe,0.11
+Italy,Senegal,32.080002
+Italy,Serbia,0.42
+Italy,Sierra Leone,2
+Italy,Somalia,541.400024
+Italy,South Africa,1.28
+Italy,South Sudan,7.2
+Italy,Sri Lanka,1.78
+Italy,States Ex-Yugoslavia unspecified,1.18
+Italy,Sudan,32.099998
+Italy,Suriname,0.35
+Italy,Syrian Arab Republic,13.25
+Italy,Tanzania,7.88
+Italy,Thailand,0.3
+Italy,Timor-Leste,0.4
+Italy,Togo,1.97
+Italy,Tunisia,53.41
+Italy,Türkiye,24.49
+Italy,Turkmenistan,0.01
+Italy,Uganda,6.48
+Italy,Ukraine,1.6
+Italy,Uzbekistan,0.07
+Italy,Venezuela,0.34
+Italy,Viet Nam,5.97
+Italy,West Bank and Gaza Strip,34.860001
+Italy,Yemen,0.53
+Italy,Zambia,0.69
+Italy,Zimbabwe,0.22
+Japan,Afghanistan,212.529999
+Japan,Algeria,0.5
+Japan,Angola,7.99
+Japan,Antigua and Barbuda,1.86
+Japan,Argentina,6.96
+Japan,Bangladesh,1952.920044
+Japan,Belarus,0.16
+Japan,Belize,0.66
+Japan,Benin,8.83
+Japan,Bhutan,9.31
+Japan,Bolivia,23.58
+Japan,Bosnia and Herzegovina,3.34
+Japan,Botswana,8.83
+Japan,Brazil,247
+Japan,Burkina Faso,63.849998
+Japan,Burundi,11.18
+Japan,Cabo Verde,7.64
+Japan,Cambodia,459
+Japan,Cameroon,34.029999
+Japan,Central African Republic,6.45
+Japan,Chad,9.48
+Japan,Colombia,2.65
+Japan,Comoros,1
+Japan,Congo,8.78
+Japan,Cote d'Ivoire,34.259998
+Japan,Cuba,10.16
+Japan,Democratic Republic of the Congo,42.130001
+Japan,Djibouti,11.82
+Japan,Dominica,2.71
+Japan,Dominican Republic,0.36
+Japan,Ecuador,12.07
+Japan,Egypt,177.960007
+Japan,El Salvador,14.29
+Japan,Equatorial Guinea,0.12
+Japan,Eritrea,2.35
+Japan,Eswatini,5.51
+Japan,Ethiopia,60.959999
+Japan,Fiji,121.25
+Japan,Gabon,6.15
+Japan,Gambia,5.89
+Japan,Ghana,31.75
+Japan,Grenada,1.83
+Japan,Guatemala,11.9
+Japan,Guinea,9.84
+Japan,Guinea-Bissau,6.03
+Japan,Guyana,0.82
+Japan,Haiti,6.72
+Japan,Honduras,16.01
+Japan,India,2387.27002
+Japan,Iran,42.52
+Japan,Iraq,288.130005
+Japan,Jordan,75.43
+Japan,Kenya,228.520004
+Japan,Kiribati,1.37
+Japan,Kosovo,2.85
+Japan,Kyrgyzstan,12.62
+Japan,Lao People's Democratic Republic,48.849998
+Japan,Lebanon,10.32
+Japan,Lesotho,4.04
+Japan,Liberia,17.860001
+Japan,Libya,14.71
+Japan,Madagascar,41.68
+Japan,Malawi,19.67
+Japan,Maldives,26.219999
+Japan,Mali,16.309999
+Japan,Marshall Islands,1.09
+Japan,Mauritania,8.13
+Japan,Mauritius,286.75
+Japan,Mexico,5.1
+Japan,Micronesia,2.67
+Japan,Moldova,2.22
+Japan,Mongolia,19.049999
+Japan,Montenegro,0.58
+Japan,Morocco,147.779999
+Japan,Mozambique,69.699997
+Japan,Myanmar,404.429993
+Japan,Namibia,4
+Japan,Nauru,1.14
+Japan,Nepal,91.139999
+Japan,Nicaragua,17.18
+Japan,Niger,22.059999
+Japan,Nigeria,25.709999
+Japan,Niue,1.03
+Japan,Pakistan,75.949997
+Japan,Palau,13.95
+Japan,Panama,66.010002
+Japan,Papua New Guinea,345.670013
+Japan,Paraguay,11.87
+Japan,Philippines,732.909973
+Japan,Rwanda,70.93
+Japan,Saint Lucia,6.39
+Japan,Saint Vincent and the Grenadines,3.49
+Japan,Samoa,8.55
+Japan,Sao Tome and Principe,3.83
+Japan,Senegal,39.5
+Japan,Serbia,61.549999
+Japan,Sierra Leone,16.059999
+Japan,Solomon Islands,51.169998
+Japan,Somalia,21.74
+Japan,South Africa,6.36
+Japan,South Sudan,41.709999
+Japan,Sudan,48.939999
+Japan,Suriname,0.12
+Japan,Syrian Arab Republic,87.650002
+Japan,Tajikistan,30.280001
+Japan,Tanzania,41.740002
+Japan,Timor-Leste,21.700001
+Japan,Togo,4.04
+Japan,Tonga,13.72
+Japan,Tunisia,9.97
+Japan,Turkmenistan,1.21
+Japan,Tuvalu,3.18
+Japan,Uganda,62.73
+Japan,Uzbekistan,348.369995
+Japan,Vanuatu,5.21
+Japan,Venezuela,4.98
+Japan,West Bank and Gaza Strip,91.360001
+Japan,Yemen,66.769997
+Japan,Zambia,26.459999
+Japan,Zimbabwe,17.620001
+Korea,Afghanistan,28.43
+Korea,Algeria,2.16
+Korea,Angola,5.99
+Korea,Argentina,0.16
+Korea,Armenia,0.67
+Korea,Azerbaijan,4.84
+Korea,Bangladesh,224.139999
+Korea,Belarus,1.59
+Korea,Belize,0.04
+Korea,Benin,0.3
+Korea,Bhutan,2.96
+Korea,Bolivia,9.44
+Korea,Botswana,0.32
+Korea,Brazil,0.97
+Korea,Burkina Faso,1.75
+Korea,Burundi,0.34
+Korea,Cabo Verde,0.21
+Korea,Cambodia,113.080002
+Korea,Cameroon,30.25
+Korea,Central African Republic,2.09
+Korea,Chad,4.38
+Korea,Colombia,125.519997
+Korea,Comoros,1
+Korea,Costa Rica,3.41
+Korea,Cote d'Ivoire,35.52
+Korea,Cuba,1.13
+Korea,Democratic Republic of the Congo,24.43
+Korea,Djibouti,0.2
+Korea,Dominican Republic,52.27
+Korea,Ecuador,10.88
+Korea,Egypt,74.849998
+Korea,El Salvador,23.610001
+Korea,Equatorial Guinea,0.44
+Korea,Eswatini,0.19
+Korea,Ethiopia,87.779999
+Korea,Fiji,5.57
+Korea,Gabon,0.66
+Korea,Gambia,1.23
+Korea,Georgia,1.39
+Korea,Ghana,39.740002
+Korea,Guatemala,9.57
+Korea,Guinea,0.92
+Korea,Guyana,0.69
+Korea,Haiti,2.31
+Korea,Honduras,10.54
+Korea,India,7.51
+Korea,Indonesia,54.25
+Korea,Iran,9.96
+Korea,Iraq,13.53
+Korea,Jamaica,0.79
+Korea,Jordan,11.37
+Korea,Kazakhstan,2.11
+Korea,Kenya,35.68
+Korea,Kiribati,3.67
+Korea,Kyrgyzstan,10.31
+Korea,Lao People's Democratic Republic,57.75
+Korea,Lebanon,3.71
+Korea,Lesotho,0.02
+Korea,Liberia,0.46
+Korea,Libya,0.15
+Korea,Madagascar,4.05
+Korea,Malawi,3.88
+Korea,Malaysia,3.26
+Korea,Maldives,0.02
+Korea,Mali,1
+Korea,Marshall Islands,0.74
+Korea,Mauritania,0.17
+Korea,Mauritius,0.23
+Korea,Mexico,1.4
+Korea,Micronesia,0.69
+Korea,Moldova,0.45
+Korea,Mongolia,30.129999
+Korea,Montenegro,0.37
+Korea,Morocco,4.65
+Korea,Mozambique,19.48
+Korea,Myanmar,39.380001
+Korea,Namibia,0.3
+Korea,Nepal,13.41
+Korea,Nicaragua,20.33
+Korea,Niger,2.29
+Korea,Nigeria,5.66
+Korea,North Macedonia,0.01
+Korea,Pakistan,20.43
+Korea,Palau,0.39
+Korea,Papua New Guinea,1.41
+Korea,Paraguay,30.83
+Korea,Peru,11.96
+Korea,Philippines,178.479996
+Korea,Rwanda,25.969999
+Korea,Saint Vincent and the Grenadines,0.25
+Korea,Samoa,1.48
+Korea,Sao Tome and Principe,0.18
+Korea,Senegal,26.07
+Korea,Serbia,1.32
+Korea,Sierra Leone,7.76
+Korea,Solomon Islands,0.79
+Korea,Somalia,0.85
+Korea,South Africa,0.23
+Korea,South Sudan,4.03
+Korea,Sri Lanka,8.42
+Korea,Sudan,5.93
+Korea,Suriname,0.23
+Korea,Syrian Arab Republic,6.68
+Korea,Tajikistan,6.26
+Korea,Tanzania,56.07
+Korea,Thailand,7.81
+Korea,Timor-Leste,14.61
+Korea,Togo,2.58
+Korea,Tonga,0.17
+Korea,Tunisia,3.18
+Korea,Türkiye,1.91
+Korea,Turkmenistan,1.25
+Korea,Tuvalu,0.84
+Korea,Uganda,29.91
+Korea,Ukraine,1.51
+Korea,Uzbekistan,38.32
+Korea,Vanuatu,0.54
+Korea,Venezuela,1.13
+Korea,Viet Nam,63.34
+Korea,West Bank and Gaza Strip,2.72
+Korea,Yemen,20.379999
+Korea,Zambia,1.26
+Korea,Zimbabwe,1.75
+Lithuania,Afghanistan,0.24
+Lithuania,Albania,0.01
+Lithuania,Algeria,0.01
+Lithuania,Armenia,0.73
+Lithuania,Azerbaijan,0.24
+Lithuania,Bangladesh,0.02
+Lithuania,Belarus,3.47
+Lithuania,Bhutan,0.02
+Lithuania,Brazil,0.01
+Lithuania,Cameroon,0.01
+Lithuania,China (People's Republic of),0.04
+Lithuania,Colombia,0.03
+Lithuania,Costa Rica,0.01
+Lithuania,Cote d'Ivoire,0.06
+Lithuania,Ethiopia,0.13
+Lithuania,Georgia,1.56
+Lithuania,India,0.18
+Lithuania,Indonesia,0.01
+Lithuania,Iran,0.02
+Lithuania,Iraq,0.13
+Lithuania,Kazakhstan,0.18
+Lithuania,Lebanon,0.02
+Lithuania,Mali,0.12
+Lithuania,Mexico,0.02
+Lithuania,Moldova,0.29
+Lithuania,Mongolia,0.05
+Lithuania,Morocco,0.01
+Lithuania,Nepal,0.07
+Lithuania,Nigeria,0.19
+Lithuania,Pakistan,0.04
+Lithuania,Serbia,0.01
+Lithuania,Somalia,0.08
+Lithuania,South Africa,0.01
+Lithuania,Syrian Arab Republic,0.06
+Lithuania,Tajikistan,0.41
+Lithuania,Thailand,0.01
+Lithuania,Türkiye,0.63
+Lithuania,Ukraine,2.99
+Lithuania,Uzbekistan,0.02
+Lithuania,Venezuela,0.06
+Lithuania,Viet Nam,1.3
+Lithuania,West Bank and Gaza Strip,0.04
+Lithuania,Yemen,0.12
+Luxembourg,Afghanistan,9.53
+Luxembourg,Albania,0.2
+Luxembourg,Algeria,0.04
+Luxembourg,Argentina,0.27
+Luxembourg,Azerbaijan,0.11
+Luxembourg,Bangladesh,4.53
+Luxembourg,Belarus,0.01
+Luxembourg,Benin,1.68
+Luxembourg,Bolivia,0.62
+Luxembourg,Bosnia and Herzegovina,0.14
+Luxembourg,Brazil,1.28
+Luxembourg,Burkina Faso,33.150002
+Luxembourg,Burundi,0.67
+Luxembourg,Cabo Verde,22.09
+Luxembourg,Cambodia,1.27
+Luxembourg,Cameroon,0.35
+Luxembourg,Central African Republic,1.4
+Luxembourg,Chad,0.98
+Luxembourg,China (People's Republic of),0.04
+Luxembourg,Colombia,0.44
+Luxembourg,Cote d'Ivoire,0.14
+Luxembourg,Cuba,0.04
+Luxembourg,Democratic Republic of the Congo,4.54
+Luxembourg,Ecuador,0.05
+Luxembourg,Egypt,0.11
+Luxembourg,El Salvador,0.67
+Luxembourg,Ethiopia,3.01
+Luxembourg,Georgia,0.09
+Luxembourg,Ghana,0.08
+Luxembourg,Guatemala,0.41
+Luxembourg,Guinea,0.34
+Luxembourg,Haiti,1.58
+Luxembourg,Honduras,0.08
+Luxembourg,India,1
+Luxembourg,Indonesia,0.06
+Luxembourg,Iraq,3.1
+Luxembourg,Jordan,1.67
+Luxembourg,Kazakhstan,0.04
+Luxembourg,Kenya,0.26
+Luxembourg,Kosovo,7.98
+Luxembourg,Lao People's Democratic Republic,20.370001
+Luxembourg,Lebanon,0.7
+Luxembourg,Libya,0.25
+Luxembourg,Madagascar,1.16
+Luxembourg,Malawi,0.82
+Luxembourg,Mali,21.440001
+Luxembourg,Mexico,0.01
+Luxembourg,Moldova,0.1
+Luxembourg,Mongolia,0.79
+Luxembourg,Montenegro,0.14
+Luxembourg,Mozambique,0.09
+Luxembourg,Myanmar,5.49
+Luxembourg,Nepal,2.89
+Luxembourg,Nicaragua,1.04
+Luxembourg,Niger,36.200001
+Luxembourg,Nigeria,1.4
+Luxembourg,North Macedonia,0.16
+Luxembourg,Paraguay,0.12
+Luxembourg,Peru,0.46
+Luxembourg,Philippines,0.5
+Luxembourg,Rwanda,1.67
+Luxembourg,Senegal,28.040001
+Luxembourg,Serbia,0.16
+Luxembourg,Somalia,1.22
+Luxembourg,South Africa,0.26
+Luxembourg,South Sudan,4.95
+Luxembourg,Sri Lanka,0.09
+Luxembourg,Syrian Arab Republic,6.08
+Luxembourg,Tanzania,0.45
+Luxembourg,Thailand,0.17
+Luxembourg,Togo,1.52
+Luxembourg,Tunisia,0.36
+Luxembourg,Türkiye,0.46
+Luxembourg,Uganda,0.63
+Luxembourg,Ukraine,1.18
+Luxembourg,Uzbekistan,0.08
+Luxembourg,Viet Nam,0.85
+Luxembourg,West Bank and Gaza Strip,4.99
+Luxembourg,Yemen,3.01
+Luxembourg,Zambia,0.38
+Netherlands,Afghanistan,31.549999
+Netherlands,Albania,0.17
+Netherlands,Algeria,0.23
+Netherlands,Angola,0.15
+Netherlands,Argentina,0.17
+Netherlands,Armenia,0.29
+Netherlands,Azerbaijan,0.18
+Netherlands,Bangladesh,30.07
+Netherlands,Belarus,0.86
+Netherlands,Benin,41.48
+Netherlands,Bosnia and Herzegovina,0.13
+Netherlands,Brazil,0.29
+Netherlands,Burkina Faso,31.59
+Netherlands,Burundi,37.73
+Netherlands,Cambodia,0.15
+Netherlands,Central African Republic,4.84
+Netherlands,China (People's Republic of),3.36
+Netherlands,Colombia,4.01
+Netherlands,Congo,0.52
+Netherlands,Costa Rica,0.44
+Netherlands,Cote d'Ivoire,0.02
+Netherlands,Cuba,0.29
+Netherlands,Democratic Republic of the Congo,25.450001
+Netherlands,Dominican Republic,0.03
+Netherlands,El Salvador,0.12
+Netherlands,Ethiopia,75.660004
+Netherlands,Gambia,0.05
+Netherlands,Georgia,0.59
+Netherlands,Ghana,9.26
+Netherlands,Haiti,0.35
+Netherlands,India,0.49
+Netherlands,Iraq,29.290001
+Netherlands,Jordan,15.09
+Netherlands,Kazakhstan,0.45
+Netherlands,Kenya,10.62
+Netherlands,Kosovo,0.12
+Netherlands,Kyrgyzstan,0.12
+Netherlands,Lao People's Democratic Republic,0.03
+Netherlands,Lebanon,22.99
+Netherlands,Liberia,0.06
+Netherlands,Libya,2.39
+Netherlands,Mali,50.490002
+Netherlands,Mexico,0.12
+Netherlands,Mongolia,0.31
+Netherlands,Morocco,0.42
+Netherlands,Mozambique,30.139999
+Netherlands,Myanmar,2.29
+Netherlands,Nicaragua,0.07
+Netherlands,Niger,25.870001
+Netherlands,Nigeria,14.12
+Netherlands,North Macedonia,0.27
+Netherlands,Pakistan,3.27
+Netherlands,Panama,0.02
+Netherlands,Philippines,0.65
+Netherlands,Rwanda,21.66
+Netherlands,Senegal,1.15
+Netherlands,Serbia,0.17
+Netherlands,Somalia,21.690001
+Netherlands,South Africa,0.41
+Netherlands,South Sudan,33.080002
+Netherlands,Sri Lanka,0.18
+Netherlands,Sudan,9.65
+Netherlands,Suriname,2.6
+Netherlands,Syrian Arab Republic,8.13
+Netherlands,Tanzania,0.31
+Netherlands,Thailand,0.08
+Netherlands,Tunisia,15.16
+Netherlands,Türkiye,1.2
+Netherlands,Uganda,37.650002
+Netherlands,Ukraine,1.07
+Netherlands,Venezuela,2.37
+Netherlands,Viet Nam,0.27
+Netherlands,West Bank and Gaza Strip,34.709999
+Netherlands,Yemen,30.959999
+Netherlands,Zimbabwe,1.77
+New Zealand,Afghanistan,4.24
+New Zealand,Algeria,0.03
+New Zealand,Angola,0.02
+New Zealand,Argentina,0.07
+New Zealand,Bangladesh,0.07
+New Zealand,Bhutan,0.2
+New Zealand,Bolivia,0.09
+New Zealand,Botswana,0.2
+New Zealand,Brazil,0.12
+New Zealand,Cambodia,8.69
+New Zealand,China (People's Republic of),0.24
+New Zealand,Colombia,0.48
+New Zealand,Costa Rica,0.06
+New Zealand,Cuba,0.03
+New Zealand,Dominica,0.04
+New Zealand,Dominican Republic,0.01
+New Zealand,Ecuador,0.01
+New Zealand,Egypt,0.33
+New Zealand,El Salvador,0.02
+New Zealand,Eswatini,0.08
+New Zealand,Ethiopia,3.56
+New Zealand,Fiji,80.599998
+New Zealand,Ghana,0.3
+New Zealand,Grenada,0.06
+New Zealand,Guatemala,0.07
+New Zealand,Guyana,0.05
+New Zealand,Haiti,0.71
+New Zealand,India,0.94
+New Zealand,Indonesia,10.52
+New Zealand,Iraq,2.63
+New Zealand,Jamaica,0.15
+New Zealand,Jordan,0.05
+New Zealand,Kenya,0.71
+New Zealand,Kiribati,23.73
+New Zealand,Lao People's Democratic Republic,4.78
+New Zealand,Lesotho,0.02
+New Zealand,Malawi,0.24
+New Zealand,Malaysia,0.11
+New Zealand,Marshall Islands,1.23
+New Zealand,Mauritius,0.01
+New Zealand,Mexico,0.11
+New Zealand,Micronesia,1
+New Zealand,Mongolia,0.08
+New Zealand,Mozambique,0.02
+New Zealand,Myanmar,17.969999
+New Zealand,Namibia,0.09
+New Zealand,Nauru,3.14
+New Zealand,Nepal,1.19
+New Zealand,Nicaragua,0.03
+New Zealand,Nigeria,0.25
+New Zealand,Niue,23.790001
+New Zealand,Palau,0.95
+New Zealand,Panama,0.05
+New Zealand,Papua New Guinea,23.75
+New Zealand,Paraguay,0.01
+New Zealand,Peru,0.07
+New Zealand,Philippines,2.19
+New Zealand,Rwanda,1.04
+New Zealand,Saint Lucia,0.17
+New Zealand,Saint Vincent and the Grenadines,0.17
+New Zealand,Samoa,25.620001
+New Zealand,Solomon Islands,29.58
+New Zealand,South Africa,0.12
+New Zealand,South Sudan,2.83
+New Zealand,Sri Lanka,0.65
+New Zealand,Suriname,0.01
+New Zealand,Syrian Arab Republic,1.41
+New Zealand,Tanzania,0.11
+New Zealand,Thailand,0.24
+New Zealand,Timor-Leste,13.29
+New Zealand,Tokelau,14.21
+New Zealand,Tonga,15.28
+New Zealand,Tuvalu,5.51
+New Zealand,Uganda,0.09
+New Zealand,Vanuatu,25.82
+New Zealand,Venezuela,1.06
+New Zealand,Viet Nam,2.09
+New Zealand,West Bank and Gaza Strip,0.71
+New Zealand,Yemen,2.48
+New Zealand,Zambia,0.92
+New Zealand,Zimbabwe,0.13
+Norway,Afghanistan,80.169998
+Norway,Albania,0.12
+Norway,Algeria,1.16
+Norway,Angola,6.18
+Norway,Argentina,0.08
+Norway,Armenia,0.04
+Norway,Bangladesh,17.860001
+Norway,Belarus,0.47
+Norway,Benin,0.67
+Norway,Bhutan,0.07
+Norway,Bolivia,2.12
+Norway,Bosnia and Herzegovina,3.99
+Norway,Botswana,0.05
+Norway,Brazil,25.65
+Norway,Burkina Faso,7.77
+Norway,Burundi,3.15
+Norway,Cambodia,4.71
+Norway,Cameroon,2.98
+Norway,Central African Republic,7.28
+Norway,China (People's Republic of),8.88
+Norway,Colombia,72.160004
+Norway,Congo,0.9
+Norway,Cote d'Ivoire,0.19
+Norway,Cuba,1.04
+Norway,Democratic People's Republic of Korea,0.47
+Norway,Democratic Republic of the Congo,30.43
+Norway,Djibouti,0.3
+Norway,Ecuador,2.36
+Norway,Egypt,2.94
+Norway,El Salvador,0.68
+Norway,Eswatini,0.93
+Norway,Ethiopia,88.339996
+Norway,Gabon,17.65
+Norway,Gambia,0.24
+Norway,Georgia,5.69
+Norway,Ghana,6
+Norway,Guatemala,5.3
+Norway,Guinea,0.16
+Norway,Guinea-Bissau,0.08
+Norway,Guyana,4.24
+Norway,Haiti,5.79
+Norway,Honduras,1.28
+Norway,India,10.62
+Norway,Indonesia,30.35
+Norway,Iran,1.87
+Norway,Iraq,25.709999
+Norway,Jordan,22.309999
+Norway,Kenya,10.71
+Norway,Kiribati,0.01
+Norway,Kosovo,4.94
+Norway,Kyrgyzstan,0.35
+Norway,Lao People's Democratic Republic,2.11
+Norway,Lebanon,53.959999
+Norway,Lesotho,0.23
+Norway,Liberia,3.15
+Norway,Libya,3.43
+Norway,Madagascar,9
+Norway,Malawi,53.630001
+Norway,Mali,27.690001
+Norway,Moldova,1.08
+Norway,Mongolia,0.29
+Norway,Montenegro,1.36
+Norway,Morocco,0.83
+Norway,Mozambique,59.82
+Norway,Myanmar,32
+Norway,Namibia,0.48
+Norway,Nepal,39.68
+Norway,Nicaragua,1.77
+Norway,Niger,17.540001
+Norway,Nigeria,17.139999
+Norway,North Macedonia,0.71
+Norway,Pakistan,11.83
+Norway,Papua New Guinea,1.38
+Norway,Peru,11.27
+Norway,Philippines,1.93
+Norway,Rwanda,6.15
+Norway,Saint Vincent and the Grenadines,0.15
+Norway,Senegal,0.19
+Norway,Serbia,3.87
+Norway,Sierra Leone,1.85
+Norway,Somalia,61.290001
+Norway,South Africa,4.44
+Norway,South Sudan,70.529999
+Norway,Sri Lanka,6.95
+Norway,States Ex-Yugoslavia unspecified,1.12
+Norway,Sudan,27.08
+Norway,Syrian Arab Republic,104.190002
+Norway,Tajikistan,2.28
+Norway,Tanzania,45.700001
+Norway,Thailand,0.85
+Norway,Timor-Leste,0.33
+Norway,Togo,0.56
+Norway,Tunisia,0.2
+Norway,Türkiye,4.67
+Norway,Uganda,32.82
+Norway,Ukraine,18.5
+Norway,Venezuela,8.61
+Norway,Viet Nam,3.67
+Norway,West Bank and Gaza Strip,80.760002
+Norway,Yemen,25.17
+Norway,Zambia,5.51
+Norway,Zimbabwe,5.52
+Poland,Afghanistan,1.03
+Poland,Albania,0.16
+Poland,Algeria,0.28
+Poland,Antigua and Barbuda,0.01
+Poland,Argentina,0.04
+Poland,Armenia,1.81
+Poland,Azerbaijan,2.62
+Poland,Bangladesh,17.5
+Poland,Belarus,56.27
+Poland,Belize,0.01
+Poland,Benin,0.01
+Poland,Bolivia,0.04
+Poland,Botswana,0.02
+Poland,Brazil,0.52
+Poland,Burundi,0.12
+Poland,Cambodia,0.02
+Poland,Cameroon,0.51
+Poland,Colombia,0.42
+Poland,Comoros,0.05
+Poland,Congo,0.08
+Poland,Costa Rica,0.03
+Poland,Cote d'Ivoire,0.02
+Poland,Cuba,0.04
+Poland,Democratic People's Republic of Korea,0.04
+Poland,Democratic Republic of the Congo,0.1
+Poland,Dominican Republic,0.02
+Poland,Ecuador,0.2
+Poland,Egypt,3.51
+Poland,El Salvador,0.04
+Poland,Eritrea,0.04
+Poland,Eswatini,0.01
+Poland,Ethiopia,2.2
+Poland,Gambia,0.02
+Poland,Georgia,4.64
+Poland,Ghana,0.54
+Poland,Guatemala,0.02
+Poland,Guinea,0.01
+Poland,Haiti,0.01
+Poland,India,6.91
+Poland,Indonesia,1.23
+Poland,Iran,7.17
+Poland,Iraq,2.09
+Poland,Jamaica,0.03
+Poland,Jordan,0.8
+Poland,Kazakhstan,1.91
+Poland,Kenya,3.96
+Poland,Kosovo,0.91
+Poland,Kyrgyzstan,0.47
+Poland,Lao People's Democratic Republic,3.32
+Poland,Lebanon,2.58
+Poland,Liberia,0.04
+Poland,Libya,0.1
+Poland,Madagascar,0.06
+Poland,Malawi,0.03
+Poland,Malaysia,0.33
+Poland,Mali,0.02
+Poland,Mauritius,0.02
+Poland,Mexico,0.48
+Poland,Moldova,2.42
+Poland,Mongolia,0.28
+Poland,Morocco,0.41
+Poland,Mozambique,0.04
+Poland,Myanmar,0.16
+Poland,Namibia,0.04
+Poland,Nepal,0.16
+Poland,Niger,0.93
+Poland,Nigeria,4.98
+Poland,North Macedonia,1.15
+Poland,Pakistan,1.37
+Poland,Panama,0.02
+Poland,Papua New Guinea,0.03
+Poland,Peru,0.2
+Poland,Philippines,2.99
+Poland,Rwanda,2.14
+Poland,Senegal,0.34
+Poland,Serbia,0.12
+Poland,Sierra Leone,0.04
+Poland,Somalia,1.86
+Poland,South Africa,0.16
+Poland,South Sudan,0.19
+Poland,Sri Lanka,0.17
+Poland,Sudan,0.08
+Poland,Syrian Arab Republic,1.66
+Poland,Tajikistan,0.25
+Poland,Tanzania,3.03
+Poland,Thailand,0.8
+Poland,Togo,0.01
+Poland,Tunisia,3.5
+Poland,Türkiye,9.38
+Poland,Turkmenistan,0.15
+Poland,Uganda,0.14
+Poland,Ukraine,94.889999
+Poland,Uzbekistan,1.87
+Poland,Venezuela,0.12
+Poland,Viet Nam,11.29
+Poland,West Bank and Gaza Strip,1.52
+Poland,Yemen,0.78
+Poland,Zambia,0.03
+Poland,Zimbabwe,0.87
+Portugal,Afghanistan,3.43
+Portugal,Albania,0.01
+Portugal,Algeria,0.3
+Portugal,Angola,17.84
+Portugal,Argentina,0.39
+Portugal,Armenia,0.01
+Portugal,Botswana,0.04
+Portugal,Brazil,8.19
+Portugal,Cabo Verde,10.49
+Portugal,Central African Republic,1.03
+Portugal,China (People's Republic of),1.39
+Portugal,Colombia,1.05
+Portugal,Congo,0.01
+Portugal,Cote d'Ivoire,0.4
+Portugal,Cuba,0.19
+Portugal,Ecuador,0.04
+Portugal,Egypt,2.54
+Portugal,El Salvador,0.11
+Portugal,Equatorial Guinea,0.11
+Portugal,Eswatini,0.05
+Portugal,Ethiopia,1.25
+Portugal,Georgia,0.1
+Portugal,Ghana,0.12
+Portugal,Guinea,0.06
+Portugal,Guinea-Bissau,19.65
+Portugal,Honduras,0.01
+Portugal,India,0.37
+Portugal,Indonesia,0.03
+Portugal,Iran,0.01
+Portugal,Iraq,0.12
+Portugal,Kenya,0.07
+Portugal,Kosovo,0.01
+Portugal,Malaysia,0.01
+Portugal,Mali,0.27
+Portugal,Mauritius,0.01
+Portugal,Mexico,0.23
+Portugal,Morocco,0.29
+Portugal,Mozambique,23.040001
+Portugal,Namibia,0.19
+Portugal,Nigeria,0.16
+Portugal,North Macedonia,0.02
+Portugal,Panama,0.02
+Portugal,Peru,0.03
+Portugal,Rwanda,3.21
+Portugal,Sao Tome and Principe,14.84
+Portugal,Senegal,2.59
+Portugal,Serbia,0.05
+Portugal,Somalia,0.11
+Portugal,South Africa,1.02
+Portugal,South Sudan,0.46
+Portugal,Syrian Arab Republic,3.12
+Portugal,Tanzania,0.03
+Portugal,Thailand,0.09
+Portugal,Timor-Leste,17.17
+Portugal,Tunisia,0.09
+Portugal,Türkiye,0.11
+Portugal,Ukraine,0.37
+Portugal,Vanuatu,0.1
+Portugal,Venezuela,0.44
+Portugal,Viet Nam,1.12
+Portugal,West Bank and Gaza Strip,0.02
+Portugal,Zimbabwe,0.05
+Slovak Republic,Afghanistan,0.68
+Slovak Republic,Albania,0.27
+Slovak Republic,Algeria,1.4
+Slovak Republic,Armenia,1.39
+Slovak Republic,Azerbaijan,0.01
+Slovak Republic,Belarus,0.51
+Slovak Republic,Bosnia and Herzegovina,0.35
+Slovak Republic,Cambodia,0.02
+Slovak Republic,Congo,1.4
+Slovak Republic,Ethiopia,0.13
+Slovak Republic,Georgia,0.96
+Slovak Republic,Ghana,0.01
+Slovak Republic,Indonesia,1.25
+Slovak Republic,Iran,0.01
+Slovak Republic,Iraq,0.27
+Slovak Republic,Jordan,0.02
+Slovak Republic,Kenya,2.32
+Slovak Republic,Kosovo,0.28
+Slovak Republic,Kyrgyzstan,0.01
+Slovak Republic,Lebanon,1.07
+Slovak Republic,Lesotho,0.03
+Slovak Republic,Moldova,0.94
+Slovak Republic,Montenegro,1.27
+Slovak Republic,North Macedonia,0.31
+Slovak Republic,Rwanda,3.44
+Slovak Republic,Serbia,1.79
+Slovak Republic,Somalia,0.08
+Slovak Republic,South Sudan,0.17
+Slovak Republic,Sudan,0.03
+Slovak Republic,Syrian Arab Republic,0.5
+Slovak Republic,Türkiye,1.13
+Slovak Republic,Uganda,0.18
+Slovak Republic,Ukraine,1.54
+Slovak Republic,Uzbekistan,0.02
+Slovak Republic,Venezuela,0.04
+Slovak Republic,Viet Nam,0.36
+Slovak Republic,West Bank and Gaza Strip,0.09
+Slovak Republic,Yemen,1.4
+Slovenia,Afghanistan,0.49
+Slovenia,Albania,0.08
+Slovenia,Angola,1.01
+Slovenia,Belarus,0.02
+Slovenia,Bosnia and Herzegovina,7.44
+Slovenia,Brazil,0.04
+Slovenia,Cabo Verde,1.02
+Slovenia,Comoros,0.01
+Slovenia,Congo,1.55
+Slovenia,Cuba,0.2
+Slovenia,Democratic Republic of the Congo,0.05
+Slovenia,Egypt,1.71
+Slovenia,Georgia,0.2
+Slovenia,Ghana,0.09
+Slovenia,Haiti,0.24
+Slovenia,India,0.1
+Slovenia,Indonesia,0.47
+Slovenia,Jordan,0.07
+Slovenia,Kenya,0.63
+Slovenia,Kosovo,1.05
+Slovenia,Kyrgyzstan,0.05
+Slovenia,Lebanon,0.33
+Slovenia,Madagascar,0.34
+Slovenia,Montenegro,1.47
+Slovenia,Nepal,0.22
+Slovenia,Nigeria,2.62
+Slovenia,North Macedonia,7.25
+Slovenia,Rwanda,0.08
+Slovenia,Serbia,5.76
+Slovenia,South Sudan,0.05
+Slovenia,States Ex-Yugoslavia unspecified,0.37
+Slovenia,Sudan,0.08
+Slovenia,Syrian Arab Republic,0.21
+Slovenia,Tunisia,0.03
+Slovenia,Türkiye,0.51
+Slovenia,Uganda,1.17
+Slovenia,Ukraine,1.02
+Slovenia,West Bank and Gaza Strip,0.28
+Slovenia,Yemen,0.13
+Spain,Afghanistan,9.32
+Spain,Angola,18.389999
+Spain,Antigua and Barbuda,0.13
+Spain,Argentina,8.32
+Spain,Azerbaijan,0.01
+Spain,Bangladesh,1.08
+Spain,Belarus,0.01
+Spain,Benin,0.26
+Spain,Bolivia,42.419998
+Spain,Brazil,6.93
+Spain,Burkina Faso,4.43
+Spain,Burundi,1.8
+Spain,Cabo Verde,0.67
+Spain,Central African Republic,0.7
+Spain,Chad,7.1
+Spain,Colombia,82.830002
+Spain,Congo,1.06
+Spain,Costa Rica,6.28
+Spain,Cote d'Ivoire,11.48
+Spain,Cuba,6.43
+Spain,Democratic Republic of the Congo,6.17
+Spain,Dominica,0.01
+Spain,Dominican Republic,1.55
+Spain,Ecuador,9.21
+Spain,Egypt,39.23
+Spain,El Salvador,33.509998
+Spain,Equatorial Guinea,2.98
+Spain,Ethiopia,11.96
+Spain,Gabon,0.07
+Spain,Gambia,0.44
+Spain,Georgia,0.01
+Spain,Guatemala,35.200001
+Spain,Guinea,0.29
+Spain,Guinea-Bissau,4.14
+Spain,Guyana,0.2
+Spain,Honduras,9.86
+Spain,India,7.63
+Spain,Iran,0.6
+Spain,Iraq,0.41
+Spain,Jamaica,0.72
+Spain,Jordan,1.66
+Spain,Kazakhstan,0.06
+Spain,Kenya,0.15
+Spain,Kosovo,0.01
+Spain,Lebanon,6.64
+Spain,Liberia,0.07
+Spain,Libya,0.14
+Spain,Madagascar,0.03
+Spain,Malawi,0.54
+Spain,Mali,17.33
+Spain,Mauritania,12.8
+Spain,Mexico,5.01
+Spain,Moldova,0.02
+Spain,Morocco,3.85
+Spain,Mozambique,15.82
+Spain,Myanmar,0.01
+Spain,Nepal,0.17
+Spain,Nicaragua,29.969999
+Spain,Niger,10.83
+Spain,Nigeria,1.71
+Spain,Pakistan,0.03
+Spain,Paraguay,20.110001
+Spain,Peru,30.559999
+Spain,Philippines,6.39
+Spain,Rwanda,10.13
+Spain,Saint Lucia,0.07
+Spain,Saint Vincent and the Grenadines,0.41
+Spain,Sao Tome and Principe,0.01
+Spain,Senegal,24.219999
+Spain,Serbia,0.72
+Spain,Sierra Leone,0.73
+Spain,Somalia,0.31
+Spain,South Africa,0.07
+Spain,South Sudan,1.26
+Spain,Sudan,16.120001
+Spain,Suriname,0.44
+Spain,Syrian Arab Republic,10.31
+Spain,Tanzania,1.55
+Spain,Thailand,0.07
+Spain,Togo,1.16
+Spain,Uganda,22.82
+Spain,Ukraine,0.07
+Spain,Uzbekistan,0.02
+Spain,Venezuela,7.39
+Spain,West Bank and Gaza Strip,36.700001
+Spain,Yemen,1.03
+Spain,Zambia,3.15
+Spain,Zimbabwe,0.13
+Sweden,Afghanistan,115.260002
+Sweden,Albania,14.77
+Sweden,Algeria,3.25
+Sweden,Angola,2.04
+Sweden,Antigua and Barbuda,0.03
+Sweden,Argentina,0.96
+Sweden,Armenia,5.42
+Sweden,Azerbaijan,0.91
+Sweden,Bangladesh,54.150002
+Sweden,Belarus,1.43
+Sweden,Belize,0.04
+Sweden,Benin,1.33
+Sweden,Bhutan,0.46
+Sweden,Bolivia,31.18
+Sweden,Bosnia and Herzegovina,28.6
+Sweden,Botswana,0.6
+Sweden,Brazil,3.43
+Sweden,Burkina Faso,53.540001
+Sweden,Burundi,2.82
+Sweden,Cabo Verde,0.12
+Sweden,Cambodia,23.549999
+Sweden,Cameroon,13.28
+Sweden,Central African Republic,19.48
+Sweden,Chad,11.61
+Sweden,China (People's Republic of),2.69
+Sweden,Colombia,55.709999
+Sweden,Comoros,0.15
+Sweden,Congo,0.74
+Sweden,Costa Rica,1.09
+Sweden,Cote d'Ivoire,1.33
+Sweden,Cuba,3.81
+Sweden,Democratic People's Republic of Korea,0.8
+Sweden,Democratic Republic of the Congo,115.269997
+Sweden,Djibouti,0.88
+Sweden,Dominican Republic,0.46
+Sweden,Ecuador,0.79
+Sweden,Egypt,5.87
+Sweden,El Salvador,2.21
+Sweden,Equatorial Guinea,0.08
+Sweden,Eritrea,1.16
+Sweden,Eswatini,0.47
+Sweden,Ethiopia,85.32
+Sweden,Fiji,0.34
+Sweden,Gabon,0.09
+Sweden,Gambia,1.12
+Sweden,Georgia,18.15
+Sweden,Ghana,4.35
+Sweden,Guatemala,38.900002
+Sweden,Guinea,1.05
+Sweden,Guinea-Bissau,0.92
+Sweden,Guyana,0.21
+Sweden,Haiti,5.62
+Sweden,Honduras,3.3
+Sweden,India,10.54
+Sweden,Indonesia,6.42
+Sweden,Iran,1.68
+Sweden,Iraq,45.290001
+Sweden,Jamaica,0.13
+Sweden,Jordan,11.99
+Sweden,Kazakhstan,0.07
+Sweden,Kenya,57.209999
+Sweden,Kosovo,17.33
+Sweden,Kyrgyzstan,0.25
+Sweden,Lao People's Democratic Republic,2.05
+Sweden,Lebanon,10.67
+Sweden,Lesotho,0.27
+Sweden,Liberia,45
+Sweden,Libya,5.89
+Sweden,Madagascar,4.65
+Sweden,Malawi,5.12
+Sweden,Malaysia,0.77
+Sweden,Mali,52.93
+Sweden,Mauritania,0.97
+Sweden,Mauritius,0.01
+Sweden,Mexico,1.08
+Sweden,Moldova,16.700001
+Sweden,Mongolia,0.14
+Sweden,Montenegro,0.29
+Sweden,Morocco,1.26
+Sweden,Mozambique,91.419998
+Sweden,Myanmar,41.709999
+Sweden,Namibia,2.24
+Sweden,Nepal,5.63
+Sweden,Nicaragua,1.59
+Sweden,Niger,11.77
+Sweden,Nigeria,29.57
+Sweden,North Macedonia,8.89
+Sweden,Pakistan,5.47
+Sweden,Panama,0.6
+Sweden,Papua New Guinea,0.01
+Sweden,Paraguay,1.7
+Sweden,Peru,2.25
+Sweden,Philippines,8.05
+Sweden,Rwanda,28.870001
+Sweden,Samoa,0.12
+Sweden,Sao Tome and Principe,0.03
+Sweden,Senegal,2.18
+Sweden,Serbia,14.67
+Sweden,Sierra Leone,1.04
+Sweden,Solomon Islands,0.08
+Sweden,Somalia,109.839996
+Sweden,South Africa,7.25
+Sweden,South Sudan,85.669998
+Sweden,Sri Lanka,2.61
+Sweden,Sudan,80.989998
+Sweden,Syrian Arab Republic,83.480003
+Sweden,Tajikistan,0.52
+Sweden,Tanzania,83.309998
+Sweden,Thailand,3.27
+Sweden,Timor-Leste,0.93
+Sweden,Togo,2.4
+Sweden,Tonga,0.04
+Sweden,Tunisia,2.54
+Sweden,Türkiye,20.75
+Sweden,Uganda,79.989998
+Sweden,Ukraine,33.529999
+Sweden,Uzbekistan,0.16
+Sweden,Vanuatu,0.06
+Sweden,Venezuela,14.19
+Sweden,Viet Nam,3.63
+Sweden,West Bank and Gaza Strip,70.309998
+Sweden,Yemen,51.310001
+Sweden,Zambia,61.700001
+Sweden,Zimbabwe,47.950001
+Switzerland,Afghanistan,61.709999
+Switzerland,Albania,32.389999
+Switzerland,Algeria,2.32
+Switzerland,Angola,0.11
+Switzerland,Argentina,0.3
+Switzerland,Armenia,3.36
+Switzerland,Azerbaijan,4.83
+Switzerland,Bangladesh,42.110001
+Switzerland,Belarus,0.45
+Switzerland,Benin,28.67
+Switzerland,Bhutan,0.21
+Switzerland,Bolivia,24.99
+Switzerland,Bosnia and Herzegovina,30.040001
+Switzerland,Brazil,2.94
+Switzerland,Burkina Faso,52.68
+Switzerland,Burundi,8.67
+Switzerland,Cabo Verde,0.03
+Switzerland,Cambodia,19.73
+Switzerland,Cameroon,10.48
+Switzerland,Central African Republic,10.99
+Switzerland,Chad,29.4
+Switzerland,China (People's Republic of),2.66
+Switzerland,Colombia,38.169998
+Switzerland,Congo,0.31
+Switzerland,Costa Rica,0.2
+Switzerland,Cote d'Ivoire,0.56
+Switzerland,Cuba,13.32
+Switzerland,Democratic People's Republic of Korea,5.59
+Switzerland,Democratic Republic of the Congo,35.400002
+Switzerland,Dominican Republic,0.05
+Switzerland,Ecuador,1.05
+Switzerland,Egypt,26.93
+Switzerland,El Salvador,1.92
+Switzerland,Equatorial Guinea,0.01
+Switzerland,Eritrea,1.19
+Switzerland,Eswatini,0.66
+Switzerland,Ethiopia,25.370001
+Switzerland,Fiji,0.1
+Switzerland,Gambia,1.04
+Switzerland,Georgia,10.08
+Switzerland,Ghana,20.629999
+Switzerland,Guatemala,4.69
+Switzerland,Guinea,1.75
+Switzerland,Guinea-Bissau,0.58
+Switzerland,Haiti,35.27
+Switzerland,Honduras,19.799999
+Switzerland,India,13.12
+Switzerland,Indonesia,24.99
+Switzerland,Iran,0.71
+Switzerland,Iraq,15.01
+Switzerland,Jordan,21.389999
+Switzerland,Kazakhstan,0.04
+Switzerland,Kenya,13.5
+Switzerland,Kosovo,21.43
+Switzerland,Kyrgyzstan,27.139999
+Switzerland,Lao People's Democratic Republic,19.98
+Switzerland,Lebanon,26.07
+Switzerland,Lesotho,0.42
+Switzerland,Liberia,0.04
+Switzerland,Libya,8.05
+Switzerland,Madagascar,6.04
+Switzerland,Malawi,0.66
+Switzerland,Mali,41.310001
+Switzerland,Marshall Islands,0.11
+Switzerland,Mauritania,0.48
+Switzerland,Mexico,1.42
+Switzerland,Moldova,15.24
+Switzerland,Mongolia,13.68
+Switzerland,Morocco,4
+Switzerland,Mozambique,33.060001
+Switzerland,Myanmar,45.950001
+Switzerland,Namibia,0.44
+Switzerland,Nauru,0.16
+Switzerland,Nepal,46.110001
+Switzerland,Nicaragua,18.559999
+Switzerland,Niger,31.860001
+Switzerland,Nigeria,15.56
+Switzerland,North Macedonia,20.57
+Switzerland,Pakistan,0.79
+Switzerland,Panama,0.15
+Switzerland,Papua New Guinea,0.02
+Switzerland,Paraguay,0.6
+Switzerland,Peru,23.26
+Switzerland,Philippines,1.68
+Switzerland,Rwanda,7.85
+Switzerland,Saint Vincent and the Grenadines,0.05
+Switzerland,Senegal,5.53
+Switzerland,Serbia,22.809999
+Switzerland,Sierra Leone,0.03
+Switzerland,Somalia,25.950001
+Switzerland,South Africa,13.42
+Switzerland,South Sudan,25.27
+Switzerland,Sri Lanka,7.59
+Switzerland,Sudan,14.51
+Switzerland,Syrian Arab Republic,38.049999
+Switzerland,Tajikistan,21.1
+Switzerland,Tanzania,33.040001
+Switzerland,Thailand,11.24
+Switzerland,Togo,1.67
+Switzerland,Tunisia,22.709999
+Switzerland,Türkiye,2.79
+Switzerland,Uganda,3.39
+Switzerland,Ukraine,45.810001
+Switzerland,Uzbekistan,6.65
+Switzerland,Vanuatu,0.06
+Switzerland,Venezuela,12.53
+Switzerland,Viet Nam,21.809999
+Switzerland,West Bank and Gaza Strip,35.150002
+Switzerland,Yemen,16.92
+Switzerland,Zambia,0.74
+Switzerland,Zimbabwe,11.64
+United Kingdom,Afghanistan,258.890015
+United Kingdom,Albania,4.82
+United Kingdom,Algeria,8.51
+United Kingdom,Angola,2.02
+United Kingdom,Antigua and Barbuda,0.13
+United Kingdom,Argentina,4.55
+United Kingdom,Armenia,5.79
+United Kingdom,Azerbaijan,3.15
+United Kingdom,Bangladesh,119.940002
+United Kingdom,Belarus,3.62
+United Kingdom,Belize,1.58
+United Kingdom,Benin,0.04
+United Kingdom,Bhutan,0.27
+United Kingdom,Bolivia,2.07
+United Kingdom,Bosnia and Herzegovina,6.59
+United Kingdom,Botswana,3.24
+United Kingdom,Brazil,38.849998
+United Kingdom,Burkina Faso,0.28
+United Kingdom,Burundi,1.1
+United Kingdom,Cabo Verde,0.3
+United Kingdom,Cambodia,2.8
+United Kingdom,Cameroon,11.05
+United Kingdom,Central African Republic,13.65
+United Kingdom,Chad,1.65
+United Kingdom,China (People's Republic of),71.160004
+United Kingdom,Colombia,58.07
+United Kingdom,Comoros,0.2
+United Kingdom,Congo,0.1
+United Kingdom,Costa Rica,1.13
+United Kingdom,Cote d'Ivoire,4.75
+United Kingdom,Cuba,2.03
+United Kingdom,Democratic People's Republic of Korea,0.19
+United Kingdom,Democratic Republic of the Congo,100.360001
+United Kingdom,Djibouti,0.39
+United Kingdom,Dominica,0.98
+United Kingdom,Dominican Republic,1.21
+United Kingdom,Ecuador,1.45
+United Kingdom,Egypt,22.450001
+United Kingdom,El Salvador,0.96
+United Kingdom,Equatorial Guinea,0.04
+United Kingdom,Eritrea,2.25
+United Kingdom,Eswatini,0.55
+United Kingdom,Ethiopia,164.770004
+United Kingdom,Fiji,1.77
+United Kingdom,Gambia,24.75
+United Kingdom,Georgia,7.21
+United Kingdom,Ghana,34.389999
+United Kingdom,Grenada,0.13
+United Kingdom,Guatemala,2.43
+United Kingdom,Guinea,1.04
+United Kingdom,Guinea-Bissau,0.43
+United Kingdom,Guyana,1.99
+United Kingdom,Haiti,1.35
+United Kingdom,Honduras,0.39
+United Kingdom,India,124.730003
+United Kingdom,Indonesia,40.57
+United Kingdom,Iran,0.6
+United Kingdom,Iraq,69.730003
+United Kingdom,Jamaica,8.44
+United Kingdom,Jordan,85.809998
+United Kingdom,Kazakhstan,2.69
+United Kingdom,Kenya,99.029999
+United Kingdom,Kiribati,0.01
+United Kingdom,Kosovo,7.36
+United Kingdom,Kyrgyzstan,6.65
+United Kingdom,Lao People's Democratic Republic,1.5
+United Kingdom,Lebanon,79.699997
+United Kingdom,Lesotho,1.24
+United Kingdom,Liberia,4.03
+United Kingdom,Libya,17.59
+United Kingdom,Madagascar,8.72
+United Kingdom,Malawi,58.18
+United Kingdom,Malaysia,15.03
+United Kingdom,Maldives,2.24
+United Kingdom,Mali,11.66
+United Kingdom,Mauritania,0.72
+United Kingdom,Mauritius,1.23
+United Kingdom,Mexico,28.01
+United Kingdom,Moldova,3.12
+United Kingdom,Mongolia,2.48
+United Kingdom,Montenegro,2.61
+United Kingdom,Montserrat,37.34
+United Kingdom,Morocco,9.68
+United Kingdom,Mozambique,51.57
+United Kingdom,Myanmar,91.18
+United Kingdom,Namibia,1.99
+United Kingdom,Nepal,81.57
+United Kingdom,Nicaragua,0.57
+United Kingdom,Niger,1.49
+United Kingdom,Nigeria,192.770004
+United Kingdom,North Macedonia,5.58
+United Kingdom,Pakistan,175.740005
+United Kingdom,Panama,1.19
+United Kingdom,Papua New Guinea,1.65
+United Kingdom,Paraguay,1.14
+United Kingdom,Peru,10.92
+United Kingdom,Philippines,18.809999
+United Kingdom,Rwanda,48.07
+United Kingdom,Saint Helena,53.200001
+United Kingdom,Saint Lucia,0.42
+United Kingdom,Saint Vincent and the Grenadines,1.12
+United Kingdom,Samoa,0.91
+United Kingdom,Senegal,3.98
+United Kingdom,Serbia,4.08
+United Kingdom,Sierra Leone,68.839996
+United Kingdom,Solomon Islands,0.82
+United Kingdom,Somalia,138.509995
+United Kingdom,South Africa,140.979996
+United Kingdom,South Sudan,132.289993
+United Kingdom,Sri Lanka,11.81
+United Kingdom,States Ex-Yugoslavia unspecified,0.11
+United Kingdom,Sudan,129.589996
+United Kingdom,Suriname,0.01
+United Kingdom,Syrian Arab Republic,125.269997
+United Kingdom,Tajikistan,2.55
+United Kingdom,Tanzania,83.360001
+United Kingdom,Thailand,13.02
+United Kingdom,Timor-Leste,0.22
+United Kingdom,Tonga,0.19
+United Kingdom,Tunisia,13.72
+United Kingdom,Türkiye,52.09
+United Kingdom,Turkmenistan,0.51
+United Kingdom,Tuvalu,0.03
+United Kingdom,Uganda,88.519997
+United Kingdom,Ukraine,42.93
+United Kingdom,Uzbekistan,3.37
+United Kingdom,Vanuatu,0.95
+United Kingdom,Venezuela,3.47
+United Kingdom,Viet Nam,14.5
+United Kingdom,West Bank and Gaza Strip,56.82
+United Kingdom,Yemen,157.380005
+United Kingdom,Zambia,38.41
+United Kingdom,Zimbabwe,70.110001
+United States,Afghanistan,1480.719971
+United States,Albania,12.6
+United States,Algeria,2.55
+United States,Angola,41.709999
+United States,Argentina,5.44
+United States,Armenia,37.700001
+United States,Azerbaijan,13.25
+United States,Bangladesh,443.829987
+United States,Belarus,8.58
+United States,Belize,5.47
+United States,Benin,171.229996
+United States,Bhutan,1.22
+United States,Bolivia,8.39
+United States,Bosnia and Herzegovina,61.029999
+United States,Botswana,54.98
+United States,Brazil,46.860001
+United States,Burkina Faso,180.880005
+United States,Burundi,61.560001
+United States,Cabo Verde,1.56
+United States,Cambodia,108.629997
+United States,Cameroon,141.059998
+United States,Central African Republic,122.110001
+United States,Chad,111.739998
+United States,China (People's Republic of),14.06
+United States,Colombia,673.179993
+United States,Comoros,0.77
+United States,Congo,19.959999
+United States,Costa Rica,32.48
+United States,Cote d'Ivoire,188.169998
+United States,Cuba,8.01
+United States,Democratic People's Republic of Korea,0.01
+United States,Democratic Republic of the Congo,898.849976
+United States,Djibouti,21.629999
+United States,Dominica,1.2
+United States,Dominican Republic,72.129997
+United States,Ecuador,70.769997
+United States,Egypt,46.799999
+United States,El Salvador,92.099998
+United States,Equatorial Guinea,0.27
+United States,Eswatini,59.23
+United States,Ethiopia,1324.630005
+United States,Fiji,2.58
+United States,Gabon,2.43
+United States,Gambia,2.77
+United States,Georgia,70.730003
+United States,Ghana,240.639999
+United States,Guatemala,252.410004
+United States,Guinea,43.279999
+United States,Guinea-Bissau,6.21
+United States,Guyana,5.89
+United States,Haiti,258.230011
+United States,Honduras,174.669998
+United States,India,132.339996
+United States,Indonesia,108.919998
+United States,Iraq,461.329987
+United States,Jamaica,24.48
+United States,Jordan,1267.97998
+United States,Kazakhstan,15.33
+United States,Kenya,701.440002
+United States,Kiribati,0.22
+United States,Kosovo,55.259998
+United States,Kyrgyzstan,47.849998
+United States,Lao People's Democratic Republic,69.309998
+United States,Lebanon,270.820007
+United States,Lesotho,83.349998
+United States,Liberia,144.490005
+United States,Libya,78.209999
+United States,Madagascar,153.460007
+United States,Malawi,285.390015
+United States,Malaysia,16.360001
+United States,Maldives,5.77
+United States,Mali,222.070007
+United States,Marshall Islands,88.239998
+United States,Mauritania,20.58
+United States,Mauritius,0.96
+United States,Mexico,152.589996
+United States,Micronesia,110.489998
+United States,Moldova,41.080002
+United States,Mongolia,39.259998
+United States,Montenegro,5.24
+United States,Morocco,183.910004
+United States,Mozambique,573.859985
+United States,Myanmar,156.130005
+United States,Namibia,82.550003
+United States,Nepal,160.100006
+United States,Nicaragua,40.299999
+United States,Niger,261.399994
+United States,Nigeria,912.51001
+United States,North Macedonia,16.190001
+United States,Pakistan,236.580002
+United States,Palau,4.41
+United States,Panama,35.599998
+United States,Papua New Guinea,13.85
+United States,Paraguay,21.59
+United States,Peru,170.240005
+United States,Philippines,159.190002
+United States,Rwanda,151.990005
+United States,Saint Lucia,0.03
+United States,Saint Vincent and the Grenadines,1.33
+United States,Samoa,0.78
+United States,Sao Tome and Principe,0.03
+United States,Senegal,178.509995
+United States,Serbia,35.009998
+United States,Sierra Leone,52.18
+United States,Solomon Islands,1.96
+United States,Somalia,469.790009
+United States,South Africa,697.570007
+United States,South Sudan,799.289978
+United States,Sri Lanka,54.689999
+United States,Sudan,734.119995
+United States,Suriname,0.23
+United States,Syrian Arab Republic,801.619995
+United States,Tajikistan,47.75
+United States,Tanzania,506.859985
+United States,Thailand,64.510002
+United States,Timor-Leste,29.76
+United States,Togo,13.73
+United States,Tonga,1.03
+United States,Tunisia,109.370003
+United States,Türkiye,64.18
+United States,Turkmenistan,4.56
+United States,Tuvalu,0.15
+United States,Uganda,630.780029
+United States,Ukraine,304.720001
+United States,Uzbekistan,37.919998
+United States,Vanuatu,1.58
+United States,Venezuela,104.839996
+United States,Viet Nam,142.809998
+United States,West Bank and Gaza Strip,46.139999
+United States,Yemen,900.570007
+United States,Zambia,399.980011
+United States,Zimbabwe,343.130005
+Bulgaria,Afghanistan,0.12
+Bulgaria,Albania,0.09
+Bulgaria,Angola,0.01
+Bulgaria,Armenia,0.11
+Bulgaria,Azerbaijan,0.03
+Bulgaria,Bangladesh,1.81
+Bulgaria,Bhutan,1.16
+Bulgaria,Bosnia and Herzegovina,0.46
+Bulgaria,Georgia,0.13
+Bulgaria,Iraq,0.06
+Bulgaria,Jordan,0.01
+Bulgaria,Kosovo,0.07
+Bulgaria,Moldova,0.16
+Bulgaria,Mongolia,0.08
+Bulgaria,Montenegro,0.07
+Bulgaria,Morocco,0.01
+Bulgaria,Namibia,0.03
+Bulgaria,North Macedonia,1.24
+Bulgaria,Serbia,0.18
+Bulgaria,Syrian Arab Republic,0.09
+Bulgaria,Tunisia,0.01
+Bulgaria,Türkiye,0.66
+Bulgaria,Ukraine,0.26
+Bulgaria,Viet Nam,0.07
+Bulgaria,West Bank and Gaza Strip,0.06
+Bulgaria,Yemen,0.06
+Croatia,Afghanistan,0.01
+Croatia,Albania,0.2
+Croatia,Bhutan,0.07
+Croatia,Bosnia and Herzegovina,13.78
+Croatia,Gambia,0.01
+Croatia,Kosovo,0.08
+Croatia,Lebanon,0.12
+Croatia,Libya,0.01
+Croatia,Mongolia,0.02
+Croatia,Montenegro,0.07
+Croatia,North Macedonia,0.29
+Croatia,Rwanda,0.67
+Croatia,Serbia,0.95
+Croatia,Tunisia,0.01
+Croatia,Türkiye,0.63
+Croatia,Turkmenistan,0.01
+Croatia,Viet Nam,0.4
+Cyprus,Afghanistan,0.06
+Cyprus,India,0.07
+Cyprus,Jordan,0.24
+Cyprus,Lebanon,3.54
+Cyprus,West Bank and Gaza Strip,0.06
+Cyprus,Yemen,0.05
+Estonia,Afghanistan,0.89
+Estonia,Armenia,0.01
+Estonia,Azerbaijan,0.03
+Estonia,Bangladesh,0.05
+Estonia,Belarus,1.34
+Estonia,Egypt,0.04
+Estonia,Ethiopia,0.05
+Estonia,Gambia,0.45
+Estonia,Georgia,1.58
+Estonia,Ghana,0.82
+Estonia,India,0.14
+Estonia,Iran,0.01
+Estonia,Iraq,0.05
+Estonia,Jordan,0.13
+Estonia,Kenya,1.26
+Estonia,Kyrgyzstan,0.19
+Estonia,Lebanon,0.29
+Estonia,Mauritius,0.01
+Estonia,Moldova,1.06
+Estonia,Namibia,0.28
+Estonia,Nigeria,0.04
+Estonia,North Macedonia,0.05
+Estonia,Pakistan,0.24
+Estonia,Rwanda,0.71
+Estonia,Somalia,0.06
+Estonia,South Sudan,0.06
+Estonia,Sudan,0.11
+Estonia,Syrian Arab Republic,0.33
+Estonia,Türkiye,0.06
+Estonia,Uganda,1.42
+Estonia,Ukraine,3.94
+Estonia,Uzbekistan,0.11
+Estonia,West Bank and Gaza Strip,0.19
+Estonia,Yemen,0.06
+Israel,Afghanistan,0.01
+Israel,Albania,0.18
+Israel,Algeria,0.01
+Israel,Argentina,2.77
+Israel,Armenia,0.05
+Israel,Azerbaijan,0.46
+Israel,Belarus,1.57
+Israel,Benin,0.03
+Israel,Bhutan,0.05
+Israel,Bolivia,0.08
+Israel,Bosnia and Herzegovina,0.2
+Israel,Botswana,0.04
+Israel,Brazil,3.79
+Israel,Burkina Faso,0.09
+Israel,Burundi,0.06
+Israel,Cabo Verde,0.01
+Israel,Cambodia,0.06
+Israel,Cameroon,0.21
+Israel,Chad,0.1
+Israel,China (People's Republic of),9.68
+Israel,Colombia,0.69
+Israel,Congo,0.02
+Israel,Costa Rica,0.3
+Israel,Cote d'Ivoire,0.23
+Israel,Cuba,0.02
+Israel,Democratic People's Republic of Korea,0.01
+Israel,Democratic Republic of the Congo,0.04
+Israel,Dominican Republic,0.24
+Israel,Ecuador,0.2
+Israel,Egypt,0.14
+Israel,El Salvador,0.07
+Israel,Eswatini,0.02
+Israel,Ethiopia,1.05
+Israel,Fiji,0.15
+Israel,Gabon,0.01
+Israel,Gambia,0.03
+Israel,Georgia,0.9
+Israel,Ghana,0.36
+Israel,Guatemala,0.46
+Israel,Guinea,0.14
+Israel,Guinea-Bissau,0.03
+Israel,Haiti,0.07
+Israel,Honduras,0.28
+Israel,India,32.650002
+Israel,Indonesia,0.01
+Israel,Iraq,0.11
+Israel,Jamaica,0.06
+Israel,Jordan,62.919998
+Israel,Kazakhstan,0.98
+Israel,Kenya,0.83
+Israel,Kiribati,0.01
+Israel,Kosovo,0.01
+Israel,Kyrgyzstan,0.1
+Israel,Lebanon,0.03
+Israel,Lesotho,0.02
+Israel,Liberia,0.04
+Israel,Madagascar,0.12
+Israel,Malawi,0.35
+Israel,Malaysia,0.01
+Israel,Mali,0.03
+Israel,Marshall Islands,0.06
+Israel,Mauritius,0.05
+Israel,Mexico,2.99
+Israel,Micronesia,0.03
+Israel,Moldova,0.71
+Israel,Mongolia,0.02
+Israel,Montenegro,0.02
+Israel,Morocco,0.09
+Israel,Myanmar,0.14
+Israel,Nauru,0.02
+Israel,Nepal,0.29
+Israel,Nicaragua,0.07
+Israel,Niger,0.01
+Israel,Nigeria,0.7
+Israel,North Macedonia,0.12
+Israel,Pakistan,0.14
+Israel,Panama,0.52
+Israel,Papua New Guinea,0.02
+Israel,Paraguay,0.14
+Israel,Peru,0.33
+Israel,Philippines,0.81
+Israel,Rwanda,0.42
+Israel,Samoa,0.07
+Israel,Sao Tome and Principe,0.02
+Israel,Senegal,0.41
+Israel,Serbia,0.56
+Israel,Sierra Leone,0.05
+Israel,Solomon Islands,0.1
+Israel,South Africa,0.95
+Israel,South Sudan,0.02
+Israel,Sri Lanka,0.23
+Israel,States Ex-Yugoslavia unspecified,0.01
+Israel,Syrian Arab Republic,0.01
+Israel,Tajikistan,0.06
+Israel,Tanzania,0.16
+Israel,Thailand,0.17
+Israel,Togo,0.04
+Israel,Tunisia,0.02
+Israel,Türkiye,0.28
+Israel,Turkmenistan,0.14
+Israel,Uganda,0.17
+Israel,Ukraine,8.54
+Israel,Uzbekistan,0.59
+Israel,Venezuela,0.11
+Israel,Viet Nam,1.12
+Israel,West Bank and Gaza Strip,56.799999
+Israel,Zambia,0.12
+Israel,Zimbabwe,0.03
+Kazakhstan,Afghanistan,2.42
+Kazakhstan,Kyrgyzstan,3.01
+Kazakhstan,Tajikistan,4.55
+Kuwait,Albania,11.93
+Kuwait,Argentina,17.610001
+Kuwait,Bangladesh,29.75
+Kuwait,Burundi,0.59
+Kuwait,Cabo Verde,0.99
+Kuwait,Chad,3.85
+Kuwait,Cote d'Ivoire,2.06
+Kuwait,Cuba,3.43
+Kuwait,Djibouti,4.12
+Kuwait,Dominica,0.98
+Kuwait,Egypt,282.73999
+Kuwait,Ethiopia,0.03
+Kuwait,Gambia,2.88
+Kuwait,Georgia,1.87
+Kuwait,Ghana,1.9
+Kuwait,Guinea,1.32
+Kuwait,Haiti,0.07
+Kuwait,Iraq,21.25
+Kuwait,Jordan,42.080002
+Kuwait,Liberia,0.87
+Kuwait,Malawi,3.73
+Kuwait,Maldives,1.7
+Kuwait,Mali,0.17
+Kuwait,Nepal,1.62
+Kuwait,Nicaragua,15.34
+Kuwait,Niger,0.03
+Kuwait,Rwanda,5.61
+Kuwait,Senegal,13.67
+Kuwait,Sri Lanka,11
+Kuwait,Sudan,0.26
+Kuwait,Syrian Arab Republic,30.559999
+Kuwait,Tajikistan,6.81
+Kuwait,Togo,2.74
+Kuwait,Tunisia,14.81
+Kuwait,Uganda,0.75
+Kuwait,Uzbekistan,17.58
+Kuwait,Viet Nam,0.26
+Kuwait,West Bank and Gaza Strip,9.15
+Kuwait,Yemen,3.36
+Kuwait,Zimbabwe,0.03
+Latvia,Afghanistan,0.01
+Latvia,Albania,0.2
+Latvia,Azerbaijan,0.06
+Latvia,Belarus,0.21
+Latvia,China (People's Republic of),0.03
+Latvia,Georgia,0.94
+Latvia,India,0.06
+Latvia,Indonesia,0.33
+Latvia,Kazakhstan,0.03
+Latvia,Kenya,0.37
+Latvia,Mali,0.01
+Latvia,Mexico,0.02
+Latvia,Moldova,0.3
+Latvia,Syrian Arab Republic,0.06
+Latvia,Tajikistan,0.04
+Latvia,Tunisia,0.33
+Latvia,Türkiye,0.4
+Latvia,Ukraine,0.92
+Latvia,Uzbekistan,0.23
+Latvia,Venezuela,0.01
+Latvia,Viet Nam,0.2
+Liechtenstein,Afghanistan,0.22
+Liechtenstein,Albania,0.06
+Liechtenstein,Armenia,0.02
+Liechtenstein,Belarus,0.01
+Liechtenstein,Bolivia,2.05
+Liechtenstein,Bosnia and Herzegovina,1.27
+Liechtenstein,Burkina Faso,3.24
+Liechtenstein,Democratic People's Republic of Korea,0.08
+Liechtenstein,Ethiopia,0.22
+Liechtenstein,Georgia,0.02
+Liechtenstein,Haiti,0.11
+Liechtenstein,India,0.11
+Liechtenstein,Indonesia,0.05
+Liechtenstein,Kosovo,0.4
+Liechtenstein,Lebanon,0.01
+Liechtenstein,Libya,0.11
+Liechtenstein,Madagascar,0.05
+Liechtenstein,Mali,0.33
+Liechtenstein,Moldova,1.93
+Liechtenstein,Mozambique,1.74
+Liechtenstein,Myanmar,0.11
+Liechtenstein,Peru,0.53
+Liechtenstein,Senegal,0.73
+Liechtenstein,Somalia,0.11
+Liechtenstein,South Sudan,0.11
+Liechtenstein,Syrian Arab Republic,0.22
+Liechtenstein,Tanzania,1.15
+Liechtenstein,Türkiye,0.75
+Liechtenstein,Ukraine,0.02
+Liechtenstein,Yemen,0.11
+Liechtenstein,Zambia,0.47
+Liechtenstein,Zimbabwe,0.64
+Malta,Afghanistan,0.07
+Malta,Botswana,0.01
+Malta,Egypt,0.3
+Malta,Ghana,0.77
+Malta,India,0.01
+Malta,Iran,0.74
+Malta,Libya,2.88
+Malta,Mauritius,0.01
+Malta,Namibia,0.01
+Malta,Philippines,0.14
+Malta,Rwanda,0.72
+Malta,Saint Vincent and the Grenadines,0.03
+Malta,Sudan,1.22
+Malta,Syrian Arab Republic,0.09
+Malta,Tanzania,0.01
+Malta,Tunisia,0.18
+Malta,Türkiye,0.08
+Malta,Ukraine,0.02
+Malta,Venezuela,0.02
+Malta,West Bank and Gaza Strip,0.08
+Malta,Yemen,0.06
+Monaco,Angola,1.66
+Monaco,Burkina Faso,1.36
+Monaco,Burundi,0.74
+Monaco,Haiti,0.07
+Monaco,Lebanon,1.12
+Monaco,Madagascar,3.16
+Monaco,Malawi,0.12
+Monaco,Mauritania,0.76
+Monaco,Morocco,1.13
+Monaco,Niger,1.45
+Monaco,Senegal,0.86
+Monaco,South Africa,0.46
+Monaco,Tunisia,0.63
+Monaco,Ukraine,0.01
+Qatar,Afghanistan,30.23
+Qatar,Albania,5.2
+Qatar,Algeria,1.7
+Qatar,Angola,0.51
+Qatar,Armenia,0.06
+Qatar,Azerbaijan,0.08
+Qatar,Bangladesh,3.7
+Qatar,Benin,2.33
+Qatar,Bosnia and Herzegovina,0.05
+Qatar,Brazil,0.34
+Qatar,Burkina Faso,6.5
+Qatar,Burundi,0.04
+Qatar,Cambodia,0.96
+Qatar,Cameroon,1.69
+Qatar,Chad,3.53
+Qatar,China (People's Republic of),1.54
+Qatar,Colombia,0.19
+Qatar,Costa Rica,0.06
+Qatar,Cote d'Ivoire,0.07
+Qatar,Djibouti,2.05
+Qatar,Dominican Republic,0.02
+Qatar,Ecuador,0.07
+Qatar,Egypt,1.16
+Qatar,El Salvador,0.1
+Qatar,Eritrea,0.03
+Qatar,Eswatini,0.06
+Qatar,Ethiopia,2.31
+Qatar,Gambia,0.08
+Qatar,Georgia,0.59
+Qatar,Ghana,3.68
+Qatar,Guatemala,0.34
+Qatar,Haiti,0.26
+Qatar,India,12.07
+Qatar,Indonesia,0.21
+Qatar,Iran,7.03
+Qatar,Iraq,6.17
+Qatar,Jordan,3.18
+Qatar,Kazakhstan,1.63
+Qatar,Kenya,9.27
+Qatar,Kiribati,0.36
+Qatar,Kyrgyzstan,0.04
+Qatar,Lebanon,8.02
+Qatar,Lesotho,0.07
+Qatar,Liberia,0.09
+Qatar,Libya,0.2
+Qatar,Malawi,1.04
+Qatar,Malaysia,1.05
+Qatar,Maldives,0.01
+Qatar,Mali,0.47
+Qatar,Mauritania,0.02
+Qatar,Mauritius,0.09
+Qatar,Mexico,0.87
+Qatar,Moldova,0.21
+Qatar,Mongolia,0.06
+Qatar,Montenegro,0.15
+Qatar,Morocco,1.74
+Qatar,Mozambique,0.06
+Qatar,Myanmar,0.12
+Qatar,Nepal,1.82
+Qatar,Niger,0.01
+Qatar,Nigeria,17.700001
+Qatar,Pakistan,16.42
+Qatar,Peru,0.06
+Qatar,Philippines,0.78
+Qatar,Rwanda,2.17
+Qatar,Saint Vincent and the Grenadines,0.5
+Qatar,Senegal,0.95
+Qatar,Serbia,0.06
+Qatar,Somalia,19.01
+Qatar,South Africa,0.21
+Qatar,South Sudan,2.53
+Qatar,Sri Lanka,0.11
+Qatar,Sudan,6.17
+Qatar,Syrian Arab Republic,14.37
+Qatar,Tajikistan,2.3
+Qatar,Tanzania,1.58
+Qatar,Tunisia,0.33
+Qatar,Türkiye,1.22
+Qatar,Uganda,2.75
+Qatar,Ukraine,0.2
+Qatar,Uzbekistan,1.23
+Qatar,Venezuela,0.02
+Qatar,Viet Nam,0.29
+Qatar,West Bank and Gaza Strip,310.549988
+Qatar,Yemen,48.439999
+Qatar,Zambia,0.78
+Qatar,Zimbabwe,0.06
+Romania,Afghanistan,0.35
+Romania,Albania,1.53
+Romania,Algeria,0.09
+Romania,Angola,0.09
+Romania,Armenia,0.08
+Romania,Azerbaijan,0.18
+Romania,Belarus,0.17
+Romania,Belize,0.01
+Romania,Benin,0.03
+Romania,Bosnia and Herzegovina,0.03
+Romania,Brazil,0.08
+Romania,Burkina Faso,0.01
+Romania,Cameroon,0.08
+Romania,Chad,0.05
+Romania,China (People's Republic of),0.02
+Romania,Colombia,0.08
+Romania,Congo,0.03
+Romania,Cote d'Ivoire,0.02
+Romania,Cuba,0.08
+Romania,Democratic People's Republic of Korea,0.04
+Romania,Democratic Republic of the Congo,0.07
+Romania,Egypt,1.25
+Romania,Georgia,0.07
+Romania,Guinea,0.02
+Romania,Guyana,0.01
+Romania,Haiti,0.07
+Romania,India,0.04
+Romania,Indonesia,0.04
+Romania,Iran,0.07
+Romania,Iraq,0.21
+Romania,Jordan,0.76
+Romania,Kazakhstan,0.18
+Romania,Kenya,0.04
+Romania,Kyrgyzstan,0.02
+Romania,Lebanon,0.56
+Romania,Libya,0.07
+Romania,Madagascar,0.02
+Romania,Mali,0.01
+Romania,Mauritius,0.01
+Romania,Mexico,0.02
+Romania,Moldova,64.540001
+Romania,Mongolia,0.03
+Romania,Montenegro,0.02
+Romania,Morocco,0.13
+Romania,Niger,0.12
+Romania,Nigeria,0.09
+Romania,North Macedonia,0.18
+Romania,Pakistan,0.02
+Romania,Palau,0.02
+Romania,Peru,0.05
+Romania,Rwanda,0.01
+Romania,Senegal,0.01
+Romania,Serbia,2.96
+Romania,South Sudan,0.04
+Romania,Sri Lanka,0.02
+Romania,Suriname,0.01
+Romania,Syrian Arab Republic,0.69
+Romania,Tajikistan,0.01
+Romania,Thailand,0.01
+Romania,Togo,0.02
+Romania,Tunisia,0.48
+Romania,Türkiye,2.55
+Romania,Turkmenistan,0.59
+Romania,Tuvalu,0.02
+Romania,Uganda,0.01
+Romania,Ukraine,2.42
+Romania,Uzbekistan,0.11
+Romania,Venezuela,0.01
+Romania,Viet Nam,0.91
+Romania,West Bank and Gaza Strip,0.68
+Romania,Yemen,0.06
+Romania,Zimbabwe,0.01
+Chinese Taipei,Paraguay,3
+Thailand,Afghanistan,0.01
+Thailand,Argentina,0.01
+Thailand,Bangladesh,0.06
+Thailand,Benin,0.04
+Thailand,Bhutan,0.7
+Thailand,Botswana,0.02
+Thailand,Burundi,0.01
+Thailand,Cambodia,10.12
+Thailand,Cameroon,0.03
+Thailand,China (People's Republic of),0.32
+Thailand,Ecuador,0.02
+Thailand,Egypt,0.01
+Thailand,Ethiopia,0.01
+Thailand,Fiji,0.04
+Thailand,Gambia,0.06
+Thailand,Ghana,0.04
+Thailand,India,0.04
+Thailand,Indonesia,0.68
+Thailand,Iran,0.02
+Thailand,Iraq,0.01
+Thailand,Kenya,0.02
+Thailand,Lao People's Democratic Republic,49.630001
+Thailand,Lesotho,0.02
+Thailand,Madagascar,0.01
+Thailand,Malawi,0.01
+Thailand,Malaysia,0.03
+Thailand,Maldives,0.07
+Thailand,Mauritius,0.02
+Thailand,Mongolia,0.05
+Thailand,Mozambique,0.02
+Thailand,Myanmar,2.4
+Thailand,Nepal,0.08
+Thailand,Nicaragua,0.01
+Thailand,Nigeria,0.05
+Thailand,Pakistan,0.05
+Thailand,Peru,0.01
+Thailand,Philippines,0.24
+Thailand,Senegal,0.05
+Thailand,Somalia,0.01
+Thailand,South Sudan,0.01
+Thailand,Sri Lanka,0.09
+Thailand,Tanzania,0.03
+Thailand,Tonga,0.01
+Thailand,Uganda,0.02
+Thailand,Uzbekistan,0.01
+Thailand,Viet Nam,0.59
+Thailand,Zambia,0.01
+Türkiye,Afghanistan,30.84
+Türkiye,Albania,3.95
+Türkiye,Algeria,1.52
+Türkiye,Angola,0.22
+Türkiye,Argentina,0.21
+Türkiye,Armenia,0.01
+Türkiye,Azerbaijan,44.240002
+Türkiye,Bangladesh,4.93
+Türkiye,Belarus,0.05
+Türkiye,Benin,0.4
+Türkiye,Bolivia,0.03
+Türkiye,Bosnia and Herzegovina,8.64
+Türkiye,Botswana,0.07
+Türkiye,Brazil,0.03
+Türkiye,Burkina Faso,0.34
+Türkiye,Burundi,0.36
+Türkiye,Cambodia,0.12
+Türkiye,Cameroon,0.85
+Türkiye,Central African Republic,0.1
+Türkiye,Chad,1.2
+Türkiye,China (People's Republic of),0.67
+Türkiye,Colombia,1.3
+Türkiye,Comoros,0.23
+Türkiye,Congo,0.26
+Türkiye,Costa Rica,0.04
+Türkiye,Cote d'Ivoire,0.27
+Türkiye,Cuba,0.01
+Türkiye,Democratic Republic of the Congo,0.36
+Türkiye,Djibouti,0.74
+Türkiye,Dominican Republic,0.01
+Türkiye,Ecuador,0.21
+Türkiye,Egypt,2.08
+Türkiye,El Salvador,0.02
+Türkiye,Equatorial Guinea,0.14
+Türkiye,Eritrea,0.11
+Türkiye,Eswatini,0.06
+Türkiye,Ethiopia,1.45
+Türkiye,Fiji,0.01
+Türkiye,Gabon,0.06
+Türkiye,Gambia,4.01
+Türkiye,Georgia,2.93
+Türkiye,Ghana,0.63
+Türkiye,Guatemala,0.01
+Türkiye,Guinea,1.68
+Türkiye,Guinea-Bissau,0.58
+Türkiye,Guyana,0.01
+Türkiye,Haiti,0.55
+Türkiye,Honduras,0.01
+Türkiye,India,0.89
+Türkiye,Indonesia,1.52
+Türkiye,Iran,1.75
+Türkiye,Iraq,32.950001
+Türkiye,Jamaica,0.01
+Türkiye,Jordan,2.9
+Türkiye,Kazakhstan,24.139999
+Türkiye,Kenya,0.82
+Türkiye,Kosovo,4.94
+Türkiye,Kyrgyzstan,19.290001
+Türkiye,Lao People's Democratic Republic,0.04
+Türkiye,Lebanon,2.21
+Türkiye,Lesotho,0.37
+Türkiye,Liberia,0.15
+Türkiye,Libya,11.69
+Türkiye,Madagascar,0.24
+Türkiye,Malawi,0.14
+Türkiye,Malaysia,0.61
+Türkiye,Maldives,0.01
+Türkiye,Mali,0.6
+Türkiye,Mauritania,0.42
+Türkiye,Mauritius,0.04
+Türkiye,Mexico,0.63
+Türkiye,Moldova,3.48
+Türkiye,Mongolia,2.32
+Türkiye,Montenegro,0.94
+Türkiye,Morocco,0.7
+Türkiye,Mozambique,0.21
+Türkiye,Myanmar,0.27
+Türkiye,Namibia,0.16
+Türkiye,Nepal,0.16
+Türkiye,Niger,1.45
+Türkiye,Nigeria,0.77
+Türkiye,North Macedonia,4.5
+Türkiye,Pakistan,2.99
+Türkiye,Paraguay,0.05
+Türkiye,Peru,0.17
+Türkiye,Philippines,0.27
+Türkiye,Rwanda,0.61
+Türkiye,Saint Vincent and the Grenadines,0.02
+Türkiye,Sao Tome and Principe,0.01
+Türkiye,Senegal,0.84
+Türkiye,Serbia,1.05
+Türkiye,Sierra Leone,0.3
+Türkiye,Somalia,51.799999
+Türkiye,South Africa,0.39
+Türkiye,South Sudan,0.68
+Türkiye,Sri Lanka,0.22
+Türkiye,Sudan,3.36
+Türkiye,Suriname,0.01
+Türkiye,Syrian Arab Republic,6689.830078
+Türkiye,Tajikistan,1.86
+Türkiye,Tanzania,1.15
+Türkiye,Thailand,0.32
+Türkiye,Togo,0.36
+Türkiye,Tunisia,1.45
+Türkiye,Turkmenistan,0.54
+Türkiye,Uganda,0.66
+Türkiye,Ukraine,1.24
+Türkiye,Uzbekistan,3.79
+Türkiye,Venezuela,0.3
+Türkiye,Viet Nam,0.05
+Türkiye,West Bank and Gaza Strip,33.939999
+Türkiye,Yemen,3.89
+Türkiye,Zambia,0.38
+Türkiye,Zimbabwe,0.53
+United Arab Emirates,Afghanistan,133.979996
+United Arab Emirates,Albania,2.89
+United Arab Emirates,Algeria,15.15
+United Arab Emirates,Antigua and Barbuda,2.2
+United Arab Emirates,Argentina,2.78
+United Arab Emirates,Belarus,0.69
+United Arab Emirates,Belize,3.04
+United Arab Emirates,Benin,0.17
+United Arab Emirates,Bolivia,0.07
+United Arab Emirates,Bosnia and Herzegovina,0.47
+United Arab Emirates,Brazil,0.12
+United Arab Emirates,Burundi,0.39
+United Arab Emirates,Cabo Verde,0.02
+United Arab Emirates,Cambodia,0.94
+United Arab Emirates,Cameroon,0.3
+United Arab Emirates,Central African Republic,1.5
+United Arab Emirates,Chad,2.63
+United Arab Emirates,China (People's Republic of),0.01
+United Arab Emirates,Colombia,6
+United Arab Emirates,Comoros,34.709999
+United Arab Emirates,Congo,0.9
+United Arab Emirates,Costa Rica,0.83
+United Arab Emirates,Cote d'Ivoire,0.02
+United Arab Emirates,Cuba,0.74
+United Arab Emirates,Democratic Republic of the Congo,0.58
+United Arab Emirates,Dominica,1.95
+United Arab Emirates,Dominican Republic,0.76
+United Arab Emirates,Ecuador,0.19
+United Arab Emirates,El Salvador,0.01
+United Arab Emirates,Equatorial Guinea,0.58
+United Arab Emirates,Ethiopia,12.74
+United Arab Emirates,Gabon,0.02
+United Arab Emirates,Gambia,0.85
+United Arab Emirates,Ghana,0.67
+United Arab Emirates,Grenada,1.5
+United Arab Emirates,Guatemala,0.25
+United Arab Emirates,Guinea,16.6
+United Arab Emirates,Guinea-Bissau,0.41
+United Arab Emirates,Guyana,0.75
+United Arab Emirates,Haiti,0.75
+United Arab Emirates,Honduras,0.21
+United Arab Emirates,India,12.93
+United Arab Emirates,Indonesia,18.219999
+United Arab Emirates,Iran,15.46
+United Arab Emirates,Iraq,28.790001
+United Arab Emirates,Jordan,150.600006
+United Arab Emirates,Kazakhstan,0.28
+United Arab Emirates,Kenya,0.66
+United Arab Emirates,Kiribati,0.1
+United Arab Emirates,Kosovo,0.01
+United Arab Emirates,Kyrgyzstan,2.14
+United Arab Emirates,Lesotho,0.29
+United Arab Emirates,Liberia,2.36
+United Arab Emirates,Libya,1.5
+United Arab Emirates,Madagascar,1.52
+United Arab Emirates,Malawi,0.71
+United Arab Emirates,Malaysia,0.59
+United Arab Emirates,Maldives,0.54
+United Arab Emirates,Mali,0.48
+United Arab Emirates,Mauritania,126.230003
+United Arab Emirates,Mauritius,0.15
+United Arab Emirates,Mexico,0.03
+United Arab Emirates,Montserrat,0.02
+United Arab Emirates,Morocco,0.73
+United Arab Emirates,Mozambique,7.46
+United Arab Emirates,Myanmar,0.01
+United Arab Emirates,Namibia,0.01
+United Arab Emirates,Nepal,1.96
+United Arab Emirates,Nicaragua,0.01
+United Arab Emirates,Niger,1.02
+United Arab Emirates,Nigeria,0.27
+United Arab Emirates,North Macedonia,0.06
+United Arab Emirates,Pakistan,21.360001
+United Arab Emirates,Paraguay,0.43
+United Arab Emirates,Peru,0.07
+United Arab Emirates,Philippines,3.48
+United Arab Emirates,Rwanda,3.44
+United Arab Emirates,Saint Lucia,0.75
+United Arab Emirates,Saint Vincent and the Grenadines,0.77
+United Arab Emirates,Senegal,1.88
+United Arab Emirates,Sierra Leone,9.08
+United Arab Emirates,Somalia,26.889999
+United Arab Emirates,South Africa,0.52
+United Arab Emirates,South Sudan,2.36
+United Arab Emirates,Sri Lanka,0.38
+United Arab Emirates,Sudan,50.040001
+United Arab Emirates,Suriname,1.5
+United Arab Emirates,Syrian Arab Republic,31.65
+United Arab Emirates,Tajikistan,3.69
+United Arab Emirates,Togo,5.62
+United Arab Emirates,Tunisia,20.33
+United Arab Emirates,Türkiye,7.57
+United Arab Emirates,Turkmenistan,3.54
+United Arab Emirates,Uganda,3.95
+United Arab Emirates,Ukraine,0.03
+United Arab Emirates,Uzbekistan,34.98
+United Arab Emirates,Vanuatu,0.02
+United Arab Emirates,Venezuela,0.01
+United Arab Emirates,Viet Nam,0.41
+United Arab Emirates,West Bank and Gaza Strip,28.18
+United Arab Emirates,Yemen,259.149994
+United Arab Emirates,Zambia,0.3
