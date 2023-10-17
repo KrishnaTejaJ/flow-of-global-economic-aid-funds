@@ -1,0 +1,3296 @@
+Source,Target,Type,Id,Label,Weight
+Australia,Afghanistan,Directed,0,,60.849998
+Australia,Albania,Directed,1,,0.18
+Australia,Algeria,Directed,2,,0.01
+Australia,Antigua and Barbuda,Directed,3,,0.37
+Australia,Argentina,Directed,4,,0.46
+Australia,Armenia,Directed,5,,0.14
+Australia,Azerbaijan,Directed,6,,0.04
+Australia,Bangladesh,Directed,7,,46.740002
+Australia,Belize,Directed,8,,0.19
+Australia,Benin,Directed,9,,0.01
+Australia,Bhutan,Directed,10,,8.6
+Australia,Bolivia,Directed,11,,0.06
+Australia,Bosnia and Herzegovina,Directed,12,,0.02
+Australia,Botswana,Directed,13,,0.91
+Australia,Brazil,Directed,14,,0.19
+Australia,Burkina Faso,Directed,15,,9.08
+Australia,Burundi,Directed,16,,2.24
+Australia,Cabo Verde,Directed,17,,0.03
+Australia,Cambodia,Directed,18,,58.369999
+Australia,Cameroon,Directed,19,,0.87
+Australia,Central African Republic,Directed,20,,0.05
+Australia,Chile,Directed,21,,0.25
+Australia,China (People's Republic of),Directed,22,,7.61
+Australia,Colombia,Directed,23,,0.18
+Australia,Comoros,Directed,24,,0.23
+Australia,Cook Islands,Directed,25,,2.36
+Australia,Costa Rica,Directed,26,,1.07
+Australia,Cote d'Ivoire,Directed,27,,0.02
+Australia,Cuba,Directed,28,,0.01
+Australia,Democratic Republic of the Congo,Directed,29,,0.03
+Australia,Djibouti,Directed,30,,0.03
+Australia,Dominica,Directed,31,,0.53
+Australia,Dominican Republic,Directed,32,,0.56
+Australia,Ecuador,Directed,33,,0.02
+Australia,Egypt,Directed,34,,0.16
+Australia,El Salvador,Directed,35,,2.2
+Australia,Equatorial Guinea,Directed,36,,0.02
+Australia,Eswatini,Directed,37,,6.36
+Australia,Ethiopia,Directed,38,,3.65
+Australia,Fiji,Directed,39,,46.889999
+Australia,Gambia,Directed,40,,0.41
+Australia,Ghana,Directed,41,,2.41
+Australia,Grenada,Directed,42,,0.09
+Australia,Guatemala,Directed,43,,0.81
+Australia,Guinea,Directed,44,,0.01
+Australia,Guinea-Bissau,Directed,45,,0.01
+Australia,Guyana,Directed,46,,0.16
+Australia,Haiti,Directed,47,,0.27
+Australia,India,Directed,48,,6.2
+Australia,Indonesia,Directed,49,,207.529999
+Australia,Iran,Directed,50,,0.03
+Australia,Iraq,Directed,51,,7.99
+Australia,Jamaica,Directed,52,,0.63
+Australia,Jordan,Directed,53,,14.84
+Australia,Kenya,Directed,54,,7.66
+Australia,Kiribati,Directed,55,,20.67
+Australia,Kosovo,Directed,56,,0.01
+Australia,Kyrgyzstan,Directed,57,,0.15
+Australia,Lao People's Democratic Republic,Directed,58,,23.700001
+Australia,Lebanon,Directed,59,,13.76
+Australia,Lesotho,Directed,60,,1.39
+Australia,Liberia,Directed,61,,1.14
+Australia,Libya,Directed,62,,0.01
+Australia,Madagascar,Directed,63,,0.68
+Australia,Malawi,Directed,64,,4.07
+Australia,Malaysia,Directed,65,,1.04
+Australia,Maldives,Directed,66,,1.17
+Australia,Mali,Directed,67,,0.05
+Australia,Marshall Islands,Directed,68,,9.58
+Australia,Mauritania,Directed,69,,0.11
+Australia,Mauritius,Directed,70,,2.94
+Australia,Mexico,Directed,71,,0.69
+Australia,Micronesia,Directed,72,,13.63
+Australia,Mongolia,Directed,73,,8.05
+Australia,Morocco,Directed,74,,0.01
+Australia,Mozambique,Directed,75,,9.84
+Australia,Myanmar,Directed,76,,68.239998
+Australia,Namibia,Directed,77,,0.52
+Australia,Nauru,Directed,78,,21.35
+Australia,Nepal,Directed,79,,19.32
+Australia,Nicaragua,Directed,80,,0.02
+Australia,Niger,Directed,81,,0.04
+Australia,Nigeria,Directed,82,,8.78
+Australia,Niue,Directed,83,,1.75
+Australia,Pakistan,Directed,84,,41.32
+Australia,Palau,Directed,85,,1.49
+Australia,Panama,Directed,86,,0.11
+Australia,Papua New Guinea,Directed,87,,381.459991
+Australia,Paraguay,Directed,88,,0.05
+Australia,Peru,Directed,89,,0.35
+Australia,Philippines,Directed,90,,53.93
+Australia,Rwanda,Directed,91,,9.44
+Australia,Saint Lucia,Directed,92,,0.11
+Australia,Saint Vincent and the Grenadines,Directed,93,,2.12
+Australia,Samoa,Directed,94,,31.18
+Australia,Senegal,Directed,95,,0.09
+Australia,Serbia,Directed,96,,0.03
+Australia,Seychelles,Directed,97,,1.28
+Australia,Sierra Leone,Directed,98,,1.98
+Australia,Solomon Islands,Directed,99,,119.199997
+Australia,Somalia,Directed,100,,14.34
+Australia,South Africa,Directed,101,,2.67
+Australia,South Sudan,Directed,102,,24.9
+Australia,Sri Lanka,Directed,103,,21.530001
+Australia,Sudan,Directed,104,,0.02
+Australia,Suriname,Directed,105,,0.28
+Australia,Syrian Arab Republic,Directed,106,,11.85
+Australia,Tajikistan,Directed,107,,0.07
+Australia,Tanzania,Directed,108,,3.5
+Australia,Thailand,Directed,109,,4.58
+Australia,Timor-Leste,Directed,110,,69.059998
+Australia,Togo,Directed,111,,0.17
+Australia,Tokelau,Directed,112,,0.96
+Australia,Tonga,Directed,113,,22.74
+Australia,Tunisia,Directed,114,,0.08
+Australia,Türkiye,Directed,115,,0.33
+Australia,Tuvalu,Directed,116,,6.47
+Australia,Uganda,Directed,117,,7.24
+Australia,Ukraine,Directed,118,,0.29
+Australia,Uruguay,Directed,119,,0.11
+Australia,Vanuatu,Directed,120,,50.529999
+Australia,Venezuela,Directed,121,,0.05
+Australia,Viet Nam,Directed,122,,39.09
+Australia,Wallis and Futuna,Directed,123,,0.2
+Australia,West Bank and Gaza Strip,Directed,124,,36.990002
+Australia,Yemen,Directed,125,,14.56
+Australia,Zambia,Directed,126,,3.79
+Australia,Zimbabwe,Directed,127,,2.42
+Austria,Afghanistan,Directed,128,,5.37
+Austria,Albania,Directed,129,,9.09
+Austria,Algeria,Directed,130,,0.34
+Austria,Angola,Directed,131,,0.01
+Austria,Argentina,Directed,132,,0.39
+Austria,Armenia,Directed,133,,4.62
+Austria,Azerbaijan,Directed,134,,0.68
+Austria,Bangladesh,Directed,135,,1.57
+Austria,Belarus,Directed,136,,1.26
+Austria,Belize,Directed,137,,0.01
+Austria,Benin,Directed,138,,0.04
+Austria,Bhutan,Directed,139,,2.18
+Austria,Bolivia,Directed,140,,0.14
+Austria,Bosnia and Herzegovina,Directed,141,,20.84
+Austria,Botswana,Directed,142,,0.01
+Austria,Brazil,Directed,143,,2.24
+Austria,Burkina Faso,Directed,144,,5.73
+Austria,Burundi,Directed,145,,0.03
+Austria,Cabo Verde,Directed,146,,0.01
+Austria,Cambodia,Directed,147,,0.13
+Austria,Cameroon,Directed,148,,2.1
+Austria,Central African Republic,Directed,149,,0.02
+Austria,Chad,Directed,150,,0.02
+Austria,Chile,Directed,151,,0.4
+Austria,China (People's Republic of),Directed,152,,5.73
+Austria,Colombia,Directed,153,,1.15
+Austria,Congo,Directed,154,,0.04
+Austria,Costa Rica,Directed,155,,0.1
+Austria,Cote d'Ivoire,Directed,156,,0.03
+Austria,Cuba,Directed,157,,10.21
+Austria,Democratic People's Republic of Korea,Directed,158,,0.04
+Austria,Democratic Republic of the Congo,Directed,159,,0.29
+Austria,Djibouti,Directed,160,,0.01
+Austria,Dominica,Directed,161,,0.02
+Austria,Dominican Republic,Directed,162,,0.07
+Austria,Ecuador,Directed,163,,0.41
+Austria,Egypt,Directed,164,,2.78
+Austria,El Salvador,Directed,165,,0.66
+Austria,Equatorial Guinea,Directed,166,,0.01
+Austria,Eswatini,Directed,167,,0.02
+Austria,Ethiopia,Directed,168,,11.37
+Austria,Fiji,Directed,169,,0.07
+Austria,Gabon,Directed,170,,0.14
+Austria,Gambia,Directed,171,,0.02
+Austria,Georgia,Directed,172,,8.67
+Austria,Ghana,Directed,173,,1.15
+Austria,Guatemala,Directed,174,,5.06
+Austria,Guinea,Directed,175,,0.02
+Austria,Haiti,Directed,176,,0.04
+Austria,Honduras,Directed,177,,0.9
+Austria,India,Directed,178,,4.01
+Austria,Indonesia,Directed,179,,0.92
+Austria,Iran,Directed,180,,11.11
+Austria,Iraq,Directed,181,,10.34
+Austria,Jamaica,Directed,182,,0.02
+Austria,Jordan,Directed,183,,4.57
+Austria,Kazakhstan,Directed,184,,2.6
+Austria,Kenya,Directed,185,,6.71
+Austria,Kosovo,Directed,186,,8.1
+Austria,Kyrgyzstan,Directed,187,,0.42
+Austria,Lao People's Democratic Republic,Directed,188,,2.36
+Austria,Lebanon,Directed,189,,1.78
+Austria,Lesotho,Directed,190,,0.32
+Austria,Libya,Directed,191,,1.97
+Austria,Madagascar,Directed,192,,0.04
+Austria,Malawi,Directed,193,,0.07
+Austria,Malaysia,Directed,194,,0.05
+Austria,Maldives,Directed,195,,0.06
+Austria,Mali,Directed,196,,0.88
+Austria,Mauritius,Directed,197,,0.01
+Austria,Mexico,Directed,198,,2.46
+Austria,Moldova,Directed,199,,3.65
+Austria,Mongolia,Directed,200,,4
+Austria,Montenegro,Directed,201,,1.14
+Austria,Morocco,Directed,202,,0.38
+Austria,Mozambique,Directed,203,,4.65
+Austria,Myanmar,Directed,204,,0.32
+Austria,Namibia,Directed,205,,0.01
+Austria,Nepal,Directed,206,,1.84
+Austria,Nicaragua,Directed,207,,1.71
+Austria,Niger,Directed,208,,0.66
+Austria,Nigeria,Directed,209,,0.9
+Austria,North Macedonia,Directed,210,,2.26
+Austria,Pakistan,Directed,211,,2.23
+Austria,Panama,Directed,212,,0.04
+Austria,Papua New Guinea,Directed,213,,0.43
+Austria,Paraguay,Directed,214,,0.23
+Austria,Peru,Directed,215,,0.71
+Austria,Philippines,Directed,216,,3.64
+Austria,Rwanda,Directed,217,,0.37
+Austria,Saint Vincent and the Grenadines,Directed,218,,0.06
+Austria,Senegal,Directed,219,,1.63
+Austria,Serbia,Directed,220,,12.11
+Austria,Sierra Leone,Directed,221,,0.05
+Austria,Somalia,Directed,222,,1.24
+Austria,South Africa,Directed,223,,0.48
+Austria,South Sudan,Directed,224,,3.33
+Austria,Sri Lanka,Directed,225,,3.22
+Austria,Sudan,Directed,226,,0.36
+Austria,Suriname,Directed,227,,0.08
+Austria,Syrian Arab Republic,Directed,228,,7.5
+Austria,Tajikistan,Directed,229,,0.23
+Austria,Tanzania,Directed,230,,2.18
+Austria,Thailand,Directed,231,,0.78
+Austria,Togo,Directed,232,,0.1
+Austria,Tunisia,Directed,233,,4.4
+Austria,Türkiye,Directed,234,,44.93
+Austria,Turkmenistan,Directed,235,,0.14
+Austria,Uganda,Directed,236,,13.16
+Austria,Ukraine,Directed,237,,18.18
+Austria,Uruguay,Directed,238,,0.03
+Austria,Uzbekistan,Directed,239,,0.33
+Austria,Venezuela,Directed,240,,0.31
+Austria,Viet Nam,Directed,241,,5.03
+Austria,West Bank and Gaza Strip,Directed,242,,4.74
+Austria,Yemen,Directed,243,,2.37
+Austria,Zambia,Directed,244,,0.3
+Austria,Zimbabwe,Directed,245,,0.38
+Belgium,Afghanistan,Directed,246,,0.19
+Belgium,Albania,Directed,247,,0.04
+Belgium,Algeria,Directed,248,,3.16
+Belgium,Argentina,Directed,249,,0.05
+Belgium,Armenia,Directed,250,,0.29
+Belgium,Bangladesh,Directed,251,,1.01
+Belgium,Benin,Directed,252,,25.27
+Belgium,Bolivia,Directed,253,,14.64
+Belgium,Brazil,Directed,254,,1.15
+Belgium,Burkina Faso,Directed,255,,14.89
+Belgium,Burundi,Directed,256,,36.240002
+Belgium,Cambodia,Directed,257,,3.82
+Belgium,Cameroon,Directed,258,,3.11
+Belgium,Central African Republic,Directed,259,,5.57
+Belgium,Chad,Directed,260,,0.2
+Belgium,Chile,Directed,261,,0.2
+Belgium,Colombia,Directed,262,,1.78
+Belgium,Congo,Directed,263,,0.02
+Belgium,Costa Rica,Directed,264,,0.04
+Belgium,Cote d'Ivoire,Directed,265,,0.09
+Belgium,Cuba,Directed,266,,9.77
+Belgium,Democratic Republic of the Congo,Directed,267,,113.860001
+Belgium,Dominica,Directed,268,,0.19
+Belgium,Dominican Republic,Directed,269,,0.39
+Belgium,Ecuador,Directed,270,,7.32
+Belgium,El Salvador,Directed,271,,1.87
+Belgium,Ethiopia,Directed,272,,3.73
+Belgium,Gambia,Directed,273,,0.07
+Belgium,Georgia,Directed,274,,0.02
+Belgium,Ghana,Directed,275,,4.96
+Belgium,Guatemala,Directed,276,,2.32
+Belgium,Guinea,Directed,277,,4.9
+Belgium,Haiti,Directed,278,,6.94
+Belgium,Honduras,Directed,279,,1.62
+Belgium,India,Directed,280,,1.3
+Belgium,Iraq,Directed,281,,10.98
+Belgium,Jamaica,Directed,282,,0.14
+Belgium,Jordan,Directed,283,,4.48
+Belgium,Kenya,Directed,284,,24.299999
+Belgium,Kosovo,Directed,285,,0.04
+Belgium,Lao People's Democratic Republic,Directed,286,,0.4
+Belgium,Lebanon,Directed,287,,4.81
+Belgium,Libya,Directed,288,,0.1
+Belgium,Madagascar,Directed,289,,2.4
+Belgium,Malawi,Directed,290,,8.72
+Belgium,Mali,Directed,291,,13.16
+Belgium,Mauritania,Directed,292,,0.16
+Belgium,Mexico,Directed,293,,0.06
+Belgium,Moldova,Directed,294,,0.04
+Belgium,Montenegro,Directed,295,,0.08
+Belgium,Morocco,Directed,296,,16.01
+Belgium,Mozambique,Directed,297,,18.530001
+Belgium,Myanmar,Directed,298,,0.11
+Belgium,Namibia,Directed,299,,0.02
+Belgium,Nepal,Directed,300,,0.53
+Belgium,Nicaragua,Directed,301,,2.14
+Belgium,Niger,Directed,302,,20.620001
+Belgium,Nigeria,Directed,303,,10.85
+Belgium,Palau,Directed,304,,0.15
+Belgium,Paraguay,Directed,305,,0.01
+Belgium,Peru,Directed,306,,14.11
+Belgium,Philippines,Directed,307,,3.14
+Belgium,Rwanda,Directed,308,,40.619999
+Belgium,Senegal,Directed,309,,14.6
+Belgium,Serbia,Directed,310,,0.05
+Belgium,Seychelles,Directed,311,,0.01
+Belgium,Sierra Leone,Directed,312,,0.01
+Belgium,Somalia,Directed,313,,4.72
+Belgium,South Africa,Directed,314,,11.63
+Belgium,South Sudan,Directed,315,,10.68
+Belgium,Sri Lanka,Directed,316,,0.82
+Belgium,Sudan,Directed,317,,0.24
+Belgium,Suriname,Directed,318,,1.51
+Belgium,Syrian Arab Republic,Directed,319,,10.28
+Belgium,Tanzania,Directed,320,,13.51
+Belgium,Thailand,Directed,321,,0.1
+Belgium,Togo,Directed,322,,0.88
+Belgium,Tunisia,Directed,323,,0.55
+Belgium,Türkiye,Directed,324,,6.54
+Belgium,Uganda,Directed,325,,22.34
+Belgium,Ukraine,Directed,326,,3.07
+Belgium,Viet Nam,Directed,327,,13.08
+Belgium,West Bank and Gaza Strip,Directed,328,,23.719999
+Belgium,Yemen,Directed,329,,11.79
+Belgium,Zambia,Directed,330,,1.14
+Belgium,Zimbabwe,Directed,331,,1.18
+Canada,Afghanistan,Directed,332,,68.459999
+Canada,Albania,Directed,333,,0.12
+Canada,Angola,Directed,334,,0.02
+Canada,Antigua and Barbuda,Directed,335,,0.07
+Canada,Argentina,Directed,336,,1.13
+Canada,Azerbaijan,Directed,337,,0.02
+Canada,Bangladesh,Directed,338,,39.02
+Canada,Belarus,Directed,339,,0.1
+Canada,Belize,Directed,340,,0.27
+Canada,Benin,Directed,341,,14.52
+Canada,Bhutan,Directed,342,,0.1
+Canada,Bolivia,Directed,343,,11.02
+Canada,Bosnia and Herzegovina,Directed,344,,0.04
+Canada,Botswana,Directed,345,,0.51
+Canada,Brazil,Directed,346,,1.26
+Canada,Burkina Faso,Directed,347,,31.709999
+Canada,Burundi,Directed,348,,6.54
+Canada,Cabo Verde,Directed,349,,0.17
+Canada,Cambodia,Directed,350,,2.37
+Canada,Cameroon,Directed,351,,9.58
+Canada,Central African Republic,Directed,352,,11.74
+Canada,Chad,Directed,353,,11.06
+Canada,Chile,Directed,354,,3.14
+Canada,Colombia,Directed,355,,45.040001
+Canada,Comoros,Directed,356,,0.16
+Canada,Congo,Directed,357,,0.24
+Canada,Costa Rica,Directed,358,,0.68
+Canada,Cote d'Ivoire,Directed,359,,3.93
+Canada,Cuba,Directed,360,,9.68
+Canada,Democratic People's Republic of Korea,Directed,361,,1.55
+Canada,Democratic Republic of the Congo,Directed,362,,37.84
+Canada,Djibouti,Directed,363,,1.44
+Canada,Dominica,Directed,364,,0.91
+Canada,Dominican Republic,Directed,365,,0.73
+Canada,Ecuador,Directed,366,,1.14
+Canada,Egypt,Directed,367,,4.06
+Canada,El Salvador,Directed,368,,1.24
+Canada,Equatorial Guinea,Directed,369,,0.18
+Canada,Eritrea,Directed,370,,0.82
+Canada,Eswatini,Directed,371,,0.25
+Canada,Ethiopia,Directed,372,,89.32
+Canada,Fiji,Directed,373,,0.01
+Canada,Gabon,Directed,374,,0.29
+Canada,Gambia,Directed,375,,0.05
+Canada,Georgia,Directed,376,,0.01
+Canada,Ghana,Directed,377,,43.34
+Canada,Grenada,Directed,378,,0.11
+Canada,Guatemala,Directed,379,,9.29
+Canada,Guinea,Directed,380,,2.72
+Canada,Guinea-Bissau,Directed,381,,0.17
+Canada,Guyana,Directed,382,,0.74
+Canada,Haiti,Directed,383,,90.370003
+Canada,Honduras,Directed,384,,17.59
+Canada,India,Directed,385,,5.47
+Canada,Indonesia,Directed,386,,11.88
+Canada,Iran,Directed,387,,0.16
+Canada,Iraq,Directed,388,,67.580002
+Canada,Jamaica,Directed,389,,2.96
+Canada,Jordan,Directed,390,,87.669998
+Canada,Kazakhstan,Directed,391,,0.16
+Canada,Kenya,Directed,392,,33.110001
+Canada,Kiribati,Directed,393,,0.03
+Canada,Kyrgyzstan,Directed,394,,0.33
+Canada,Lao People's Democratic Republic,Directed,395,,0.96
+Canada,Lebanon,Directed,396,,69.010002
+Canada,Lesotho,Directed,397,,0.05
+Canada,Liberia,Directed,398,,3.46
+Canada,Libya,Directed,399,,4.45
+Canada,Madagascar,Directed,400,,2.39
+Canada,Malawi,Directed,401,,8.94
+Canada,Malaysia,Directed,402,,0.12
+Canada,Maldives,Directed,403,,0.01
+Canada,Mali,Directed,404,,94.449997
+Canada,Marshall Islands,Directed,405,,0.02
+Canada,Mauritania,Directed,406,,0.99
+Canada,Mauritius,Directed,407,,0.23
+Canada,Mexico,Directed,408,,3.92
+Canada,Micronesia,Directed,409,,0.02
+Canada,Moldova,Directed,410,,0.09
+Canada,Mongolia,Directed,411,,4.92
+Canada,Montenegro,Directed,412,,0.01
+Canada,Morocco,Directed,413,,5.53
+Canada,Mozambique,Directed,414,,39.540001
+Canada,Myanmar,Directed,415,,19.26
+Canada,Namibia,Directed,416,,0.19
+Canada,Nauru,Directed,417,,0.01
+Canada,Nepal,Directed,418,,12.68
+Canada,Nicaragua,Directed,419,,8.27
+Canada,Niger,Directed,420,,13.35
+Canada,Nigeria,Directed,421,,56.470001
+Canada,Niue,Directed,422,,0.01
+Canada,North Macedonia,Directed,423,,0.01
+Canada,Pakistan,Directed,424,,23.5
+Canada,Palau,Directed,425,,0.01
+Canada,Panama,Directed,426,,0.5
+Canada,Papua New Guinea,Directed,427,,0.04
+Canada,Paraguay,Directed,428,,0.69
+Canada,Peru,Directed,429,,23.93
+Canada,Philippines,Directed,430,,10.61
+Canada,Rwanda,Directed,431,,6.28
+Canada,Saint Lucia,Directed,432,,0.28
+Canada,Samoa,Directed,433,,0.01
+Canada,Sao Tome and Principe,Directed,434,,0.18
+Canada,Senegal,Directed,435,,42.009998
+Canada,Serbia,Directed,436,,0.03
+Canada,Seychelles,Directed,437,,0.16
+Canada,Sierra Leone,Directed,438,,1.39
+Canada,Solomon Islands,Directed,439,,0.03
+Canada,Somalia,Directed,440,,26.700001
+Canada,South Africa,Directed,441,,5.3
+Canada,South Sudan,Directed,442,,109.889999
+Canada,Sri Lanka,Directed,443,,2.89
+Canada,Sudan,Directed,444,,11.49
+Canada,Suriname,Directed,445,,0.34
+Canada,Syrian Arab Republic,Directed,446,,107.910004
+Canada,Tajikistan,Directed,447,,0.59
+Canada,Tanzania,Directed,448,,90.279999
+Canada,Thailand,Directed,449,,0.14
+Canada,Timor-Leste,Directed,450,,0.13
+Canada,Togo,Directed,451,,1.83
+Canada,Tokelau,Directed,452,,0.01
+Canada,Tonga,Directed,453,,0.01
+Canada,Türkiye,Directed,454,,0.23
+Canada,Tuvalu,Directed,455,,0.01
+Canada,Uganda,Directed,456,,18.67
+Canada,Ukraine,Directed,457,,38.029999
+Canada,Uruguay,Directed,458,,0.17
+Canada,Vanuatu,Directed,459,,0.17
+Canada,Venezuela,Directed,460,,0.62
+Canada,Viet Nam,Directed,461,,14.77
+Canada,West Bank and Gaza Strip,Directed,462,,26.280001
+Canada,Yemen,Directed,463,,41.970001
+Canada,Zambia,Directed,464,,1.93
+Canada,Zimbabwe,Directed,465,,0.86
+Czech Republic,Afghanistan,Directed,466,,2.38
+Czech Republic,Albania,Directed,467,,0.23
+Czech Republic,Algeria,Directed,468,,0.01
+Czech Republic,Angola,Directed,469,,0.11
+Czech Republic,Armenia,Directed,470,,0.38
+Czech Republic,Azerbaijan,Directed,471,,0.05
+Czech Republic,Bangladesh,Directed,472,,0.24
+Czech Republic,Belarus,Directed,473,,0.75
+Czech Republic,Belize,Directed,474,,0.01
+Czech Republic,Benin,Directed,475,,0.01
+Czech Republic,Bolivia,Directed,476,,0.01
+Czech Republic,Bosnia and Herzegovina,Directed,477,,3.52
+Czech Republic,Cabo Verde,Directed,478,,0.06
+Czech Republic,Cambodia,Directed,479,,1.54
+Czech Republic,Central African Republic,Directed,480,,0.23
+Czech Republic,Chile,Directed,481,,0.13
+Czech Republic,Colombia,Directed,482,,0.17
+Czech Republic,Comoros,Directed,483,,0.01
+Czech Republic,Costa Rica,Directed,484,,0.02
+Czech Republic,Cote d'Ivoire,Directed,485,,1.15
+Czech Republic,Cuba,Directed,486,,0.34
+Czech Republic,Democratic Republic of the Congo,Directed,487,,0.02
+Czech Republic,Ecuador,Directed,488,,0.01
+Czech Republic,Egypt,Directed,489,,0.08
+Czech Republic,El Salvador,Directed,490,,0.01
+Czech Republic,Ethiopia,Directed,491,,3.8
+Czech Republic,Gambia,Directed,492,,0.01
+Czech Republic,Georgia,Directed,493,,3.21
+Czech Republic,Ghana,Directed,494,,0.09
+Czech Republic,Guatemala,Directed,495,,0.01
+Czech Republic,Guinea,Directed,496,,0.05
+Czech Republic,Honduras,Directed,497,,0.01
+Czech Republic,India,Directed,498,,0.01
+Czech Republic,Indonesia,Directed,499,,0.02
+Czech Republic,Iran,Directed,500,,0.02
+Czech Republic,Iraq,Directed,501,,2.48
+Czech Republic,Jordan,Directed,502,,4.32
+Czech Republic,Kazakhstan,Directed,503,,0.03
+Czech Republic,Kenya,Directed,504,,0.06
+Czech Republic,Kosovo,Directed,505,,1.06
+Czech Republic,Kyrgyzstan,Directed,506,,0.13
+Czech Republic,Lao People's Democratic Republic,Directed,507,,0.04
+Czech Republic,Lebanon,Directed,508,,0.79
+Czech Republic,Libya,Directed,509,,1.24
+Czech Republic,Mali,Directed,510,,0.06
+Czech Republic,Mexico,Directed,511,,0.02
+Czech Republic,Moldova,Directed,512,,4.73
+Czech Republic,Mongolia,Directed,513,,1.46
+Czech Republic,Montenegro,Directed,514,,0.07
+Czech Republic,Morocco,Directed,515,,0.08
+Czech Republic,Mozambique,Directed,516,,0.03
+Czech Republic,Myanmar,Directed,517,,0.88
+Czech Republic,Namibia,Directed,518,,0.06
+Czech Republic,Nepal,Directed,519,,0.19
+Czech Republic,Nicaragua,Directed,520,,0.01
+Czech Republic,Nigeria,Directed,521,,0.27
+Czech Republic,North Macedonia,Directed,522,,1.46
+Czech Republic,Pakistan,Directed,523,,0.03
+Czech Republic,Palau,Directed,524,,0.01
+Czech Republic,Panama,Directed,525,,0.06
+Czech Republic,Papua New Guinea,Directed,526,,0.01
+Czech Republic,Paraguay,Directed,527,,0.03
+Czech Republic,Peru,Directed,528,,0.2
+Czech Republic,Philippines,Directed,529,,0.1
+Czech Republic,Senegal,Directed,530,,0.15
+Czech Republic,Serbia,Directed,531,,2.32
+Czech Republic,Sierra Leone,Directed,532,,0.01
+Czech Republic,South Africa,Directed,533,,0.02
+Czech Republic,South Sudan,Directed,534,,0.4
+Czech Republic,Sri Lanka,Directed,535,,0.17
+Czech Republic,Sudan,Directed,536,,0.03
+Czech Republic,Syrian Arab Republic,Directed,537,,2.37
+Czech Republic,Tajikistan,Directed,538,,0.05
+Czech Republic,Thailand,Directed,539,,0.01
+Czech Republic,Tunisia,Directed,540,,0.02
+Czech Republic,Uganda,Directed,541,,0.17
+Czech Republic,Ukraine,Directed,542,,2.9
+Czech Republic,Uzbekistan,Directed,543,,0.07
+Czech Republic,Viet Nam,Directed,544,,0.06
+Czech Republic,West Bank and Gaza Strip,Directed,545,,0.87
+Czech Republic,Yemen,Directed,546,,0.73
+Czech Republic,Zambia,Directed,547,,1.69
+Czech Republic,Zimbabwe,Directed,548,,0.05
+Denmark,Afghanistan,Directed,549,,66.309998
+Denmark,Albania,Directed,550,,2.35
+Denmark,Angola,Directed,551,,0.3
+Denmark,Armenia,Directed,552,,0.09
+Denmark,Bangladesh,Directed,553,,32.880001
+Denmark,Bolivia,Directed,554,,40.950001
+Denmark,Brazil,Directed,555,,0.67
+Denmark,Burkina Faso,Directed,556,,29.42
+Denmark,Cambodia,Directed,557,,1.28
+Denmark,Central African Republic,Directed,558,,3.03
+Denmark,Chile,Directed,559,,4.58
+Denmark,Colombia,Directed,560,,1.83
+Denmark,Cuba,Directed,561,,2.75
+Denmark,Ethiopia,Directed,562,,31.120001
+Denmark,Georgia,Directed,563,,5.17
+Denmark,Ghana,Directed,564,,16.41
+Denmark,India,Directed,565,,3.41
+Denmark,Indonesia,Directed,566,,12.39
+Denmark,Iran,Directed,567,,0.08
+Denmark,Iraq,Directed,568,,33.48
+Denmark,Jordan,Directed,569,,0.02
+Denmark,Kenya,Directed,570,,35.18
+Denmark,Kosovo,Directed,571,,1.81
+Denmark,Lebanon,Directed,572,,6.64
+Denmark,Libya,Directed,573,,1.55
+Denmark,Malaysia,Directed,574,,0.15
+Denmark,Mali,Directed,575,,26.34
+Denmark,Mexico,Directed,576,,2.16
+Denmark,Moldova,Directed,577,,0.59
+Denmark,Mongolia,Directed,578,,0.21
+Denmark,Morocco,Directed,579,,1.59
+Denmark,Mozambique,Directed,580,,42.57
+Denmark,Myanmar,Directed,581,,31.440001
+Denmark,Nepal,Directed,582,,19.110001
+Denmark,Niger,Directed,583,,7.37
+Denmark,Nigeria,Directed,584,,1.32
+Denmark,North Macedonia,Directed,585,,0.03
+Denmark,Pakistan,Directed,586,,0.94
+Denmark,Peru,Directed,587,,0.07
+Denmark,Somalia,Directed,588,,37.16
+Denmark,South Africa,Directed,589,,2.31
+Denmark,South Sudan,Directed,590,,14.81
+Denmark,Sri Lanka,Directed,591,,0.03
+Denmark,Sudan,Directed,592,,4.38
+Denmark,Syrian Arab Republic,Directed,593,,44.049999
+Denmark,Tanzania,Directed,594,,52.889999
+Denmark,Tunisia,Directed,595,,2.59
+Denmark,Türkiye,Directed,596,,21.48
+Denmark,Uganda,Directed,597,,46.41
+Denmark,Ukraine,Directed,598,,12.83
+Denmark,Viet Nam,Directed,599,,6.23
+Denmark,West Bank and Gaza Strip,Directed,600,,18.690001
+Denmark,Yemen,Directed,601,,28.299999
+Denmark,Zimbabwe,Directed,602,,0.46
+Finland,Afghanistan,Directed,603,,20.629999
+Finland,Albania,Directed,604,,0.13
+Finland,Algeria,Directed,605,,0.12
+Finland,Argentina,Directed,606,,0.07
+Finland,Armenia,Directed,607,,0.06
+Finland,Azerbaijan,Directed,608,,0.06
+Finland,Bangladesh,Directed,609,,0.96
+Finland,Belarus,Directed,610,,0.08
+Finland,Benin,Directed,611,,0.01
+Finland,Bhutan,Directed,612,,0.13
+Finland,Bolivia,Directed,613,,0.58
+Finland,Bosnia and Herzegovina,Directed,614,,0.07
+Finland,Botswana,Directed,615,,0.11
+Finland,Brazil,Directed,616,,0.45
+Finland,Burkina Faso,Directed,617,,0.65
+Finland,Burundi,Directed,618,,0.59
+Finland,Cambodia,Directed,619,,1.61
+Finland,Cameroon,Directed,620,,0.32
+Finland,Central African Republic,Directed,621,,0.71
+Finland,China (People's Republic of),Directed,622,,0.66
+Finland,Colombia,Directed,623,,10.46
+Finland,Cote d'Ivoire,Directed,624,,0.24
+Finland,Democratic People's Republic of Korea,Directed,625,,0.73
+Finland,Democratic Republic of the Congo,Directed,626,,1.51
+Finland,Dominican Republic,Directed,627,,0.26
+Finland,Ecuador,Directed,628,,0.11
+Finland,Egypt,Directed,629,,0.91
+Finland,Eritrea,Directed,630,,0.13
+Finland,Eswatini,Directed,631,,0.15
+Finland,Ethiopia,Directed,632,,21.17
+Finland,Gambia,Directed,633,,0.25
+Finland,Georgia,Directed,634,,1.46
+Finland,Ghana,Directed,635,,1.04
+Finland,Guatemala,Directed,636,,0.2
+Finland,Guinea,Directed,637,,0.22
+Finland,Guyana,Directed,638,,0.09
+Finland,Haiti,Directed,639,,0.06
+Finland,India,Directed,640,,1.6
+Finland,Indonesia,Directed,641,,5.24
+Finland,Iraq,Directed,642,,5.14
+Finland,Jordan,Directed,643,,2.11
+Finland,Kenya,Directed,644,,16.139999
+Finland,Kosovo,Directed,645,,1.63
+Finland,Kyrgyzstan,Directed,646,,0.95
+Finland,Lao People's Democratic Republic,Directed,647,,1.55
+Finland,Lebanon,Directed,648,,1.85
+Finland,Lesotho,Directed,649,,0.1
+Finland,Liberia,Directed,650,,0.79
+Finland,Libya,Directed,651,,0.34
+Finland,Madagascar,Directed,652,,0.21
+Finland,Malawi,Directed,653,,0.99
+Finland,Mali,Directed,654,,0.35
+Finland,Mauritania,Directed,655,,0.15
+Finland,Mexico,Directed,656,,0.26
+Finland,Moldova,Directed,657,,1.08
+Finland,Mongolia,Directed,658,,0.49
+Finland,Morocco,Directed,659,,0.21
+Finland,Mozambique,Directed,660,,17.110001
+Finland,Myanmar,Directed,661,,11.9
+Finland,Namibia,Directed,662,,2.4
+Finland,Nepal,Directed,663,,22.76
+Finland,Nicaragua,Directed,664,,0.47
+Finland,Nigeria,Directed,665,,2.51
+Finland,North Macedonia,Directed,666,,0.1
+Finland,Pakistan,Directed,667,,0.25
+Finland,Peru,Directed,668,,0.52
+Finland,Philippines,Directed,669,,0.65
+Finland,Rwanda,Directed,670,,0.1
+Finland,Senegal,Directed,671,,0.6
+Finland,Sierra Leone,Directed,672,,0.59
+Finland,Somalia,Directed,673,,15.22
+Finland,South Africa,Directed,674,,1.56
+Finland,South Sudan,Directed,675,,6.04
+Finland,Sri Lanka,Directed,676,,0.61
+Finland,Sudan,Directed,677,,0.23
+Finland,Syrian Arab Republic,Directed,678,,10.46
+Finland,Tajikistan,Directed,679,,1.24
+Finland,Tanzania,Directed,680,,16.76
+Finland,Thailand,Directed,681,,0.18
+Finland,Timor-Leste,Directed,682,,0.24
+Finland,Togo,Directed,683,,0.32
+Finland,Tunisia,Directed,684,,0.89
+Finland,Türkiye,Directed,685,,14.08
+Finland,Uganda,Directed,686,,4.94
+Finland,Ukraine,Directed,687,,7.21
+Finland,Viet Nam,Directed,688,,13.55
+Finland,West Bank and Gaza Strip,Directed,689,,5.14
+Finland,Yemen,Directed,690,,5.24
+Finland,Zambia,Directed,691,,10.9
+Finland,Zimbabwe,Directed,692,,0.65
+France,Afghanistan,Directed,693,,21.41
+France,Albania,Directed,694,,4.72
+France,Algeria,Directed,695,,82.550003
+France,Angola,Directed,696,,5.97
+France,Antigua and Barbuda,Directed,697,,0.01
+France,Argentina,Directed,698,,11.2
+France,Armenia,Directed,699,,39.099998
+France,Bangladesh,Directed,700,,20.879999
+France,Belarus,Directed,701,,2.02
+France,Benin,Directed,702,,42.330002
+France,Bhutan,Directed,703,,0.02
+France,Bolivia,Directed,704,,119.610001
+France,Bosnia and Herzegovina,Directed,705,,2.37
+France,Botswana,Directed,706,,0.13
+France,Brazil,Directed,707,,155.619995
+France,Burkina Faso,Directed,708,,85.589996
+France,Burundi,Directed,709,,5.66
+France,Cabo Verde,Directed,710,,25.280001
+France,Cambodia,Directed,711,,92.110001
+France,Cameroon,Directed,712,,271.940002
+France,Central African Republic,Directed,713,,30.540001
+France,Chad,Directed,714,,92.709999
+France,Chile,Directed,715,,5.37
+France,China (People's Republic of),Directed,716,,64.449997
+France,Comoros,Directed,717,,20.65
+France,Congo,Directed,718,,27.379999
+France,Costa Rica,Directed,719,,4.45
+France,Cote d'Ivoire,Directed,720,,11.64
+France,Cuba,Directed,721,,101.82
+France,Democratic People's Republic of Korea,Directed,722,,1.58
+France,Democratic Republic of the Congo,Directed,723,,34.5
+France,Djibouti,Directed,724,,41.290001
+France,Dominican Republic,Directed,725,,15.17
+France,Ecuador,Directed,726,,36.91
+France,Egypt,Directed,727,,220.559998
+France,El Salvador,Directed,728,,3.62
+France,Equatorial Guinea,Directed,729,,2.13
+France,Eritrea,Directed,730,,0.45
+France,Eswatini,Directed,731,,0.14
+France,Ethiopia,Directed,732,,53.060001
+France,Fiji,Directed,733,,0.6
+France,Gabon,Directed,734,,84.32
+France,Georgia,Directed,735,,7.66
+France,Ghana,Directed,736,,27
+France,Guatemala,Directed,737,,3
+France,Guinea,Directed,738,,37.540001
+France,Guinea-Bissau,Directed,739,,0.91
+France,Guyana,Directed,740,,0.24
+France,Haiti,Directed,741,,37.310001
+France,Honduras,Directed,742,,1.66
+France,India,Directed,743,,180.869995
+France,Indonesia,Directed,744,,189.160004
+France,Iran,Directed,745,,10.28
+France,Iraq,Directed,746,,446.220001
+France,Jamaica,Directed,747,,0.26
+France,Jordan,Directed,748,,159.369995
+France,Kazakhstan,Directed,749,,4.29
+France,Kenya,Directed,750,,34.779999
+France,Kosovo,Directed,751,,2.2
+France,Kyrgyzstan,Directed,752,,0.73
+France,Lao People's Democratic Republic,Directed,753,,11.09
+France,Lebanon,Directed,754,,10.09
+France,Liberia,Directed,755,,0.08
+France,Libya,Directed,756,,5.06
+France,Madagascar,Directed,757,,54.599998
+France,Malawi,Directed,758,,0.3
+France,Malaysia,Directed,759,,5.63
+France,Maldives,Directed,760,,0.44
+France,Mali,Directed,761,,95.160004
+France,Mauritania,Directed,762,,16.030001
+France,Mauritius,Directed,763,,3.09
+France,Mexico,Directed,764,,188.839996
+France,Moldova,Directed,765,,3.68
+France,Mongolia,Directed,766,,2.04
+France,Morocco,Directed,767,,337.109985
+France,Mozambique,Directed,768,,1.88
+France,Myanmar,Directed,769,,4.16
+France,Namibia,Directed,770,,31.6
+France,Nepal,Directed,771,,0.8
+France,Nicaragua,Directed,772,,0.74
+France,Niger,Directed,773,,66
+France,Nigeria,Directed,774,,77.040001
+France,North Macedonia,Directed,775,,1.79
+France,Pakistan,Directed,776,,95.879997
+France,Panama,Directed,777,,0.39
+France,Papua New Guinea,Directed,778,,0.01
+France,Paraguay,Directed,779,,1.11
+France,Peru,Directed,780,,8.2
+France,Rwanda,Directed,781,,3.65
+France,Sao Tome and Principe,Directed,782,,0.55
+France,Senegal,Directed,783,,126.059998
+France,Serbia,Directed,784,,5.01
+France,Seychelles,Directed,785,,2.3
+France,Sierra Leone,Directed,786,,0.42
+France,Solomon Islands,Directed,787,,0.01
+France,Somalia,Directed,788,,3.73
+France,South Sudan,Directed,789,,3.6
+France,Sri Lanka,Directed,790,,1.67
+France,Sudan,Directed,791,,4.19
+France,Suriname,Directed,792,,0.9
+France,Syrian Arab Republic,Directed,793,,27.950001
+France,Tajikistan,Directed,794,,0.16
+France,Tanzania,Directed,795,,30.91
+France,Thailand,Directed,796,,12.6
+France,Timor-Leste,Directed,797,,0.22
+France,Togo,Directed,798,,22.219999
+France,Tonga,Directed,799,,0.02
+France,Tunisia,Directed,800,,62.119999
+France,Türkiye,Directed,801,,414.980011
+France,Turkmenistan,Directed,802,,0.24
+France,Uganda,Directed,803,,51.389999
+France,Ukraine,Directed,804,,17.67
+France,Uruguay,Directed,805,,1.11
+France,Uzbekistan,Directed,806,,2.86
+France,Vanuatu,Directed,807,,2.18
+France,Venezuela,Directed,808,,6.83
+France,Viet Nam,Directed,809,,41.610001
+France,Wallis and Futuna,Directed,810,,88.470001
+France,West Bank and Gaza Strip,Directed,811,,44.689999
+France,Yemen,Directed,812,,5.7
+France,Zambia,Directed,813,,2.39
+France,Zimbabwe,Directed,814,,2.05
+Germany,Afghanistan,Directed,815,,478.429993
+Germany,Albania,Directed,816,,26.9
+Germany,Algeria,Directed,817,,8.46
+Germany,Angola,Directed,818,,2.65
+Germany,Antigua and Barbuda,Directed,819,,0.03
+Germany,Argentina,Directed,820,,10.93
+Germany,Armenia,Directed,821,,72.870003
+Germany,Azerbaijan,Directed,822,,0.28
+Germany,Bangladesh,Directed,823,,79.169998
+Germany,Belarus,Directed,824,,14.55
+Germany,Belize,Directed,825,,0.05
+Germany,Benin,Directed,826,,37.27
+Germany,Bhutan,Directed,827,,0.63
+Germany,Bolivia,Directed,828,,42.959999
+Germany,Bosnia and Herzegovina,Directed,829,,72.279999
+Germany,Botswana,Directed,830,,0.42
+Germany,Brazil,Directed,831,,66.910004
+Germany,Burkina Faso,Directed,832,,41.009998
+Germany,Burundi,Directed,833,,32.869999
+Germany,Cabo Verde,Directed,834,,0.12
+Germany,Cambodia,Directed,835,,30.459999
+Germany,Cameroon,Directed,836,,100.059998
+Germany,Central African Republic,Directed,837,,48.25
+Germany,Chad,Directed,838,,26.549999
+Germany,Chile,Directed,839,,24.629999
+Germany,China (People's Republic of),Directed,840,,403.779999
+Germany,Colombia,Directed,841,,156.320007
+Germany,Congo,Directed,842,,0.54
+Germany,Cook Islands,Directed,843,,0.06
+Germany,Costa Rica,Directed,844,,2.72
+Germany,Cote d'Ivoire,Directed,845,,22.629999
+Germany,Cuba,Directed,846,,2.89
+Germany,Democratic People's Republic of Korea,Directed,847,,2.72
+Germany,Democratic Republic of the Congo,Directed,848,,113.599998
+Germany,Djibouti,Directed,849,,0.54
+Germany,Dominica,Directed,850,,0.09
+Germany,Dominican Republic,Directed,851,,0.32
+Germany,Ecuador,Directed,852,,29.99
+Germany,El Salvador,Directed,853,,13.07
+Germany,Equatorial Guinea,Directed,854,,0.03
+Germany,Eritrea,Directed,855,,2.26
+Germany,Ethiopia,Directed,856,,137.339996
+Germany,Fiji,Directed,857,,2.17
+Germany,Gambia,Directed,858,,1.36
+Germany,Georgia,Directed,859,,22.379999
+Germany,Ghana,Directed,860,,55.68
+Germany,Grenada,Directed,861,,1.18
+Germany,Guatemala,Directed,862,,9.79
+Germany,Guinea,Directed,863,,12.18
+Germany,Guinea-Bissau,Directed,864,,0.12
+Germany,Guyana,Directed,865,,0.04
+Germany,Haiti,Directed,866,,16.940001
+Germany,Honduras,Directed,867,,15.53
+Germany,India,Directed,868,,525.98999
+Germany,Indonesia,Directed,869,,268.26001
+Germany,Iran,Directed,870,,70.669998
+Germany,Iraq,Directed,871,,534.280029
+Germany,Jordan,Directed,872,,302.149994
+Germany,Kazakhstan,Directed,873,,16.68
+Germany,Kenya,Directed,874,,75.879997
+Germany,Kiribati,Directed,875,,0.06
+Germany,Kosovo,Directed,876,,43.900002
+Germany,Kyrgyzstan,Directed,877,,31.209999
+Germany,Lao People's Democratic Republic,Directed,878,,22.93
+Germany,Lebanon,Directed,879,,190.710007
+Germany,Lesotho,Directed,880,,1.2
+Germany,Liberia,Directed,881,,33.07
+Germany,Libya,Directed,882,,172.070007
+Germany,Madagascar,Directed,883,,41.509998
+Germany,Malawi,Directed,884,,67.379997
+Germany,Malaysia,Directed,885,,12.99
+Germany,Maldives,Directed,886,,0.04
+Germany,Mali,Directed,887,,72.529999
+Germany,Marshall Islands,Directed,888,,0.37
+Germany,Mauritania,Directed,889,,18.65
+Germany,Mauritius,Directed,890,,0.7
+Germany,Mexico,Directed,891,,277.579987
+Germany,Moldova,Directed,892,,11.51
+Germany,Mongolia,Directed,893,,8.35
+Germany,Morocco,Directed,894,,348.429993
+Germany,Mozambique,Directed,895,,55.650002
+Germany,Myanmar,Directed,896,,40.080002
+Germany,Namibia,Directed,897,,36.5
+Germany,Nepal,Directed,898,,44.639999
+Germany,Nicaragua,Directed,899,,10.83
+Germany,Niger,Directed,900,,38.32
+Germany,Nigeria,Directed,901,,290.390015
+Germany,Pakistan,Directed,902,,121.050003
+Germany,Palau,Directed,903,,0.01
+Germany,Panama,Directed,904,,0.38
+Germany,Papua New Guinea,Directed,905,,0.91
+Germany,Paraguay,Directed,906,,3.96
+Germany,Peru,Directed,907,,88.410004
+Germany,Philippines,Directed,908,,34.950001
+Germany,Rwanda,Directed,909,,45.240002
+Germany,Saint Lucia,Directed,910,,0.02
+Germany,Saint Vincent and the Grenadines,Directed,911,,0.01
+Germany,Sao Tome and Principe,Directed,912,,0.03
+Germany,Senegal,Directed,913,,18.24
+Germany,Serbia,Directed,914,,167.309998
+Germany,Seychelles,Directed,915,,0.01
+Germany,Sierra Leone,Directed,916,,17.219999
+Germany,Solomon Islands,Directed,917,,0.4
+Germany,Somalia,Directed,918,,222.860001
+Germany,South Africa,Directed,919,,110.290001
+Germany,South Sudan,Directed,920,,151.550003
+Germany,Sri Lanka,Directed,921,,2.34
+Germany,Sudan,Directed,922,,46.860001
+Germany,Suriname,Directed,923,,0.06
+Germany,Syrian Arab Republic,Directed,924,,879.789978
+Germany,Tajikistan,Directed,925,,24.309999
+Germany,Tanzania,Directed,926,,44.16
+Germany,Thailand,Directed,927,,9.98
+Germany,Timor-Leste,Directed,928,,6.55
+Germany,Togo,Directed,929,,25.860001
+Germany,Tokelau,Directed,930,,0.01
+Germany,Tonga,Directed,931,,0.03
+Germany,Tunisia,Directed,932,,157.440002
+Germany,Türkiye,Directed,933,,516.27002
+Germany,Turkmenistan,Directed,934,,1.26
+Germany,Uganda,Directed,935,,64.239998
+Germany,Ukraine,Directed,936,,202.850006
+Germany,Uruguay,Directed,937,,26.209999
+Germany,Uzbekistan,Directed,938,,15.42
+Germany,Vanuatu,Directed,939,,0.06
+Germany,Venezuela,Directed,940,,7.11
+Germany,Viet Nam,Directed,941,,114.269997
+Germany,West Bank and Gaza Strip,Directed,942,,175.970001
+Germany,Yemen,Directed,943,,248.960007
+Germany,Zambia,Directed,944,,32.849998
+Germany,Zimbabwe,Directed,945,,29.92
+Greece,Albania,Directed,946,,0.99
+Greece,Algeria,Directed,947,,0.1
+Greece,Argentina,Directed,948,,0.05
+Greece,Armenia,Directed,949,,0.09
+Greece,Bosnia and Herzegovina,Directed,950,,0.02
+Greece,Brazil,Directed,951,,0.02
+Greece,Central African Republic,Directed,952,,0.01
+Greece,Congo,Directed,953,,0.01
+Greece,Democratic Republic of the Congo,Directed,954,,0.13
+Greece,Egypt,Directed,955,,0.29
+Greece,El Salvador,Directed,956,,0.01
+Greece,Ethiopia,Directed,957,,0.05
+Greece,Georgia,Directed,958,,0.02
+Greece,Ghana,Directed,959,,0.01
+Greece,Iran,Directed,960,,0.04
+Greece,Iraq,Directed,961,,0.02
+Greece,Jordan,Directed,962,,0.06
+Greece,Kenya,Directed,963,,0.01
+Greece,Lebanon,Directed,964,,0.11
+Greece,Mexico,Directed,965,,0.02
+Greece,Moldova,Directed,966,,0.05
+Greece,Montenegro,Directed,967,,0.02
+Greece,North Macedonia,Directed,968,,0.06
+Greece,Peru,Directed,969,,0.01
+Greece,Serbia,Directed,970,,0.21
+Greece,South Africa,Directed,971,,0.05
+Greece,Sudan,Directed,972,,0.01
+Greece,Syrian Arab Republic,Directed,973,,0.35
+Greece,Tunisia,Directed,974,,0.22
+Greece,Türkiye,Directed,975,,12.68
+Greece,Uganda,Directed,976,,0.01
+Greece,Ukraine,Directed,977,,0.22
+Greece,Uruguay,Directed,978,,0.02
+Greece,Uzbekistan,Directed,979,,0.01
+Greece,West Bank and Gaza Strip,Directed,980,,0.21
+Greece,Zimbabwe,Directed,981,,0.01
+Hungary,Afghanistan,Directed,982,,0.23
+Hungary,Albania,Directed,983,,0.04
+Hungary,Algeria,Directed,984,,0.89
+Hungary,Angola,Directed,985,,0.14
+Hungary,Argentina,Directed,986,,0.02
+Hungary,Armenia,Directed,987,,0.02
+Hungary,Azerbaijan,Directed,988,,1.12
+Hungary,Bangladesh,Directed,989,,0.03
+Hungary,Belarus,Directed,990,,0.06
+Hungary,Bosnia and Herzegovina,Directed,991,,0.17
+Hungary,Brazil,Directed,992,,0.03
+Hungary,Burkina Faso,Directed,993,,0.01
+Hungary,Cambodia,Directed,994,,0.07
+Hungary,Cameroon,Directed,995,,0.06
+Hungary,China (People's Republic of),Directed,996,,2.67
+Hungary,Colombia,Directed,997,,0.17
+Hungary,Ecuador,Directed,998,,0.59
+Hungary,Egypt,Directed,999,,0.2
+Hungary,Ethiopia,Directed,1000,,0.07
+Hungary,Gambia,Directed,1001,,0.02
+Hungary,Georgia,Directed,1002,,0.51
+Hungary,Ghana,Directed,1003,,0.27
+Hungary,Guinea,Directed,1004,,0.01
+Hungary,India,Directed,1005,,1.24
+Hungary,Indonesia,Directed,1006,,0.82
+Hungary,Iran,Directed,1007,,0.83
+Hungary,Iraq,Directed,1008,,0.69
+Hungary,Jordan,Directed,1009,,2.47
+Hungary,Kazakhstan,Directed,1010,,0.63
+Hungary,Kenya,Directed,1011,,0.2
+Hungary,Kosovo,Directed,1012,,0.1
+Hungary,Kyrgyzstan,Directed,1013,,0.04
+Hungary,Lao People's Democratic Republic,Directed,1014,,2.38
+Hungary,Lebanon,Directed,1015,,0.17
+Hungary,Libya,Directed,1016,,0.02
+Hungary,Madagascar,Directed,1017,,0.01
+Hungary,Malaysia,Directed,1018,,0.01
+Hungary,Mauritius,Directed,1019,,0.01
+Hungary,Mexico,Directed,1020,,0.12
+Hungary,Moldova,Directed,1021,,0.14
+Hungary,Mongolia,Directed,1022,,0.91
+Hungary,Montenegro,Directed,1023,,0.16
+Hungary,Morocco,Directed,1024,,0.31
+Hungary,Myanmar,Directed,1025,,0.02
+Hungary,Namibia,Directed,1026,,0.09
+Hungary,Nepal,Directed,1027,,0.02
+Hungary,Nigeria,Directed,1028,,1.37
+Hungary,North Macedonia,Directed,1029,,0.14
+Hungary,Pakistan,Directed,1030,,0.39
+Hungary,Peru,Directed,1031,,0.09
+Hungary,Philippines,Directed,1032,,0.04
+Hungary,Serbia,Directed,1033,,2.33
+Hungary,Sierra Leone,Directed,1034,,0.01
+Hungary,Somalia,Directed,1035,,0.18
+Hungary,South Africa,Directed,1036,,0.04
+Hungary,South Sudan,Directed,1037,,0.31
+Hungary,Sri Lanka,Directed,1038,,1.16
+Hungary,Sudan,Directed,1039,,0.04
+Hungary,Syrian Arab Republic,Directed,1040,,0.41
+Hungary,Thailand,Directed,1041,,0.01
+Hungary,Tunisia,Directed,1042,,0.97
+Hungary,Türkiye,Directed,1043,,3.85
+Hungary,Uganda,Directed,1044,,0.07
+Hungary,Ukraine,Directed,1045,,2.03
+Hungary,Uzbekistan,Directed,1046,,0.01
+Hungary,Venezuela,Directed,1047,,0.02
+Hungary,Viet Nam,Directed,1048,,1.75
+Hungary,West Bank and Gaza Strip,Directed,1049,,0.2
+Hungary,Yemen,Directed,1050,,0.67
+Hungary,Zimbabwe,Directed,1051,,0.02
+Iceland,Afghanistan,Directed,1052,,0.51
+Iceland,Belarus,Directed,1053,,0.19
+Iceland,Congo,Directed,1054,,0.11
+Iceland,Egypt,Directed,1055,,0.08
+Iceland,Ethiopia,Directed,1056,,0.48
+Iceland,Georgia,Directed,1057,,0.28
+Iceland,Jordan,Directed,1058,,0.3
+Iceland,Kenya,Directed,1059,,0.07
+Iceland,Lebanon,Directed,1060,,1.14
+Iceland,Lesotho,Directed,1061,,0.05
+Iceland,Malawi,Directed,1062,,3.81
+Iceland,Mozambique,Directed,1063,,3.08
+Iceland,Somalia,Directed,1064,,0.35
+Iceland,South Africa,Directed,1065,,0.04
+Iceland,Syrian Arab Republic,Directed,1066,,1.21
+Iceland,Türkiye,Directed,1067,,0.16
+Iceland,Uganda,Directed,1068,,5.17
+Iceland,West Bank and Gaza Strip,Directed,1069,,0.81
+Iceland,Yemen,Directed,1070,,0.28
+Ireland,Afghanistan,Directed,1071,,1.69
+Ireland,Albania,Directed,1072,,0.02
+Ireland,Angola,Directed,1073,,0.46
+Ireland,Argentina,Directed,1074,,0.01
+Ireland,Bangladesh,Directed,1075,,2.19
+Ireland,Benin,Directed,1076,,0.05
+Ireland,Bolivia,Directed,1077,,0.36
+Ireland,Bosnia and Herzegovina,Directed,1078,,0.01
+Ireland,Brazil,Directed,1079,,0.23
+Ireland,Burkina Faso,Directed,1080,,0.35
+Ireland,Burundi,Directed,1081,,1.6
+Ireland,Cambodia,Directed,1082,,0.67
+Ireland,Cameroon,Directed,1083,,0.6
+Ireland,Central African Republic,Directed,1084,,7.75
+Ireland,Chad,Directed,1085,,1.24
+Ireland,Chile,Directed,1086,,0.02
+Ireland,China (People's Republic of),Directed,1087,,0.01
+Ireland,Colombia,Directed,1088,,2.64
+Ireland,Cote d'Ivoire,Directed,1089,,0.02
+Ireland,Democratic People's Republic of Korea,Directed,1090,,0.54
+Ireland,Democratic Republic of the Congo,Directed,1091,,10.88
+Ireland,Dominica,Directed,1092,,0.17
+Ireland,Dominican Republic,Directed,1093,,0.04
+Ireland,Egypt,Directed,1094,,0.09
+Ireland,El Salvador,Directed,1095,,0.17
+Ireland,Eritrea,Directed,1096,,1.39
+Ireland,Eswatini,Directed,1097,,0.03
+Ireland,Ethiopia,Directed,1098,,40.619999
+Ireland,Gabon,Directed,1099,,0.01
+Ireland,Gambia,Directed,1100,,0.11
+Ireland,Georgia,Directed,1101,,0.16
+Ireland,Ghana,Directed,1102,,0.32
+Ireland,Guatemala,Directed,1103,,1.46
+Ireland,Guinea,Directed,1104,,0.27
+Ireland,Guinea-Bissau,Directed,1105,,0.24
+Ireland,Haiti,Directed,1106,,1.26
+Ireland,Honduras,Directed,1107,,1.27
+Ireland,India,Directed,1108,,1.92
+Ireland,Indonesia,Directed,1109,,0.01
+Ireland,Iraq,Directed,1110,,2.33
+Ireland,Jordan,Directed,1111,,2.01
+Ireland,Kenya,Directed,1112,,7.6
+Ireland,Kosovo,Directed,1113,,0.14
+Ireland,Lao People's Democratic Republic,Directed,1114,,0.56
+Ireland,Lebanon,Directed,1115,,4.64
+Ireland,Liberia,Directed,1116,,4.43
+Ireland,Libya,Directed,1117,,0.16
+Ireland,Madagascar,Directed,1118,,0.03
+Ireland,Malawi,Directed,1119,,22.76
+Ireland,Mali,Directed,1120,,0.38
+Ireland,Mauritania,Directed,1121,,0.37
+Ireland,Mexico,Directed,1122,,0.03
+Ireland,Montenegro,Directed,1123,,0.02
+Ireland,Morocco,Directed,1124,,0.01
+Ireland,Mozambique,Directed,1125,,29.67
+Ireland,Myanmar,Directed,1126,,2.87
+Ireland,Nepal,Directed,1127,,0.48
+Ireland,Nicaragua,Directed,1128,,1.31
+Ireland,Niger,Directed,1129,,2.86
+Ireland,Nigeria,Directed,1130,,4.15
+Ireland,Pakistan,Directed,1131,,1.02
+Ireland,Peru,Directed,1132,,0.47
+Ireland,Philippines,Directed,1133,,0.19
+Ireland,Rwanda,Directed,1134,,2.34
+Ireland,Senegal,Directed,1135,,0.75
+Ireland,Serbia,Directed,1136,,0.06
+Ireland,Sierra Leone,Directed,1137,,13.8
+Ireland,Somalia,Directed,1138,,7.12
+Ireland,South Africa,Directed,1139,,4.62
+Ireland,South Sudan,Directed,1140,,12.05
+Ireland,Sri Lanka,Directed,1141,,0.01
+Ireland,Sudan,Directed,1142,,6.48
+Ireland,Syrian Arab Republic,Directed,1143,,3.5
+Ireland,Tanzania,Directed,1144,,22.709999
+Ireland,Thailand,Directed,1145,,0.35
+Ireland,Türkiye,Directed,1146,,14.1
+Ireland,Uganda,Directed,1147,,28.049999
+Ireland,Ukraine,Directed,1148,,0.58
+Ireland,Viet Nam,Directed,1149,,9.68
+Ireland,West Bank and Gaza Strip,Directed,1150,,6.16
+Ireland,Yemen,Directed,1151,,5.92
+Ireland,Zambia,Directed,1152,,13.78
+Ireland,Zimbabwe,Directed,1153,,7.55
+Italy,Afghanistan,Directed,1154,,42.970001
+Italy,Albania,Directed,1155,,7.72
+Italy,Angola,Directed,1156,,2.6
+Italy,Armenia,Directed,1157,,0.24
+Italy,Azerbaijan,Directed,1158,,0.02
+Italy,Bangladesh,Directed,1159,,0.96
+Italy,Belarus,Directed,1160,,0.4
+Italy,Benin,Directed,1161,,4.81
+Italy,Bolivia,Directed,1162,,5.76
+Italy,Bosnia and Herzegovina,Directed,1163,,1.59
+Italy,Brazil,Directed,1164,,3.7
+Italy,Burkina Faso,Directed,1165,,10.59
+Italy,Burundi,Directed,1166,,2.17
+Italy,Cabo Verde,Directed,1167,,0.27
+Italy,Cambodia,Directed,1168,,0.56
+Italy,Cameroon,Directed,1169,,3.54
+Italy,Central African Republic,Directed,1170,,5.71
+Italy,Chad,Directed,1171,,12.75
+Italy,Chile,Directed,1172,,0.16
+Italy,Colombia,Directed,1173,,5.18
+Italy,Congo,Directed,1174,,0.88
+Italy,Costa Rica,Directed,1175,,0.01
+Italy,Cote d'Ivoire,Directed,1176,,3.2
+Italy,Cuba,Directed,1177,,96.209999
+Italy,Democratic People's Republic of Korea,Directed,1178,,0.21
+Italy,Democratic Republic of the Congo,Directed,1179,,11.18
+Italy,Djibouti,Directed,1180,,0.15
+Italy,Dominican Republic,Directed,1181,,0.06
+Italy,Ecuador,Directed,1182,,2.83
+Italy,Egypt,Directed,1183,,9.46
+Italy,El Salvador,Directed,1184,,6.78
+Italy,Equatorial Guinea,Directed,1185,,0.02
+Italy,Eritrea,Directed,1186,,1.31
+Italy,Eswatini,Directed,1187,,0.22
+Italy,Ethiopia,Directed,1188,,21
+Italy,Fiji,Directed,1189,,1.13
+Italy,Gabon,Directed,1190,,0.01
+Italy,Gambia,Directed,1191,,0.02
+Italy,Georgia,Directed,1192,,0.07
+Italy,Ghana,Directed,1193,,1.75
+Italy,Guatemala,Directed,1194,,1.22
+Italy,Guinea,Directed,1195,,1.58
+Italy,Guinea-Bissau,Directed,1196,,1.37
+Italy,Haiti,Directed,1197,,2.21
+Italy,Honduras,Directed,1198,,0.27
+Italy,India,Directed,1199,,11.45
+Italy,Iran,Directed,1200,,0.26
+Italy,Iraq,Directed,1201,,128.149994
+Italy,Jordan,Directed,1202,,16.209999
+Italy,Kazakhstan,Directed,1203,,0.04
+Italy,Kenya,Directed,1204,,13.8
+Italy,Kosovo,Directed,1205,,1.15
+Italy,Kyrgyzstan,Directed,1206,,0.04
+Italy,Lebanon,Directed,1207,,38.630001
+Italy,Lesotho,Directed,1208,,0.03
+Italy,Liberia,Directed,1209,,0.44
+Italy,Libya,Directed,1210,,60.369999
+Italy,Madagascar,Directed,1211,,3.34
+Italy,Malawi,Directed,1212,,1.19
+Italy,Malaysia,Directed,1213,,0.01
+Italy,Maldives,Directed,1214,,1.22
+Italy,Mali,Directed,1215,,1.4
+Italy,Mauritania,Directed,1216,,2
+Italy,Mauritius,Directed,1217,,0.01
+Italy,Mexico,Directed,1218,,0.47
+Italy,Moldova,Directed,1219,,0.29
+Italy,Mongolia,Directed,1220,,0.05
+Italy,Montenegro,Directed,1221,,0.14
+Italy,Mozambique,Directed,1222,,22.42
+Italy,Myanmar,Directed,1223,,7.18
+Italy,Namibia,Directed,1224,,0.05
+Italy,Nepal,Directed,1225,,2.83
+Italy,Nicaragua,Directed,1226,,3.14
+Italy,Niger,Directed,1227,,79.169998
+Italy,Nigeria,Directed,1228,,3.99
+Italy,Pakistan,Directed,1229,,13.39
+Italy,Papua New Guinea,Directed,1230,,0.46
+Italy,Paraguay,Directed,1231,,0.45
+Italy,Peru,Directed,1232,,2.89
+Italy,Philippines,Directed,1233,,4.53
+Italy,Rwanda,Directed,1234,,1.06
+Italy,Senegal,Directed,1235,,22.049999
+Italy,Seychelles,Directed,1236,,0.01
+Italy,Sierra Leone,Directed,1237,,0.95
+Italy,Somalia,Directed,1238,,14.19
+Italy,South Africa,Directed,1239,,0.52
+Italy,South Sudan,Directed,1240,,8.91
+Italy,Sri Lanka,Directed,1241,,2.76
+Italy,Sudan,Directed,1242,,21.98
+Italy,Syrian Arab Republic,Directed,1243,,15.09
+Italy,Tajikistan,Directed,1244,,0.01
+Italy,Tanzania,Directed,1245,,5.94
+Italy,Thailand,Directed,1246,,0.14
+Italy,Timor-Leste,Directed,1247,,0.01
+Italy,Togo,Directed,1248,,1.11
+Italy,Tunisia,Directed,1249,,46.220001
+Italy,Türkiye,Directed,1250,,111.75
+Italy,Tuvalu,Directed,1251,,0.05
+Italy,Uganda,Directed,1252,,4.2
+Italy,Ukraine,Directed,1253,,8.4
+Italy,Uruguay,Directed,1254,,0.89
+Italy,Venezuela,Directed,1255,,0.91
+Italy,Viet Nam,Directed,1256,,2.4
+Italy,West Bank and Gaza Strip,Directed,1257,,33.189999
+Italy,Yemen,Directed,1258,,3.55
+Italy,Zambia,Directed,1259,,0.57
+Italy,Zimbabwe,Directed,1260,,0.13
+Japan,Afghanistan,Directed,1261,,233.690002
+Japan,Albania,Directed,1262,,16.040001
+Japan,Algeria,Directed,1263,,0.14
+Japan,Angola,Directed,1264,,3.71
+Japan,Antigua and Barbuda,Directed,1265,,2.22
+Japan,Azerbaijan,Directed,1266,,30.139999
+Japan,Bangladesh,Directed,1267,,1312.660034
+Japan,Belarus,Directed,1268,,0.23
+Japan,Belize,Directed,1269,,1.53
+Japan,Benin,Directed,1270,,20.35
+Japan,Bhutan,Directed,1271,,27.540001
+Japan,Bolivia,Directed,1272,,10.75
+Japan,Bosnia and Herzegovina,Directed,1273,,16.4
+Japan,Botswana,Directed,1274,,7.74
+Japan,Burkina Faso,Directed,1275,,19.370001
+Japan,Burundi,Directed,1276,,2.58
+Japan,Cabo Verde,Directed,1277,,8.12
+Japan,Cambodia,Directed,1278,,183.279999
+Japan,Cameroon,Directed,1279,,29.190001
+Japan,Central African Republic,Directed,1280,,10.9
+Japan,Chad,Directed,1281,,11.21
+Japan,Chile,Directed,1282,,2.79
+Japan,Colombia,Directed,1283,,18.07
+Japan,Comoros,Directed,1284,,2.12
+Japan,Congo,Directed,1285,,3.17
+Japan,Cook Islands,Directed,1286,,0.51
+Japan,Costa Rica,Directed,1287,,38.970001
+Japan,Cote d'Ivoire,Directed,1288,,38.43
+Japan,Cuba,Directed,1289,,35.720001
+Japan,Democratic Republic of the Congo,Directed,1290,,40.630001
+Japan,Djibouti,Directed,1291,,16.92
+Japan,Dominica,Directed,1292,,0.16
+Japan,Dominican Republic,Directed,1293,,0.84
+Japan,Ecuador,Directed,1294,,2.91
+Japan,Equatorial Guinea,Directed,1295,,0.15
+Japan,Eritrea,Directed,1296,,3.5
+Japan,Eswatini,Directed,1297,,1.94
+Japan,Ethiopia,Directed,1298,,38.900002
+Japan,Fiji,Directed,1299,,18.48
+Japan,Gabon,Directed,1300,,2.69
+Japan,Gambia,Directed,1301,,0.41
+Japan,Georgia,Directed,1302,,14.08
+Japan,Ghana,Directed,1303,,51.200001
+Japan,Grenada,Directed,1304,,0.21
+Japan,Guinea,Directed,1305,,30.08
+Japan,Guinea-Bissau,Directed,1306,,2.82
+Japan,Guyana,Directed,1307,,1.13
+Japan,Haiti,Directed,1308,,15.38
+Japan,Honduras,Directed,1309,,9.48
+Japan,India,Directed,1310,,1554.630005
+Japan,Iran,Directed,1311,,6.43
+Japan,Iraq,Directed,1312,,353.130005
+Japan,Jordan,Directed,1313,,189.289993
+Japan,Kenya,Directed,1314,,80.730003
+Japan,Kiribati,Directed,1315,,6.87
+Japan,Kosovo,Directed,1316,,3.08
+Japan,Kyrgyzstan,Directed,1317,,28.440001
+Japan,Lao People's Democratic Republic,Directed,1318,,72.419998
+Japan,Lebanon,Directed,1319,,13.38
+Japan,Lesotho,Directed,1320,,1.64
+Japan,Liberia,Directed,1321,,25.469999
+Japan,Libya,Directed,1322,,2.64
+Japan,Madagascar,Directed,1323,,13.88
+Japan,Malawi,Directed,1324,,41.099998
+Japan,Maldives,Directed,1325,,4.47
+Japan,Mali,Directed,1326,,19.99
+Japan,Marshall Islands,Directed,1327,,4.69
+Japan,Mauritania,Directed,1328,,12.73
+Japan,Mexico,Directed,1329,,8.82
+Japan,Micronesia,Directed,1330,,5.15
+Japan,Moldova,Directed,1331,,5.53
+Japan,Mongolia,Directed,1332,,501.079987
+Japan,Montenegro,Directed,1333,,0.16
+Japan,Morocco,Directed,1334,,77.18
+Japan,Mozambique,Directed,1335,,148.610001
+Japan,Myanmar,Directed,1336,,379.070007
+Japan,Nauru,Directed,1337,,0.44
+Japan,Nepal,Directed,1338,,97.410004
+Japan,Nicaragua,Directed,1339,,15.31
+Japan,Niger,Directed,1340,,14.55
+Japan,Nigeria,Directed,1341,,22.940001
+Japan,Niue,Directed,1342,,0.1
+Japan,Palau,Directed,1343,,12.97
+Japan,Papua New Guinea,Directed,1344,,21.190001
+Japan,Rwanda,Directed,1345,,43.32
+Japan,Saint Lucia,Directed,1346,,4.19
+Japan,Saint Vincent and the Grenadines,Directed,1347,,2.23
+Japan,Samoa,Directed,1348,,28.59
+Japan,Sao Tome and Principe,Directed,1349,,2.54
+Japan,Senegal,Directed,1350,,104.790001
+Japan,Serbia,Directed,1351,,33.939999
+Japan,Seychelles,Directed,1352,,5.49
+Japan,Sierra Leone,Directed,1353,,10.65
+Japan,Solomon Islands,Directed,1354,,12.69
+Japan,Somalia,Directed,1355,,21.49
+Japan,South Africa,Directed,1356,,11.1
+Japan,South Sudan,Directed,1357,,42.220001
+Japan,Sri Lanka,Directed,1358,,31.58
+Japan,Sudan,Directed,1359,,23.68
+Japan,Suriname,Directed,1360,,0.11
+Japan,Syrian Arab Republic,Directed,1361,,54.950001
+Japan,Tajikistan,Directed,1362,,24.09
+Japan,Tanzania,Directed,1363,,74.209999
+Japan,Thailand,Directed,1364,,91.669998
+Japan,Timor-Leste,Directed,1365,,24.129999
+Japan,Togo,Directed,1366,,16.66
+Japan,Tonga,Directed,1367,,22.92
+Japan,Tunisia,Directed,1368,,42.779999
+Japan,Tuvalu,Directed,1369,,1.5
+Japan,Uganda,Directed,1370,,64.220001
+Japan,Ukraine,Directed,1371,,2.44
+Japan,Uruguay,Directed,1372,,1.87
+Japan,Uzbekistan,Directed,1373,,245.009995
+Japan,Vanuatu,Directed,1374,,29.969999
+Japan,Venezuela,Directed,1375,,0.92
+Japan,Viet Nam,Directed,1376,,927.960022
+Japan,West Bank and Gaza Strip,Directed,1377,,46.939999
+Japan,Yemen,Directed,1378,,50.57
+Japan,Zambia,Directed,1379,,25.35
+Japan,Zimbabwe,Directed,1380,,14.84
+Korea,Afghanistan,Directed,1381,,32.23
+Korea,Algeria,Directed,1382,,1.01
+Korea,Angola,Directed,1383,,13.79
+Korea,Antigua and Barbuda,Directed,1384,,0.05
+Korea,Argentina,Directed,1385,,0.28
+Korea,Armenia,Directed,1386,,0.1
+Korea,Azerbaijan,Directed,1387,,14.67
+Korea,Bangladesh,Directed,1388,,33.82
+Korea,Belarus,Directed,1389,,0.36
+Korea,Belize,Directed,1390,,0.18
+Korea,Benin,Directed,1391,,0.02
+Korea,Bhutan,Directed,1392,,0.63
+Korea,Bolivia,Directed,1393,,18.700001
+Korea,Botswana,Directed,1394,,1.02
+Korea,Brazil,Directed,1395,,0.04
+Korea,Burkina Faso,Directed,1396,,0.72
+Korea,Burundi,Directed,1397,,0.19
+Korea,Cambodia,Directed,1398,,64.150002
+Korea,Cameroon,Directed,1399,,25.57
+Korea,Central African Republic,Directed,1400,,1.56
+Korea,Chad,Directed,1401,,0.74
+Korea,Chile,Directed,1402,,0.42
+Korea,Colombia,Directed,1403,,9.01
+Korea,Comoros,Directed,1404,,0.08
+Korea,Congo,Directed,1405,,0.1
+Korea,Cook Islands,Directed,1406,,0.01
+Korea,Costa Rica,Directed,1407,,1.84
+Korea,Cote d'Ivoire,Directed,1408,,6.3
+Korea,Cuba,Directed,1409,,2.67
+Korea,Democratic Republic of the Congo,Directed,1410,,14.61
+Korea,Djibouti,Directed,1411,,0.19
+Korea,Dominica,Directed,1412,,0.01
+Korea,Dominican Republic,Directed,1413,,3.33
+Korea,Ecuador,Directed,1414,,34.73
+Korea,Egypt,Directed,1415,,2.79
+Korea,El Salvador,Directed,1416,,7.39
+Korea,Eritrea,Directed,1417,,0.01
+Korea,Eswatini,Directed,1418,,0.16
+Korea,Ethiopia,Directed,1419,,46.950001
+Korea,Fiji,Directed,1420,,3.72
+Korea,Gabon,Directed,1421,,0.1
+Korea,Gambia,Directed,1422,,0.02
+Korea,Georgia,Directed,1423,,0.29
+Korea,Ghana,Directed,1424,,45.990002
+Korea,Grenada,Directed,1425,,0.09
+Korea,Guatemala,Directed,1426,,3.42
+Korea,Guinea,Directed,1427,,0.08
+Korea,Guinea-Bissau,Directed,1428,,0.04
+Korea,Guyana,Directed,1429,,0.09
+Korea,Haiti,Directed,1430,,3.1
+Korea,Honduras,Directed,1431,,23.23
+Korea,India,Directed,1432,,0.72
+Korea,Indonesia,Directed,1433,,47.970001
+Korea,Iran,Directed,1434,,0.48
+Korea,Iraq,Directed,1435,,17.32
+Korea,Jamaica,Directed,1436,,0.21
+Korea,Jordan,Directed,1437,,20.24
+Korea,Kazakhstan,Directed,1438,,1.88
+Korea,Kenya,Directed,1439,,10.37
+Korea,Kiribati,Directed,1440,,0.53
+Korea,Kyrgyzstan,Directed,1441,,11.99
+Korea,Lao People's Democratic Republic,Directed,1442,,55.099998
+Korea,Lebanon,Directed,1443,,2.07
+Korea,Lesotho,Directed,1444,,0.1
+Korea,Liberia,Directed,1445,,0.02
+Korea,Libya,Directed,1446,,1.5
+Korea,Madagascar,Directed,1447,,19.559999
+Korea,Malawi,Directed,1448,,5.73
+Korea,Malaysia,Directed,1449,,0.4
+Korea,Maldives,Directed,1450,,0.08
+Korea,Mali,Directed,1451,,12.11
+Korea,Marshall Islands,Directed,1452,,0.29
+Korea,Mauritius,Directed,1453,,0.03
+Korea,Mexico,Directed,1454,,1.62
+Korea,Micronesia,Directed,1455,,0.66
+Korea,Moldova,Directed,1456,,0.26
+Korea,Mongolia,Directed,1457,,23.290001
+Korea,Montenegro,Directed,1458,,0.03
+Korea,Morocco,Directed,1459,,6.91
+Korea,Mozambique,Directed,1460,,36.639999
+Korea,Myanmar,Directed,1461,,74.639999
+Korea,Namibia,Directed,1462,,0.11
+Korea,Nauru,Directed,1463,,0.14
+Korea,Nepal,Directed,1464,,16.57
+Korea,Nicaragua,Directed,1465,,35.560001
+Korea,Niger,Directed,1466,,0.86
+Korea,Nigeria,Directed,1467,,8.65
+Korea,Pakistan,Directed,1468,,2.33
+Korea,Palau,Directed,1469,,0.02
+Korea,Papua New Guinea,Directed,1470,,0.3
+Korea,Paraguay,Directed,1471,,12.35
+Korea,Peru,Directed,1472,,13.02
+Korea,Philippines,Directed,1473,,37.43
+Korea,Rwanda,Directed,1474,,16.52
+Korea,Saint Lucia,Directed,1475,,0.02
+Korea,Saint Vincent and the Grenadines,Directed,1476,,0.04
+Korea,Samoa,Directed,1477,,0.13
+Korea,Senegal,Directed,1478,,23.309999
+Korea,Serbia,Directed,1479,,1.76
+Korea,Sierra Leone,Directed,1480,,4.93
+Korea,Solomon Islands,Directed,1481,,4.45
+Korea,Somalia,Directed,1482,,1
+Korea,South Africa,Directed,1483,,0.45
+Korea,South Sudan,Directed,1484,,4.21
+Korea,Sri Lanka,Directed,1485,,11.77
+Korea,Sudan,Directed,1486,,5
+Korea,Suriname,Directed,1487,,0.11
+Korea,Syrian Arab Republic,Directed,1488,,14.44
+Korea,Tajikistan,Directed,1489,,1.12
+Korea,Tanzania,Directed,1490,,39.290001
+Korea,Thailand,Directed,1491,,5.16
+Korea,Timor-Leste,Directed,1492,,11.77
+Korea,Togo,Directed,1493,,0.22
+Korea,Tonga,Directed,1494,,0.09
+Korea,Tunisia,Directed,1495,,4.13
+Korea,Turkmenistan,Directed,1496,,0.41
+Korea,Tuvalu,Directed,1497,,0.1
+Korea,Uganda,Directed,1498,,28.940001
+Korea,Ukraine,Directed,1499,,0.82
+Korea,Uruguay,Directed,1500,,0.27
+Korea,Uzbekistan,Directed,1501,,54.040001
+Korea,Vanuatu,Directed,1502,,0.22
+Korea,Viet Nam,Directed,1503,,182.009995
+Korea,West Bank and Gaza Strip,Directed,1504,,6.79
+Korea,Yemen,Directed,1505,,8.92
+Korea,Zambia,Directed,1506,,3.96
+Korea,Zimbabwe,Directed,1507,,1.35
+Lithuania,Albania,Directed,1508,,0.01
+Lithuania,Argentina,Directed,1509,,0.02
+Lithuania,Armenia,Directed,1510,,0.03
+Lithuania,Azerbaijan,Directed,1511,,0.03
+Lithuania,Belarus,Directed,1512,,1.22
+Lithuania,China (People's Republic of),Directed,1513,,0.04
+Lithuania,Colombia,Directed,1514,,0.01
+Lithuania,Dominica,Directed,1515,,0.01
+Lithuania,Georgia,Directed,1516,,0.44
+Lithuania,India,Directed,1517,,0.06
+Lithuania,Indonesia,Directed,1518,,0.01
+Lithuania,Iraq,Directed,1519,,0.05
+Lithuania,Kazakhstan,Directed,1520,,0.03
+Lithuania,Lebanon,Directed,1521,,0.01
+Lithuania,Mali,Directed,1522,,0.04
+Lithuania,Mexico,Directed,1523,,0.01
+Lithuania,Moldova,Directed,1524,,0.16
+Lithuania,Mongolia,Directed,1525,,0.04
+Lithuania,Myanmar,Directed,1526,,0.03
+Lithuania,Nigeria,Directed,1527,,0.02
+Lithuania,Sierra Leone,Directed,1528,,0.01
+Lithuania,Somalia,Directed,1529,,0.01
+Lithuania,South Sudan,Directed,1530,,0.01
+Lithuania,Sri Lanka,Directed,1531,,0.01
+Lithuania,Syrian Arab Republic,Directed,1532,,0.04
+Lithuania,Türkiye,Directed,1533,,0.02
+Lithuania,Ukraine,Directed,1534,,1.13
+Lithuania,Uzbekistan,Directed,1535,,0.01
+Lithuania,Yemen,Directed,1536,,0.04
+Luxembourg,Afghanistan,Directed,1537,,2.01
+Luxembourg,Albania,Directed,1538,,0.06
+Luxembourg,Algeria,Directed,1539,,0.05
+Luxembourg,Antigua and Barbuda,Directed,1540,,0.03
+Luxembourg,Argentina,Directed,1541,,0.17
+Luxembourg,Azerbaijan,Directed,1542,,0.06
+Luxembourg,Bangladesh,Directed,1543,,3.56
+Luxembourg,Benin,Directed,1544,,0.87
+Luxembourg,Bolivia,Directed,1545,,1.59
+Luxembourg,Bosnia and Herzegovina,Directed,1546,,0.05
+Luxembourg,Brazil,Directed,1547,,0.7
+Luxembourg,Burkina Faso,Directed,1548,,25.719999
+Luxembourg,Burundi,Directed,1549,,0.56
+Luxembourg,Cabo Verde,Directed,1550,,10.16
+Luxembourg,Cambodia,Directed,1551,,0.12
+Luxembourg,Cameroon,Directed,1552,,0.5
+Luxembourg,Central African Republic,Directed,1553,,2.46
+Luxembourg,Chile,Directed,1554,,0.11
+Luxembourg,China (People's Republic of),Directed,1555,,0.27
+Luxembourg,Colombia,Directed,1556,,0.89
+Luxembourg,Congo,Directed,1557,,0.14
+Luxembourg,Cote d'Ivoire,Directed,1558,,0.07
+Luxembourg,Cuba,Directed,1559,,0.15
+Luxembourg,Democratic Republic of the Congo,Directed,1560,,3.53
+Luxembourg,Djibouti,Directed,1561,,0.23
+Luxembourg,Ecuador,Directed,1562,,0.14
+Luxembourg,Egypt,Directed,1563,,0.05
+Luxembourg,El Salvador,Directed,1564,,4.84
+Luxembourg,Ethiopia,Directed,1565,,0.72
+Luxembourg,Georgia,Directed,1566,,0.05
+Luxembourg,Guatemala,Directed,1567,,0.49
+Luxembourg,Guinea,Directed,1568,,0.54
+Luxembourg,Haiti,Directed,1569,,0.85
+Luxembourg,Honduras,Directed,1570,,0.14
+Luxembourg,India,Directed,1571,,2.14
+Luxembourg,Indonesia,Directed,1572,,0.07
+Luxembourg,Iraq,Directed,1573,,1.51
+Luxembourg,Jordan,Directed,1574,,0.64
+Luxembourg,Kazakhstan,Directed,1575,,0.04
+Luxembourg,Kenya,Directed,1576,,0.24
+Luxembourg,Kosovo,Directed,1577,,8.63
+Luxembourg,Lao People's Democratic Republic,Directed,1578,,19.26
+Luxembourg,Lebanon,Directed,1579,,0.77
+Luxembourg,Libya,Directed,1580,,1.15
+Luxembourg,Madagascar,Directed,1581,,0.27
+Luxembourg,Malawi,Directed,1582,,0.2
+Luxembourg,Mali,Directed,1583,,18.84
+Luxembourg,Mexico,Directed,1584,,0.01
+Luxembourg,Moldova,Directed,1585,,0.03
+Luxembourg,Mongolia,Directed,1586,,2.97
+Luxembourg,Montenegro,Directed,1587,,0.06
+Luxembourg,Morocco,Directed,1588,,0.1
+Luxembourg,Myanmar,Directed,1589,,3.81
+Luxembourg,Nepal,Directed,1590,,2.98
+Luxembourg,Nicaragua,Directed,1591,,11.25
+Luxembourg,Niger,Directed,1592,,30.049999
+Luxembourg,Nigeria,Directed,1593,,0.65
+Luxembourg,North Macedonia,Directed,1594,,0.15
+Luxembourg,Pakistan,Directed,1595,,0.29
+Luxembourg,Paraguay,Directed,1596,,0.11
+Luxembourg,Peru,Directed,1597,,1.26
+Luxembourg,Philippines,Directed,1598,,1.68
+Luxembourg,Rwanda,Directed,1599,,0.23
+Luxembourg,Senegal,Directed,1600,,16.040001
+Luxembourg,Serbia,Directed,1601,,0.1
+Luxembourg,Somalia,Directed,1602,,2.38
+Luxembourg,South Africa,Directed,1603,,0.37
+Luxembourg,South Sudan,Directed,1604,,2.4
+Luxembourg,Sri Lanka,Directed,1605,,0.31
+Luxembourg,Sudan,Directed,1606,,0.17
+Luxembourg,Syrian Arab Republic,Directed,1607,,6.24
+Luxembourg,Tajikistan,Directed,1608,,0.16
+Luxembourg,Tanzania,Directed,1609,,0.2
+Luxembourg,Thailand,Directed,1610,,0.12
+Luxembourg,Togo,Directed,1611,,0.89
+Luxembourg,Tunisia,Directed,1612,,0.97
+Luxembourg,Türkiye,Directed,1613,,0.67
+Luxembourg,Uganda,Directed,1614,,0.23
+Luxembourg,Ukraine,Directed,1615,,0.85
+Luxembourg,Uzbekistan,Directed,1616,,0.17
+Luxembourg,Viet Nam,Directed,1617,,5.44
+Luxembourg,West Bank and Gaza Strip,Directed,1618,,8.74
+Luxembourg,Yemen,Directed,1619,,1.79
+Luxembourg,Zambia,Directed,1620,,0.29
+Netherlands,Afghanistan,Directed,1621,,53.400002
+Netherlands,Albania,Directed,1622,,0.08
+Netherlands,Algeria,Directed,1623,,11.84
+Netherlands,Argentina,Directed,1624,,0.11
+Netherlands,Armenia,Directed,1625,,0.1
+Netherlands,Azerbaijan,Directed,1626,,0.22
+Netherlands,Bangladesh,Directed,1627,,49.630001
+Netherlands,Benin,Directed,1628,,31.73
+Netherlands,Bosnia and Herzegovina,Directed,1629,,2.31
+Netherlands,Brazil,Directed,1630,,0.22
+Netherlands,Burundi,Directed,1631,,30.969999
+Netherlands,Central African Republic,Directed,1632,,6.14
+Netherlands,Chad,Directed,1633,,4.28
+Netherlands,China (People's Republic of),Directed,1634,,0.92
+Netherlands,Colombia,Directed,1635,,3.58
+Netherlands,Congo,Directed,1636,,0.02
+Netherlands,Costa Rica,Directed,1637,,1.22
+Netherlands,Democratic People's Republic of Korea,Directed,1638,,0.03
+Netherlands,Democratic Republic of the Congo,Directed,1639,,22.280001
+Netherlands,Egypt,Directed,1640,,2.04
+Netherlands,El Salvador,Directed,1641,,0.1
+Netherlands,Ethiopia,Directed,1642,,82.370003
+Netherlands,Georgia,Directed,1643,,0.67
+Netherlands,Ghana,Directed,1644,,19.74
+Netherlands,Guatemala,Directed,1645,,0.51
+Netherlands,Guinea-Bissau,Directed,1646,,0.04
+Netherlands,Haiti,Directed,1647,,0.02
+Netherlands,Honduras,Directed,1648,,0.06
+Netherlands,India,Directed,1649,,0.41
+Netherlands,Iran,Directed,1650,,0.7
+Netherlands,Iraq,Directed,1651,,30.43
+Netherlands,Jordan,Directed,1652,,28.65
+Netherlands,Kazakhstan,Directed,1653,,0.46
+Netherlands,Kenya,Directed,1654,,20.76
+Netherlands,Kosovo,Directed,1655,,0.02
+Netherlands,Kyrgyzstan,Directed,1656,,0.06
+Netherlands,Lebanon,Directed,1657,,28.280001
+Netherlands,Libya,Directed,1658,,6.61
+Netherlands,Mali,Directed,1659,,37.68
+Netherlands,Mauritania,Directed,1660,,0.04
+Netherlands,Mexico,Directed,1661,,0.14
+Netherlands,Moldova,Directed,1662,,0.31
+Netherlands,Morocco,Directed,1663,,1.1
+Netherlands,Mozambique,Directed,1664,,35.07
+Netherlands,Myanmar,Directed,1665,,3.79
+Netherlands,Nepal,Directed,1666,,0.04
+Netherlands,Nicaragua,Directed,1667,,0.14
+Netherlands,Niger,Directed,1668,,2.82
+Netherlands,Nigeria,Directed,1669,,20.309999
+Netherlands,North Macedonia,Directed,1670,,0.32
+Netherlands,Pakistan,Directed,1671,,0.58
+Netherlands,Paraguay,Directed,1672,,0.03
+Netherlands,Philippines,Directed,1673,,0.57
+Netherlands,Rwanda,Directed,1674,,47.950001
+Netherlands,Senegal,Directed,1675,,0.57
+Netherlands,Serbia,Directed,1676,,0.11
+Netherlands,Sierra Leone,Directed,1677,,0.01
+Netherlands,Somalia,Directed,1678,,15.78
+Netherlands,South Africa,Directed,1679,,0.93
+Netherlands,South Sudan,Directed,1680,,55.209999
+Netherlands,Sri Lanka,Directed,1681,,0.16
+Netherlands,Sudan,Directed,1682,,4.24
+Netherlands,Suriname,Directed,1683,,0.75
+Netherlands,Syrian Arab Republic,Directed,1684,,32.82
+Netherlands,Tajikistan,Directed,1685,,0.15
+Netherlands,Tanzania,Directed,1686,,0.35
+Netherlands,Thailand,Directed,1687,,0.03
+Netherlands,Timor-Leste,Directed,1688,,0.24
+Netherlands,Tunisia,Directed,1689,,1.3
+Netherlands,Türkiye,Directed,1690,,2.33
+Netherlands,Uganda,Directed,1691,,19.07
+Netherlands,Ukraine,Directed,1692,,4.05
+Netherlands,Viet Nam,Directed,1693,,0.18
+Netherlands,West Bank and Gaza Strip,Directed,1694,,26.139999
+Netherlands,Yemen,Directed,1695,,42.880001
+Netherlands,Zimbabwe,Directed,1696,,4.4
+New Zealand,Afghanistan,Directed,1697,,5.34
+New Zealand,Argentina,Directed,1698,,0.15
+New Zealand,Bangladesh,Directed,1699,,0.16
+New Zealand,Bhutan,Directed,1700,,0.31
+New Zealand,Bolivia,Directed,1701,,0.12
+New Zealand,Botswana,Directed,1702,,0.32
+New Zealand,Brazil,Directed,1703,,0.29
+New Zealand,Cambodia,Directed,1704,,4.76
+New Zealand,Cameroon,Directed,1705,,0.06
+New Zealand,Chile,Directed,1706,,0.13
+New Zealand,China (People's Republic of),Directed,1707,,0.56
+New Zealand,Colombia,Directed,1708,,1.12
+New Zealand,Cook Islands,Directed,1709,,11.41
+New Zealand,Costa Rica,Directed,1710,,0.08
+New Zealand,Dominica,Directed,1711,,0.14
+New Zealand,Ecuador,Directed,1712,,0.18
+New Zealand,Egypt,Directed,1713,,0.18
+New Zealand,Eswatini,Directed,1714,,0.05
+New Zealand,Ethiopia,Directed,1715,,0.74
+New Zealand,Fiji,Directed,1716,,16.77
+New Zealand,Gambia,Directed,1717,,0.01
+New Zealand,Ghana,Directed,1718,,0.38
+New Zealand,Grenada,Directed,1719,,0.02
+New Zealand,Guatemala,Directed,1720,,0.08
+New Zealand,Guyana,Directed,1721,,0.16
+New Zealand,Honduras,Directed,1722,,0.04
+New Zealand,India,Directed,1723,,0.21
+New Zealand,Indonesia,Directed,1724,,12.58
+New Zealand,Iraq,Directed,1725,,2.26
+New Zealand,Jamaica,Directed,1726,,0.19
+New Zealand,Jordan,Directed,1727,,0.2
+New Zealand,Kenya,Directed,1728,,1.65
+New Zealand,Kiribati,Directed,1729,,12.6
+New Zealand,Lao People's Democratic Republic,Directed,1730,,6.15
+New Zealand,Lesotho,Directed,1731,,0.08
+New Zealand,Malawi,Directed,1732,,0.2
+New Zealand,Malaysia,Directed,1733,,0.24
+New Zealand,Maldives,Directed,1734,,0.02
+New Zealand,Marshall Islands,Directed,1735,,0.26
+New Zealand,Mauritius,Directed,1736,,0.07
+New Zealand,Mexico,Directed,1737,,0.28
+New Zealand,Micronesia,Directed,1738,,0.35
+New Zealand,Mongolia,Directed,1739,,0.08
+New Zealand,Mozambique,Directed,1740,,0.08
+New Zealand,Myanmar,Directed,1741,,8.96
+New Zealand,Namibia,Directed,1742,,0.03
+New Zealand,Nauru,Directed,1743,,1.61
+New Zealand,Nepal,Directed,1744,,0.75
+New Zealand,Nigeria,Directed,1745,,1.92
+New Zealand,Niue,Directed,1746,,11.96
+New Zealand,Palau,Directed,1747,,0.19
+New Zealand,Papua New Guinea,Directed,1748,,22.540001
+New Zealand,Paraguay,Directed,1749,,0.07
+New Zealand,Peru,Directed,1750,,0.8
+New Zealand,Philippines,Directed,1751,,2.27
+New Zealand,Rwanda,Directed,1752,,0.07
+New Zealand,Saint Lucia,Directed,1753,,0.15
+New Zealand,Saint Vincent and the Grenadines,Directed,1754,,0.1
+New Zealand,Samoa,Directed,1755,,15.5
+New Zealand,Senegal,Directed,1756,,0.03
+New Zealand,Sierra Leone,Directed,1757,,0.08
+New Zealand,Solomon Islands,Directed,1758,,18.58
+New Zealand,Somalia,Directed,1759,,1.55
+New Zealand,South Africa,Directed,1760,,0.19
+New Zealand,South Sudan,Directed,1761,,3.56
+New Zealand,Sri Lanka,Directed,1762,,1.24
+New Zealand,Suriname,Directed,1763,,0.01
+New Zealand,Syrian Arab Republic,Directed,1764,,3.36
+New Zealand,Tanzania,Directed,1765,,0.55
+New Zealand,Thailand,Directed,1766,,0.19
+New Zealand,Timor-Leste,Directed,1767,,11.49
+New Zealand,Tokelau,Directed,1768,,6.25
+New Zealand,Tonga,Directed,1769,,8.46
+New Zealand,Türkiye,Directed,1770,,0.01
+New Zealand,Tuvalu,Directed,1771,,5.17
+New Zealand,Uganda,Directed,1772,,0.03
+New Zealand,Uruguay,Directed,1773,,0.76
+New Zealand,Vanuatu,Directed,1774,,16.42
+New Zealand,Venezuela,Directed,1775,,0.06
+New Zealand,Viet Nam,Directed,1776,,7.13
+New Zealand,Yemen,Directed,1777,,3.2
+New Zealand,Zambia,Directed,1778,,1.34
+New Zealand,Zimbabwe,Directed,1779,,0.43
+Norway,Afghanistan,Directed,1780,,75.110001
+Norway,Albania,Directed,1781,,0.23
+Norway,Algeria,Directed,1782,,0.62
+Norway,Angola,Directed,1783,,7.69
+Norway,Armenia,Directed,1784,,0.13
+Norway,Azerbaijan,Directed,1785,,0.15
+Norway,Bangladesh,Directed,1786,,12.83
+Norway,Belarus,Directed,1787,,0.07
+Norway,Bhutan,Directed,1788,,0.18
+Norway,Bolivia,Directed,1789,,2.84
+Norway,Bosnia and Herzegovina,Directed,1790,,4.41
+Norway,Brazil,Directed,1791,,54.709999
+Norway,Burkina Faso,Directed,1792,,2.72
+Norway,Burundi,Directed,1793,,4.35
+Norway,Cambodia,Directed,1794,,6.07
+Norway,Cameroon,Directed,1795,,1.69
+Norway,Central African Republic,Directed,1796,,9.55
+Norway,Chad,Directed,1797,,0.24
+Norway,China (People's Republic of),Directed,1798,,10.08
+Norway,Colombia,Directed,1799,,62.509998
+Norway,Congo,Directed,1800,,0.26
+Norway,Cote d'Ivoire,Directed,1801,,0.3
+Norway,Cuba,Directed,1802,,2.98
+Norway,Democratic People's Republic of Korea,Directed,1803,,1.21
+Norway,Democratic Republic of the Congo,Directed,1804,,28.82
+Norway,Dominica,Directed,1805,,0.12
+Norway,Dominican Republic,Directed,1806,,0.06
+Norway,Ecuador,Directed,1807,,1.76
+Norway,Egypt,Directed,1808,,4.14
+Norway,El Salvador,Directed,1809,,0.72
+Norway,Eritrea,Directed,1810,,0.52
+Norway,Eswatini,Directed,1811,,0.46
+Norway,Ethiopia,Directed,1812,,60.049999
+Norway,Gabon,Directed,1813,,0.08
+Norway,Gambia,Directed,1814,,0.11
+Norway,Georgia,Directed,1815,,4.3
+Norway,Ghana,Directed,1816,,2.78
+Norway,Guatemala,Directed,1817,,5.75
+Norway,Guinea,Directed,1818,,0.12
+Norway,Guinea-Bissau,Directed,1819,,0.14
+Norway,Guyana,Directed,1820,,4.32
+Norway,Haiti,Directed,1821,,10.94
+Norway,Honduras,Directed,1822,,1.31
+Norway,India,Directed,1823,,18.18
+Norway,Indonesia,Directed,1824,,33.77
+Norway,Iran,Directed,1825,,2.54
+Norway,Iraq,Directed,1826,,51.5
+Norway,Jamaica,Directed,1827,,0.01
+Norway,Jordan,Directed,1828,,30.93
+Norway,Kazakhstan,Directed,1829,,0.02
+Norway,Kenya,Directed,1830,,11.83
+Norway,Kosovo,Directed,1831,,5.96
+Norway,Kyrgyzstan,Directed,1832,,0.77
+Norway,Lao People's Democratic Republic,Directed,1833,,3.28
+Norway,Lebanon,Directed,1834,,63.279999
+Norway,Lesotho,Directed,1835,,0.23
+Norway,Liberia,Directed,1836,,22.91
+Norway,Libya,Directed,1837,,2.54
+Norway,Madagascar,Directed,1838,,9.94
+Norway,Malawi,Directed,1839,,57.82
+Norway,Malaysia,Directed,1840,,0.34
+Norway,Mali,Directed,1841,,21.690001
+Norway,Moldova,Directed,1842,,2.84
+Norway,Mongolia,Directed,1843,,0.5
+Norway,Montenegro,Directed,1844,,0.56
+Norway,Mozambique,Directed,1845,,36.310001
+Norway,Myanmar,Directed,1846,,30.360001
+Norway,Namibia,Directed,1847,,0.59
+Norway,Nepal,Directed,1848,,32.290001
+Norway,Nicaragua,Directed,1849,,4.02
+Norway,Niger,Directed,1850,,19.549999
+Norway,Nigeria,Directed,1851,,34.369999
+Norway,North Macedonia,Directed,1852,,1.84
+Norway,Pakistan,Directed,1853,,10.55
+Norway,Papua New Guinea,Directed,1854,,1.11
+Norway,Paraguay,Directed,1855,,0.71
+Norway,Peru,Directed,1856,,10.75
+Norway,Philippines,Directed,1857,,2.92
+Norway,Rwanda,Directed,1858,,3.08
+Norway,Senegal,Directed,1859,,0.24
+Norway,Serbia,Directed,1860,,3.53
+Norway,Sierra Leone,Directed,1861,,2.27
+Norway,Somalia,Directed,1862,,66.110001
+Norway,South Africa,Directed,1863,,6.81
+Norway,South Sudan,Directed,1864,,73.010002
+Norway,Sri Lanka,Directed,1865,,8.43
+Norway,Sudan,Directed,1866,,13.04
+Norway,Syrian Arab Republic,Directed,1867,,129.419998
+Norway,Tajikistan,Directed,1868,,1.76
+Norway,Tanzania,Directed,1869,,45.189999
+Norway,Thailand,Directed,1870,,0.68
+Norway,Timor-Leste,Directed,1871,,0.65
+Norway,Togo,Directed,1872,,0.32
+Norway,Tunisia,Directed,1873,,2.2
+Norway,Türkiye,Directed,1874,,7.7
+Norway,Uganda,Directed,1875,,29.870001
+Norway,Ukraine,Directed,1876,,24.780001
+Norway,Uzbekistan,Directed,1877,,0.01
+Norway,Venezuela,Directed,1878,,0.12
+Norway,Viet Nam,Directed,1879,,10.61
+Norway,West Bank and Gaza Strip,Directed,1880,,70.580002
+Norway,Yemen,Directed,1881,,33.240002
+Norway,Zambia,Directed,1882,,12.09
+Norway,Zimbabwe,Directed,1883,,10.66
+Poland,Afghanistan,Directed,1884,,0.62
+Poland,Albania,Directed,1885,,0.03
+Poland,Algeria,Directed,1886,,0.02
+Poland,Argentina,Directed,1887,,0.01
+Poland,Armenia,Directed,1888,,0.27
+Poland,Azerbaijan,Directed,1889,,0.57
+Poland,Bangladesh,Directed,1890,,0.12
+Poland,Belarus,Directed,1891,,33.009998
+Poland,Brazil,Directed,1892,,0.04
+Poland,Cabo Verde,Directed,1893,,0.01
+Poland,Cambodia,Directed,1894,,0.01
+Poland,Chile,Directed,1895,,0.01
+Poland,Colombia,Directed,1896,,0.14
+Poland,Congo,Directed,1897,,0.03
+Poland,Cote d'Ivoire,Directed,1898,,0.05
+Poland,Cuba,Directed,1899,,0.02
+Poland,Democratic People's Republic of Korea,Directed,1900,,0.02
+Poland,Democratic Republic of the Congo,Directed,1901,,0.03
+Poland,Dominican Republic,Directed,1902,,0.01
+Poland,Egypt,Directed,1903,,0.03
+Poland,El Salvador,Directed,1904,,0.01
+Poland,Ethiopia,Directed,1905,,8.62
+Poland,Georgia,Directed,1906,,1.78
+Poland,Ghana,Directed,1907,,0.01
+Poland,India,Directed,1908,,1.27
+Poland,Indonesia,Directed,1909,,0.28
+Poland,Iran,Directed,1910,,0.66
+Poland,Iraq,Directed,1911,,2.83
+Poland,Jordan,Directed,1912,,1.56
+Poland,Kazakhstan,Directed,1913,,1.71
+Poland,Kenya,Directed,1914,,1.87
+Poland,Kosovo,Directed,1915,,0.85
+Poland,Kyrgyzstan,Directed,1916,,0.13
+Poland,Lebanon,Directed,1917,,4.9
+Poland,Libya,Directed,1918,,2.67
+Poland,Madagascar,Directed,1919,,0.03
+Poland,Malaysia,Directed,1920,,0.01
+Poland,Mali,Directed,1921,,0.01
+Poland,Mexico,Directed,1922,,0.04
+Poland,Moldova,Directed,1923,,2.1
+Poland,Mongolia,Directed,1924,,0.18
+Poland,Morocco,Directed,1925,,0.02
+Poland,Mozambique,Directed,1926,,0.01
+Poland,Myanmar,Directed,1927,,1.08
+Poland,Nepal,Directed,1928,,0.41
+Poland,Nicaragua,Directed,1929,,0.01
+Poland,Nigeria,Directed,1930,,0.19
+Poland,North Macedonia,Directed,1931,,0.07
+Poland,Pakistan,Directed,1932,,0.07
+Poland,Papua New Guinea,Directed,1933,,0.04
+Poland,Peru,Directed,1934,,0.02
+Poland,Rwanda,Directed,1935,,0.03
+Poland,Senegal,Directed,1936,,0.14
+Poland,South Africa,Directed,1937,,0.01
+Poland,Sudan,Directed,1938,,0.01
+Poland,Syrian Arab Republic,Directed,1939,,5.06
+Poland,Tajikistan,Directed,1940,,0.19
+Poland,Tanzania,Directed,1941,,4.43
+Poland,Thailand,Directed,1942,,0.02
+Poland,Togo,Directed,1943,,0.02
+Poland,Tunisia,Directed,1944,,0.05
+Poland,Türkiye,Directed,1945,,28.709999
+Poland,Turkmenistan,Directed,1946,,0.07
+Poland,Uganda,Directed,1947,,0.01
+Poland,Ukraine,Directed,1948,,60.860001
+Poland,Viet Nam,Directed,1949,,0.11
+Poland,West Bank and Gaza Strip,Directed,1950,,1.25
+Poland,Yemen,Directed,1951,,0.54
+Poland,Zambia,Directed,1952,,0.03
+Poland,Zimbabwe,Directed,1953,,0.09
+Portugal,Afghanistan,Directed,1954,,1.95
+Portugal,Algeria,Directed,1955,,0.05
+Portugal,Antigua and Barbuda,Directed,1956,,0.02
+Portugal,Argentina,Directed,1957,,0.12
+Portugal,Bangladesh,Directed,1958,,0.01
+Portugal,Botswana,Directed,1959,,0.04
+Portugal,Brazil,Directed,1960,,3.26
+Portugal,Cabo Verde,Directed,1961,,24.27
+Portugal,Cameroon,Directed,1962,,0.04
+Portugal,Central African Republic,Directed,1963,,0.01
+Portugal,Chile,Directed,1964,,0.12
+Portugal,China (People's Republic of),Directed,1965,,0.31
+Portugal,Colombia,Directed,1966,,1
+Portugal,Congo,Directed,1967,,0.15
+Portugal,Cote d'Ivoire,Directed,1968,,0.03
+Portugal,Cuba,Directed,1969,,0.2
+Portugal,Democratic Republic of the Congo,Directed,1970,,0.31
+Portugal,Dominica,Directed,1971,,0.05
+Portugal,Egypt,Directed,1972,,0.12
+Portugal,Equatorial Guinea,Directed,1973,,0.02
+Portugal,Eritrea,Directed,1974,,0.01
+Portugal,Eswatini,Directed,1975,,0.15
+Portugal,Ethiopia,Directed,1976,,0.04
+Portugal,Gambia,Directed,1977,,0.02
+Portugal,Georgia,Directed,1978,,0.16
+Portugal,Ghana,Directed,1979,,0.01
+Portugal,Guinea,Directed,1980,,0.03
+Portugal,Guinea-Bissau,Directed,1981,,10.64
+Portugal,Haiti,Directed,1982,,0.06
+Portugal,India,Directed,1983,,0.37
+Portugal,Indonesia,Directed,1984,,0.04
+Portugal,Iran,Directed,1985,,0.04
+Portugal,Kazakhstan,Directed,1986,,0.01
+Portugal,Kenya,Directed,1987,,0.05
+Portugal,Kosovo,Directed,1988,,0.09
+Portugal,Malaysia,Directed,1989,,0.01
+Portugal,Mali,Directed,1990,,0.09
+Portugal,Mauritania,Directed,1991,,0.02
+Portugal,Mexico,Directed,1992,,0.09
+Portugal,Morocco,Directed,1993,,4.83
+Portugal,Mozambique,Directed,1994,,25.33
+Portugal,Namibia,Directed,1995,,0.38
+Portugal,Nicaragua,Directed,1996,,0.01
+Portugal,Niger,Directed,1997,,0.07
+Portugal,Nigeria,Directed,1998,,0.01
+Portugal,North Macedonia,Directed,1999,,0.02
+Portugal,Pakistan,Directed,2000,,0.01
+Portugal,Peru,Directed,2001,,0.02
+Portugal,Sao Tome and Principe,Directed,2002,,11.61
+Portugal,Senegal,Directed,2003,,0.43
+Portugal,Serbia,Directed,2004,,0.03
+Portugal,Sierra Leone,Directed,2005,,0.05
+Portugal,Somalia,Directed,2006,,0.13
+Portugal,South Africa,Directed,2007,,1.36
+Portugal,Syrian Arab Republic,Directed,2008,,12.21
+Portugal,Tanzania,Directed,2009,,0.04
+Portugal,Thailand,Directed,2010,,0.08
+Portugal,Timor-Leste,Directed,2011,,15.44
+Portugal,Togo,Directed,2012,,0.01
+Portugal,Tunisia,Directed,2013,,0.21
+Portugal,Türkiye,Directed,2014,,0.09
+Portugal,Ukraine,Directed,2015,,0.02
+Portugal,Uruguay,Directed,2016,,0.09
+Portugal,Venezuela,Directed,2017,,0.21
+Portugal,Viet Nam,Directed,2018,,0.03
+Portugal,West Bank and Gaza Strip,Directed,2019,,0.01
+Portugal,Yemen,Directed,2020,,0.11
+Portugal,Zimbabwe,Directed,2021,,0.07
+Slovak Republic,Afghanistan,Directed,2022,,0.78
+Slovak Republic,Albania,Directed,2023,,0.28
+Slovak Republic,Angola,Directed,2024,,0.01
+Slovak Republic,Armenia,Directed,2025,,0.01
+Slovak Republic,Bangladesh,Directed,2026,,0.14
+Slovak Republic,Belarus,Directed,2027,,0.12
+Slovak Republic,Bosnia and Herzegovina,Directed,2028,,0.14
+Slovak Republic,Cambodia,Directed,2029,,0.03
+Slovak Republic,China (People's Republic of),Directed,2030,,0.09
+Slovak Republic,Cuba,Directed,2031,,0.03
+Slovak Republic,Ethiopia,Directed,2032,,0.21
+Slovak Republic,Georgia,Directed,2033,,0.65
+Slovak Republic,Haiti,Directed,2034,,0.33
+Slovak Republic,India,Directed,2035,,0.02
+Slovak Republic,Iraq,Directed,2036,,0.44
+Slovak Republic,Jordan,Directed,2037,,0.18
+Slovak Republic,Kazakhstan,Directed,2038,,0.01
+Slovak Republic,Kenya,Directed,2039,,1.48
+Slovak Republic,Kosovo,Directed,2040,,0.12
+Slovak Republic,Kyrgyzstan,Directed,2041,,0.01
+Slovak Republic,Lebanon,Directed,2042,,0.19
+Slovak Republic,Lesotho,Directed,2043,,0.05
+Slovak Republic,Madagascar,Directed,2044,,0.02
+Slovak Republic,Moldova,Directed,2045,,0.89
+Slovak Republic,Mongolia,Directed,2046,,0.03
+Slovak Republic,Montenegro,Directed,2047,,0.01
+Slovak Republic,North Macedonia,Directed,2048,,0.22
+Slovak Republic,Peru,Directed,2049,,0.11
+Slovak Republic,Philippines,Directed,2050,,0.01
+Slovak Republic,Rwanda,Directed,2051,,0.04
+Slovak Republic,Serbia,Directed,2052,,1.14
+Slovak Republic,South Sudan,Directed,2053,,1.27
+Slovak Republic,Syrian Arab Republic,Directed,2054,,1.02
+Slovak Republic,Uganda,Directed,2055,,0.05
+Slovak Republic,Ukraine,Directed,2056,,1.92
+Slovak Republic,Uzbekistan,Directed,2057,,0.01
+Slovak Republic,Viet Nam,Directed,2058,,0.04
+Slovak Republic,West Bank and Gaza Strip,Directed,2059,,0.13
+Slovak Republic,Yemen,Directed,2060,,0.57
+Slovenia,Afghanistan,Directed,2061,,0.07
+Slovenia,Albania,Directed,2062,,0.18
+Slovenia,Bangladesh,Directed,2063,,0.03
+Slovenia,Belarus,Directed,2064,,0.02
+Slovenia,Bosnia and Herzegovina,Directed,2065,,4.81
+Slovenia,Burundi,Directed,2066,,0.07
+Slovenia,Cabo Verde,Directed,2067,,0.07
+Slovenia,Egypt,Directed,2068,,0.01
+Slovenia,Iraq,Directed,2069,,0.03
+Slovenia,Jordan,Directed,2070,,0.18
+Slovenia,Kazakhstan,Directed,2071,,0.11
+Slovenia,Kenya,Directed,2072,,0.03
+Slovenia,Kosovo,Directed,2073,,1.79
+Slovenia,Lebanon,Directed,2074,,0.05
+Slovenia,Madagascar,Directed,2075,,0.03
+Slovenia,Moldova,Directed,2076,,0.03
+Slovenia,Montenegro,Directed,2077,,1.4
+Slovenia,Morocco,Directed,2078,,0.02
+Slovenia,North Macedonia,Directed,2079,,3.54
+Slovenia,Rwanda,Directed,2080,,0.03
+Slovenia,Serbia,Directed,2081,,3
+Slovenia,Somalia,Directed,2082,,0.03
+Slovenia,South Sudan,Directed,2083,,0.03
+Slovenia,Sri Lanka,Directed,2084,,0.03
+Slovenia,Syrian Arab Republic,Directed,2085,,0.05
+Slovenia,Türkiye,Directed,2086,,2.59
+Slovenia,Uganda,Directed,2087,,0.08
+Slovenia,Ukraine,Directed,2088,,0.25
+Slovenia,West Bank and Gaza Strip,Directed,2089,,0.34
+Slovenia,Yemen,Directed,2090,,0.07
+Spain,Afghanistan,Directed,2091,,1.56
+Spain,Antigua and Barbuda,Directed,2092,,0.03
+Spain,Armenia,Directed,2093,,1.04
+Spain,Azerbaijan,Directed,2094,,0.22
+Spain,Belarus,Directed,2095,,0.31
+Spain,Belize,Directed,2096,,0.08
+Spain,Benin,Directed,2097,,0.23
+Spain,Bolivia,Directed,2098,,15.48
+Spain,Brazil,Directed,2099,,5
+Spain,Burkina Faso,Directed,2100,,3.8
+Spain,Burundi,Directed,2101,,0.58
+Spain,Cabo Verde,Directed,2102,,0.18
+Spain,Cameroon,Directed,2103,,4.09
+Spain,Central African Republic,Directed,2104,,1.41
+Spain,Chad,Directed,2105,,0.63
+Spain,Chile,Directed,2106,,0.96
+Spain,Colombia,Directed,2107,,25.01
+Spain,Congo,Directed,2108,,1
+Spain,Cote d'Ivoire,Directed,2109,,45.290001
+Spain,Cuba,Directed,2110,,7.02
+Spain,Democratic Republic of the Congo,Directed,2111,,10.06
+Spain,El Salvador,Directed,2112,,21.5
+Spain,Equatorial Guinea,Directed,2113,,1.51
+Spain,Eritrea,Directed,2114,,2.62
+Spain,Ethiopia,Directed,2115,,8.25
+Spain,Gabon,Directed,2116,,0.1
+Spain,Gambia,Directed,2117,,3.24
+Spain,Georgia,Directed,2118,,3.78
+Spain,Guatemala,Directed,2119,,1.12
+Spain,Guinea,Directed,2120,,5.69
+Spain,Guinea-Bissau,Directed,2121,,1.13
+Spain,Haiti,Directed,2122,,6.79
+Spain,Honduras,Directed,2123,,16.790001
+Spain,India,Directed,2124,,5.01
+Spain,Iran,Directed,2125,,0.79
+Spain,Iraq,Directed,2126,,4.68
+Spain,Jamaica,Directed,2127,,0.27
+Spain,Kyrgyzstan,Directed,2128,,0.19
+Spain,Lebanon,Directed,2129,,9.58
+Spain,Liberia,Directed,2130,,0.34
+Spain,Libya,Directed,2131,,0.36
+Spain,Malawi,Directed,2132,,0.05
+Spain,Mali,Directed,2133,,10.62
+Spain,Mauritania,Directed,2134,,2.22
+Spain,Mauritius,Directed,2135,,0.02
+Spain,Mexico,Directed,2136,,0.06
+Spain,Moldova,Directed,2137,,0.12
+Spain,Morocco,Directed,2138,,15.86
+Spain,Mozambique,Directed,2139,,13.66
+Spain,Nepal,Directed,2140,,0.06
+Spain,Nicaragua,Directed,2141,,12.3
+Spain,Niger,Directed,2142,,14.8
+Spain,Nigeria,Directed,2143,,1.97
+Spain,Pakistan,Directed,2144,,1.77
+Spain,Papua New Guinea,Directed,2145,,0.03
+Spain,Paraguay,Directed,2146,,9.29
+Spain,Peru,Directed,2147,,8.77
+Spain,Philippines,Directed,2148,,2.63
+Spain,Rwanda,Directed,2149,,0.53
+Spain,Senegal,Directed,2150,,9.53
+Spain,Sierra Leone,Directed,2151,,0.94
+Spain,Somalia,Directed,2152,,0.95
+Spain,South Africa,Directed,2153,,0.16
+Spain,South Sudan,Directed,2154,,1.07
+Spain,Sudan,Directed,2155,,0.1
+Spain,Syrian Arab Republic,Directed,2156,,62.029999
+Spain,Tajikistan,Directed,2157,,0.01
+Spain,Tanzania,Directed,2158,,0.66
+Spain,Thailand,Directed,2159,,0.11
+Spain,Togo,Directed,2160,,0.18
+Spain,Türkiye,Directed,2161,,48.689999
+Spain,Turkmenistan,Directed,2162,,0.06
+Spain,Uganda,Directed,2163,,0.56
+Spain,Ukraine,Directed,2164,,24.549999
+Spain,Venezuela,Directed,2165,,42.48
+Spain,West Bank and Gaza Strip,Directed,2166,,25.1
+Spain,Yemen,Directed,2167,,3.64
+Spain,Zambia,Directed,2168,,0.01
+Spain,Zimbabwe,Directed,2169,,0.17
+Sweden,Afghanistan,Directed,2170,,118.669998
+Sweden,Albania,Directed,2171,,11.48
+Sweden,Algeria,Directed,2172,,1.42
+Sweden,Angola,Directed,2173,,1.05
+Sweden,Argentina,Directed,2174,,0.03
+Sweden,Armenia,Directed,2175,,1.33
+Sweden,Azerbaijan,Directed,2176,,1.86
+Sweden,Bangladesh,Directed,2177,,46.779999
+Sweden,Belarus,Directed,2178,,8.25
+Sweden,Benin,Directed,2179,,0.7
+Sweden,Bhutan,Directed,2180,,0.13
+Sweden,Bolivia,Directed,2181,,25.780001
+Sweden,Bosnia and Herzegovina,Directed,2182,,19.01
+Sweden,Botswana,Directed,2183,,0.25
+Sweden,Brazil,Directed,2184,,2.87
+Sweden,Burkina Faso,Directed,2185,,14.7
+Sweden,Burundi,Directed,2186,,4.3
+Sweden,Cambodia,Directed,2187,,34.130001
+Sweden,Cameroon,Directed,2188,,5.13
+Sweden,Central African Republic,Directed,2189,,13.6
+Sweden,Chad,Directed,2190,,5.54
+Sweden,Chile,Directed,2191,,0.07
+Sweden,China (People's Republic of),Directed,2192,,2.49
+Sweden,Colombia,Directed,2193,,34.049999
+Sweden,Costa Rica,Directed,2194,,0.07
+Sweden,Cote d'Ivoire,Directed,2195,,1.1
+Sweden,Cuba,Directed,2196,,1.86
+Sweden,Democratic People's Republic of Korea,Directed,2197,,2.45
+Sweden,Democratic Republic of the Congo,Directed,2198,,67.080002
+Sweden,Djibouti,Directed,2199,,0.93
+Sweden,Dominican Republic,Directed,2200,,0.02
+Sweden,Ecuador,Directed,2201,,0.12
+Sweden,Egypt,Directed,2202,,2.19
+Sweden,El Salvador,Directed,2203,,1.39
+Sweden,Eritrea,Directed,2204,,0.07
+Sweden,Eswatini,Directed,2205,,0.26
+Sweden,Ethiopia,Directed,2206,,79.529999
+Sweden,Fiji,Directed,2207,,0.85
+Sweden,Gambia,Directed,2208,,0.56
+Sweden,Georgia,Directed,2209,,14.28
+Sweden,Ghana,Directed,2210,,1.58
+Sweden,Guatemala,Directed,2211,,27.440001
+Sweden,Guinea,Directed,2212,,0.05
+Sweden,Guinea-Bissau,Directed,2213,,0.09
+Sweden,Haiti,Directed,2214,,2.5
+Sweden,Honduras,Directed,2215,,3.15
+Sweden,India,Directed,2216,,5.3
+Sweden,Indonesia,Directed,2217,,2.42
+Sweden,Iran,Directed,2218,,0.77
+Sweden,Iraq,Directed,2219,,34.34
+Sweden,Jamaica,Directed,2220,,0.11
+Sweden,Jordan,Directed,2221,,11.25
+Sweden,Kazakhstan,Directed,2222,,0.13
+Sweden,Kenya,Directed,2223,,57.669998
+Sweden,Kiribati,Directed,2224,,0.03
+Sweden,Kosovo,Directed,2225,,15.41
+Sweden,Kyrgyzstan,Directed,2226,,0.05
+Sweden,Lebanon,Directed,2227,,9.13
+Sweden,Lesotho,Directed,2228,,0.17
+Sweden,Liberia,Directed,2229,,24.58
+Sweden,Libya,Directed,2230,,4.29
+Sweden,Madagascar,Directed,2231,,2.11
+Sweden,Malawi,Directed,2232,,3
+Sweden,Malaysia,Directed,2233,,0.79
+Sweden,Maldives,Directed,2234,,0.03
+Sweden,Mali,Directed,2235,,39.330002
+Sweden,Mauritius,Directed,2236,,0.5
+Sweden,Mexico,Directed,2237,,0.28
+Sweden,Moldova,Directed,2238,,13.54
+Sweden,Mongolia,Directed,2239,,0.01
+Sweden,Montenegro,Directed,2240,,0.05
+Sweden,Morocco,Directed,2241,,0.26
+Sweden,Mozambique,Directed,2242,,55.279999
+Sweden,Myanmar,Directed,2243,,36.459999
+Sweden,Namibia,Directed,2244,,1
+Sweden,Nepal,Directed,2245,,1.82
+Sweden,Nicaragua,Directed,2246,,1.87
+Sweden,Niger,Directed,2247,,6.36
+Sweden,Nigeria,Directed,2248,,29.629999
+Sweden,North Macedonia,Directed,2249,,0.26
+Sweden,Pakistan,Directed,2250,,8.99
+Sweden,Panama,Directed,2251,,0.03
+Sweden,Paraguay,Directed,2252,,1.32
+Sweden,Peru,Directed,2253,,1.79
+Sweden,Philippines,Directed,2254,,7.08
+Sweden,Rwanda,Directed,2255,,28.52
+Sweden,Senegal,Directed,2256,,1.72
+Sweden,Serbia,Directed,2257,,13.46
+Sweden,Seychelles,Directed,2258,,0.01
+Sweden,Sierra Leone,Directed,2259,,0.7
+Sweden,Somalia,Directed,2260,,82.849998
+Sweden,South Africa,Directed,2261,,4.59
+Sweden,South Sudan,Directed,2262,,37.639999
+Sweden,Sri Lanka,Directed,2263,,2.17
+Sweden,Sudan,Directed,2264,,26.139999
+Sweden,Syrian Arab Republic,Directed,2265,,56.080002
+Sweden,Tajikistan,Directed,2266,,0.22
+Sweden,Tanzania,Directed,2267,,135.919998
+Sweden,Thailand,Directed,2268,,2.66
+Sweden,Timor-Leste,Directed,2269,,0.4
+Sweden,Togo,Directed,2270,,1.17
+Sweden,Tunisia,Directed,2271,,2.61
+Sweden,Türkiye,Directed,2272,,12.6
+Sweden,Uganda,Directed,2273,,54.549999
+Sweden,Ukraine,Directed,2274,,34.709999
+Sweden,Uzbekistan,Directed,2275,,0.01
+Sweden,Venezuela,Directed,2276,,0.02
+Sweden,Viet Nam,Directed,2277,,1.45
+Sweden,West Bank and Gaza Strip,Directed,2278,,60.630001
+Sweden,Yemen,Directed,2279,,36.419998
+Sweden,Zambia,Directed,2280,,57.720001
+Sweden,Zimbabwe,Directed,2281,,37.119999
+Switzerland,Afghanistan,Directed,2282,,28.35
+Switzerland,Albania,Directed,2283,,22.02
+Switzerland,Algeria,Directed,2284,,2.65
+Switzerland,Angola,Directed,2285,,0.56
+Switzerland,Antigua and Barbuda,Directed,2286,,0.11
+Switzerland,Argentina,Directed,2287,,0.34
+Switzerland,Armenia,Directed,2288,,4.02
+Switzerland,Azerbaijan,Directed,2289,,2.07
+Switzerland,Bangladesh,Directed,2290,,38.860001
+Switzerland,Belarus,Directed,2291,,0.17
+Switzerland,Benin,Directed,2292,,23.66
+Switzerland,Bhutan,Directed,2293,,1.19
+Switzerland,Bolivia,Directed,2294,,27.360001
+Switzerland,Bosnia and Herzegovina,Directed,2295,,22.57
+Switzerland,Brazil,Directed,2296,,2.93
+Switzerland,Burkina Faso,Directed,2297,,30.98
+Switzerland,Burundi,Directed,2298,,8.98
+Switzerland,Cabo Verde,Directed,2299,,0.01
+Switzerland,Cambodia,Directed,2300,,18.76
+Switzerland,Cameroon,Directed,2301,,3.48
+Switzerland,Central African Republic,Directed,2302,,10.29
+Switzerland,Chad,Directed,2303,,26.459999
+Switzerland,Chile,Directed,2304,,0.21
+Switzerland,China (People's Republic of),Directed,2305,,8.12
+Switzerland,Colombia,Directed,2306,,38.57
+Switzerland,Congo,Directed,2307,,0.26
+Switzerland,Costa Rica,Directed,2308,,0.14
+Switzerland,Cote d'Ivoire,Directed,2309,,1.07
+Switzerland,Cuba,Directed,2310,,13.93
+Switzerland,Democratic People's Republic of Korea,Directed,2311,,8.25
+Switzerland,Democratic Republic of the Congo,Directed,2312,,22.85
+Switzerland,Dominica,Directed,2313,,0.35
+Switzerland,Dominican Republic,Directed,2314,,0.07
+Switzerland,Ecuador,Directed,2315,,2.53
+Switzerland,Egypt,Directed,2316,,8.69
+Switzerland,El Salvador,Directed,2317,,2.49
+Switzerland,Eritrea,Directed,2318,,3.37
+Switzerland,Eswatini,Directed,2319,,0.07
+Switzerland,Ethiopia,Directed,2320,,16.799999
+Switzerland,Fiji,Directed,2321,,0.71
+Switzerland,Gambia,Directed,2322,,0.05
+Switzerland,Georgia,Directed,2323,,7.04
+Switzerland,Ghana,Directed,2324,,19.34
+Switzerland,Guatemala,Directed,2325,,3.55
+Switzerland,Guinea,Directed,2326,,1.71
+Switzerland,Guinea-Bissau,Directed,2327,,0.81
+Switzerland,Haiti,Directed,2328,,22.26
+Switzerland,Honduras,Directed,2329,,15.98
+Switzerland,India,Directed,2330,,12.16
+Switzerland,Indonesia,Directed,2331,,15.04
+Switzerland,Iran,Directed,2332,,0.44
+Switzerland,Iraq,Directed,2333,,11.99
+Switzerland,Jordan,Directed,2334,,21.35
+Switzerland,Kenya,Directed,2335,,12.22
+Switzerland,Kosovo,Directed,2336,,23.9
+Switzerland,Kyrgyzstan,Directed,2337,,26.1
+Switzerland,Lao People's Democratic Republic,Directed,2338,,24.33
+Switzerland,Lebanon,Directed,2339,,20.530001
+Switzerland,Lesotho,Directed,2340,,0.66
+Switzerland,Liberia,Directed,2341,,0.13
+Switzerland,Libya,Directed,2342,,5.21
+Switzerland,Madagascar,Directed,2343,,6.78
+Switzerland,Malawi,Directed,2344,,0.65
+Switzerland,Mali,Directed,2345,,31.1
+Switzerland,Mauritania,Directed,2346,,0.3
+Switzerland,Mexico,Directed,2347,,1.87
+Switzerland,Moldova,Directed,2348,,15.64
+Switzerland,Mongolia,Directed,2349,,18.790001
+Switzerland,Montenegro,Directed,2350,,0.83
+Switzerland,Morocco,Directed,2351,,8.69
+Switzerland,Mozambique,Directed,2352,,26.129999
+Switzerland,Myanmar,Directed,2353,,41.709999
+Switzerland,Namibia,Directed,2354,,0.23
+Switzerland,Nepal,Directed,2355,,37.759998
+Switzerland,Nicaragua,Directed,2356,,21.33
+Switzerland,Niger,Directed,2357,,33.25
+Switzerland,Nigeria,Directed,2358,,16.09
+Switzerland,North Macedonia,Directed,2359,,20.51
+Switzerland,Pakistan,Directed,2360,,17.719999
+Switzerland,Panama,Directed,2361,,0.15
+Switzerland,Paraguay,Directed,2362,,0.65
+Switzerland,Peru,Directed,2363,,26.32
+Switzerland,Philippines,Directed,2364,,1.57
+Switzerland,Rwanda,Directed,2365,,4.91
+Switzerland,Senegal,Directed,2366,,3.47
+Switzerland,Serbia,Directed,2367,,24.450001
+Switzerland,Sierra Leone,Directed,2368,,0.43
+Switzerland,Somalia,Directed,2369,,19.84
+Switzerland,South Africa,Directed,2370,,14.7
+Switzerland,South Sudan,Directed,2371,,24.719999
+Switzerland,Sri Lanka,Directed,2372,,3.27
+Switzerland,Sudan,Directed,2373,,9.54
+Switzerland,Syrian Arab Republic,Directed,2374,,34.400002
+Switzerland,Tajikistan,Directed,2375,,19.73
+Switzerland,Tanzania,Directed,2376,,32.200001
+Switzerland,Thailand,Directed,2377,,1.42
+Switzerland,Timor-Leste,Directed,2378,,0.04
+Switzerland,Togo,Directed,2379,,1.7
+Switzerland,Tunisia,Directed,2380,,18.629999
+Switzerland,Türkiye,Directed,2381,,2.42
+Switzerland,Uganda,Directed,2382,,3.15
+Switzerland,Ukraine,Directed,2383,,27.559999
+Switzerland,Uruguay,Directed,2384,,0.12
+Switzerland,Uzbekistan,Directed,2385,,8.11
+Switzerland,Vanuatu,Directed,2386,,0.05
+Switzerland,Venezuela,Directed,2387,,0.63
+Switzerland,Viet Nam,Directed,2388,,21.709999
+Switzerland,West Bank and Gaza Strip,Directed,2389,,26.290001
+Switzerland,Yemen,Directed,2390,,14.62
+Switzerland,Zambia,Directed,2391,,0.47
+Switzerland,Zimbabwe,Directed,2392,,10.73
+United Kingdom,Afghanistan,Directed,2393,,292.230011
+United Kingdom,Albania,Directed,2394,,0.96
+United Kingdom,Algeria,Directed,2395,,8.64
+United Kingdom,Angola,Directed,2396,,0.68
+United Kingdom,Antigua and Barbuda,Directed,2397,,0.01
+United Kingdom,Argentina,Directed,2398,,3.42
+United Kingdom,Armenia,Directed,2399,,1.26
+United Kingdom,Azerbaijan,Directed,2400,,2.02
+United Kingdom,Bangladesh,Directed,2401,,226.410004
+United Kingdom,Belarus,Directed,2402,,0.91
+United Kingdom,Belize,Directed,2403,,0.9
+United Kingdom,Benin,Directed,2404,,0.41
+United Kingdom,Bhutan,Directed,2405,,0.46
+United Kingdom,Bolivia,Directed,2406,,0.6
+United Kingdom,Bosnia and Herzegovina,Directed,2407,,4.61
+United Kingdom,Botswana,Directed,2408,,1.38
+United Kingdom,Brazil,Directed,2409,,27.969999
+United Kingdom,Burkina Faso,Directed,2410,,2.25
+United Kingdom,Burundi,Directed,2411,,6.33
+United Kingdom,Cabo Verde,Directed,2412,,0.37
+United Kingdom,Cambodia,Directed,2413,,5.13
+United Kingdom,Cameroon,Directed,2414,,2.66
+United Kingdom,Central African Republic,Directed,2415,,17.58
+United Kingdom,Chad,Directed,2416,,0.03
+United Kingdom,Chile,Directed,2417,,2.83
+United Kingdom,China (People's Republic of),Directed,2418,,56.540001
+United Kingdom,Colombia,Directed,2419,,30.99
+United Kingdom,Comoros,Directed,2420,,0.04
+United Kingdom,Congo,Directed,2421,,2.38
+United Kingdom,Costa Rica,Directed,2422,,0.82
+United Kingdom,Cote d'Ivoire,Directed,2423,,0.49
+United Kingdom,Cuba,Directed,2424,,5.6
+United Kingdom,Democratic People's Republic of Korea,Directed,2425,,0.05
+United Kingdom,Democratic Republic of the Congo,Directed,2426,,214.050003
+United Kingdom,Djibouti,Directed,2427,,0.05
+United Kingdom,Dominica,Directed,2428,,0.1
+United Kingdom,Dominican Republic,Directed,2429,,0.36
+United Kingdom,Ecuador,Directed,2430,,0.37
+United Kingdom,Egypt,Directed,2431,,29.780001
+United Kingdom,El Salvador,Directed,2432,,0.33
+United Kingdom,Eritrea,Directed,2433,,0.81
+United Kingdom,Eswatini,Directed,2434,,0.39
+United Kingdom,Ethiopia,Directed,2435,,419.950012
+United Kingdom,Fiji,Directed,2436,,1.42
+United Kingdom,Gabon,Directed,2437,,0.03
+United Kingdom,Gambia,Directed,2438,,19.9
+United Kingdom,Georgia,Directed,2439,,1.07
+United Kingdom,Ghana,Directed,2440,,72.68
+United Kingdom,Grenada,Directed,2441,,0.11
+United Kingdom,Guatemala,Directed,2442,,1.24
+United Kingdom,Guinea,Directed,2443,,0.55
+United Kingdom,Guinea-Bissau,Directed,2444,,0.03
+United Kingdom,Guyana,Directed,2445,,1.77
+United Kingdom,Haiti,Directed,2446,,6.27
+United Kingdom,Honduras,Directed,2447,,0.61
+United Kingdom,India,Directed,2448,,116.07
+United Kingdom,Indonesia,Directed,2449,,32.75
+United Kingdom,Iran,Directed,2450,,2.09
+United Kingdom,Iraq,Directed,2451,,106.669998
+United Kingdom,Jamaica,Directed,2452,,10.09
+United Kingdom,Jordan,Directed,2453,,78.519997
+United Kingdom,Kazakhstan,Directed,2454,,1.53
+United Kingdom,Kenya,Directed,2455,,196.759995
+United Kingdom,Kiribati,Directed,2456,,0.02
+United Kingdom,Kosovo,Directed,2457,,4.19
+United Kingdom,Kyrgyzstan,Directed,2458,,4.58
+United Kingdom,Lao People's Democratic Republic,Directed,2459,,0.84
+United Kingdom,Lebanon,Directed,2460,,148.320007
+United Kingdom,Lesotho,Directed,2461,,0.46
+United Kingdom,Liberia,Directed,2462,,4.03
+United Kingdom,Libya,Directed,2463,,18.959999
+United Kingdom,Madagascar,Directed,2464,,2.79
+United Kingdom,Malawi,Directed,2465,,115.099998
+United Kingdom,Malaysia,Directed,2466,,16.9
+United Kingdom,Maldives,Directed,2467,,0.3
+United Kingdom,Mali,Directed,2468,,3.45
+United Kingdom,Marshall Islands,Directed,2469,,0.31
+United Kingdom,Mauritania,Directed,2470,,0.08
+United Kingdom,Mauritius,Directed,2471,,0.41
+United Kingdom,Mexico,Directed,2472,,17.110001
+United Kingdom,Micronesia,Directed,2473,,0.01
+United Kingdom,Moldova,Directed,2474,,0.28
+United Kingdom,Mongolia,Directed,2475,,0.58
+United Kingdom,Montenegro,Directed,2476,,1.34
+United Kingdom,Montserrat,Directed,2477,,35.389999
+United Kingdom,Morocco,Directed,2478,,7.35
+United Kingdom,Mozambique,Directed,2479,,74.07
+United Kingdom,Myanmar,Directed,2480,,155.690002
+United Kingdom,Namibia,Directed,2481,,0.81
+United Kingdom,Nepal,Directed,2482,,129.130005
+United Kingdom,Nicaragua,Directed,2483,,0.34
+United Kingdom,Niger,Directed,2484,,0.18
+United Kingdom,Nigeria,Directed,2485,,418.720001
+United Kingdom,North Macedonia,Directed,2486,,2.52
+United Kingdom,Pakistan,Directed,2487,,518.280029
+United Kingdom,Panama,Directed,2488,,1.36
+United Kingdom,Papua New Guinea,Directed,2489,,0.79
+United Kingdom,Paraguay,Directed,2490,,0.39
+United Kingdom,Peru,Directed,2491,,4.53
+United Kingdom,Philippines,Directed,2492,,9.65
+United Kingdom,Rwanda,Directed,2493,,76.580002
+United Kingdom,Saint Helena,Directed,2494,,65.290001
+United Kingdom,Saint Lucia,Directed,2495,,0.15
+United Kingdom,Saint Vincent and the Grenadines,Directed,2496,,0.21
+United Kingdom,Samoa,Directed,2497,,0.21
+United Kingdom,Sao Tome and Principe,Directed,2498,,0.13
+United Kingdom,Senegal,Directed,2499,,1.83
+United Kingdom,Serbia,Directed,2500,,3.08
+United Kingdom,Seychelles,Directed,2501,,0.44
+United Kingdom,Sierra Leone,Directed,2502,,151.880005
+United Kingdom,Solomon Islands,Directed,2503,,0.32
+United Kingdom,Somalia,Directed,2504,,363.170013
+United Kingdom,South Africa,Directed,2505,,24.610001
+United Kingdom,South Sudan,Directed,2506,,216.630005
+United Kingdom,Sri Lanka,Directed,2507,,7.32
+United Kingdom,Sudan,Directed,2508,,81.099998
+United Kingdom,Suriname,Directed,2509,,0.03
+United Kingdom,Syrian Arab Republic,Directed,2510,,404.109985
+United Kingdom,Tajikistan,Directed,2511,,2.95
+United Kingdom,Tanzania,Directed,2512,,214.300003
+United Kingdom,Thailand,Directed,2513,,9.28
+United Kingdom,Timor-Leste,Directed,2514,,0.3
+United Kingdom,Tonga,Directed,2515,,0.03
+United Kingdom,Tunisia,Directed,2516,,13.36
+United Kingdom,Türkiye,Directed,2517,,177.580002
+United Kingdom,Turkmenistan,Directed,2518,,0.29
+United Kingdom,Uganda,Directed,2519,,180.660004
+United Kingdom,Ukraine,Directed,2520,,20.530001
+United Kingdom,Uruguay,Directed,2521,,0.39
+United Kingdom,Uzbekistan,Directed,2522,,2.87
+United Kingdom,Vanuatu,Directed,2523,,0.07
+United Kingdom,Venezuela,Directed,2524,,1.76
+United Kingdom,Viet Nam,Directed,2525,,8.74
+United Kingdom,West Bank and Gaza Strip,Directed,2526,,79.019997
+United Kingdom,Yemen,Directed,2527,,263.869995
+United Kingdom,Zambia,Directed,2528,,68.330002
+United Kingdom,Zimbabwe,Directed,2529,,120.489998
+United States,Afghanistan,Directed,2530,,1215.109985
+United States,Albania,Directed,2531,,21.459999
+United States,Algeria,Directed,2532,,13.87
+United States,Angola,Directed,2533,,56.5
+United States,Antigua and Barbuda,Directed,2534,,0.01
+United States,Argentina,Directed,2535,,1.32
+United States,Armenia,Directed,2536,,25.219999
+United States,Azerbaijan,Directed,2537,,14.09
+United States,Bangladesh,Directed,2538,,274.25
+United States,Belarus,Directed,2539,,4.8
+United States,Belize,Directed,2540,,3.38
+United States,Benin,Directed,2541,,120.440002
+United States,Bhutan,Directed,2542,,0.29
+United States,Bolivia,Directed,2543,,2.33
+United States,Bosnia and Herzegovina,Directed,2544,,56.049999
+United States,Botswana,Directed,2545,,55.380001
+United States,Brazil,Directed,2546,,21.110001
+United States,Burkina Faso,Directed,2547,,70.529999
+United States,Burundi,Directed,2548,,64.040001
+United States,Cabo Verde,Directed,2549,,24.879999
+United States,Cambodia,Directed,2550,,91.129997
+United States,Cameroon,Directed,2551,,84.699997
+United States,Central African Republic,Directed,2552,,61.459999
+United States,Chad,Directed,2553,,35.130001
+United States,Chile,Directed,2554,,1.25
+United States,China (People's Republic of),Directed,2555,,38.869999
+United States,Colombia,Directed,2556,,304.529999
+United States,Comoros,Directed,2557,,1.43
+United States,Congo,Directed,2558,,2.43
+United States,Costa Rica,Directed,2559,,9.54
+United States,Cote d'Ivoire,Directed,2560,,153.440002
+United States,Cuba,Directed,2561,,9.44
+United States,Democratic Republic of the Congo,Directed,2562,,442.079987
+United States,Djibouti,Directed,2563,,11.61
+United States,Dominica,Directed,2564,,0.51
+United States,Dominican Republic,Directed,2565,,60.139999
+United States,Ecuador,Directed,2566,,16.620001
+United States,El Salvador,Directed,2567,,75.669998
+United States,Equatorial Guinea,Directed,2568,,2.06
+United States,Eritrea,Directed,2569,,0.13
+United States,Eswatini,Directed,2570,,69.300003
+United States,Ethiopia,Directed,2571,,1026.680054
+United States,Fiji,Directed,2572,,2.49
+United States,Gabon,Directed,2573,,4.85
+United States,Gambia,Directed,2574,,18.690001
+United States,Georgia,Directed,2575,,93.769997
+United States,Ghana,Directed,2576,,231.910004
+United States,Guatemala,Directed,2577,,209.679993
+United States,Guinea,Directed,2578,,74.040001
+United States,Guinea-Bissau,Directed,2579,,10.34
+United States,Guyana,Directed,2580,,6.01
+United States,Haiti,Directed,2581,,416.790009
+United States,Honduras,Directed,2582,,120.309998
+United States,India,Directed,2583,,109.889999
+United States,Indonesia,Directed,2584,,356.51001
+United States,Iran,Directed,2585,,0.48
+United States,Iraq,Directed,2586,,412.059998
+United States,Jamaica,Directed,2587,,23.49
+United States,Jordan,Directed,2588,,894.960022
+United States,Kazakhstan,Directed,2589,,19.92
+United States,Kenya,Directed,2590,,855.409973
+United States,Kosovo,Directed,2591,,50.029999
+United States,Kyrgyzstan,Directed,2592,,52.360001
+United States,Lao People's Democratic Republic,Directed,2593,,44.599998
+United States,Lebanon,Directed,2594,,203.059998
+United States,Lesotho,Directed,2595,,73.199997
+United States,Liberia,Directed,2596,,286.130005
+United States,Libya,Directed,2597,,44.639999
+United States,Madagascar,Directed,2598,,89.360001
+United States,Malawi,Directed,2599,,446.899994
+United States,Malaysia,Directed,2600,,3.65
+United States,Maldives,Directed,2601,,0.08
+United States,Mali,Directed,2602,,218.720001
+United States,Marshall Islands,Directed,2603,,56.529999
+United States,Mauritania,Directed,2604,,10.38
+United States,Mauritius,Directed,2605,,0.01
+United States,Mexico,Directed,2606,,185.839996
+United States,Micronesia,Directed,2607,,69.730003
+United States,Moldova,Directed,2608,,27.43
+United States,Mongolia,Directed,2609,,13.5
+United States,Montenegro,Directed,2610,,1.86
+United States,Morocco,Directed,2611,,39.400002
+United States,Mozambique,Directed,2612,,503.529999
+United States,Myanmar,Directed,2613,,139.520004
+United States,Namibia,Directed,2614,,58.43
+United States,Nepal,Directed,2615,,186.970001
+United States,Nicaragua,Directed,2616,,51
+United States,Niger,Directed,2617,,76.5
+United States,Nigeria,Directed,2618,,726.780029
+United States,North Macedonia,Directed,2619,,24.67
+United States,Pakistan,Directed,2620,,492.23999
+United States,Palau,Directed,2621,,2.92
+United States,Panama,Directed,2622,,17.440001
+United States,Papua New Guinea,Directed,2623,,10.81
+United States,Paraguay,Directed,2624,,22.299999
+United States,Peru,Directed,2625,,100.769997
+United States,Philippines,Directed,2626,,138.990005
+United States,Rwanda,Directed,2627,,176.830002
+United States,Saint Lucia,Directed,2628,,0.03
+United States,Saint Vincent and the Grenadines,Directed,2629,,0.06
+United States,Samoa,Directed,2630,,1.24
+United States,Sao Tome and Principe,Directed,2631,,0.05
+United States,Senegal,Directed,2632,,157.289993
+United States,Serbia,Directed,2633,,16.860001
+United States,Sierra Leone,Directed,2634,,74.519997
+United States,Solomon Islands,Directed,2635,,0.67
+United States,Somalia,Directed,2636,,332.040009
+United States,South Africa,Directed,2637,,596.049988
+United States,South Sudan,Directed,2638,,886.039978
+United States,Sri Lanka,Directed,2639,,5.46
+United States,Sudan,Directed,2640,,111.169998
+United States,Syrian Arab Republic,Directed,2641,,627.380005
+United States,Tajikistan,Directed,2642,,35.34
+United States,Tanzania,Directed,2643,,597.02002
+United States,Thailand,Directed,2644,,51.939999
+United States,Timor-Leste,Directed,2645,,22.860001
+United States,Togo,Directed,2646,,5.03
+United States,Tonga,Directed,2647,,1.47
+United States,Tunisia,Directed,2648,,29.4
+United States,Türkiye,Directed,2649,,41.419998
+United States,Turkmenistan,Directed,2650,,2.93
+United States,Uganda,Directed,2651,,639.97998
+United States,Ukraine,Directed,2652,,231.809998
+United States,Uruguay,Directed,2653,,0.06
+United States,Uzbekistan,Directed,2654,,8.03
+United States,Vanuatu,Directed,2655,,3.65
+United States,Venezuela,Directed,2656,,12.31
+United States,Viet Nam,Directed,2657,,116.160004
+United States,West Bank and Gaza Strip,Directed,2658,,332.640015
+United States,Yemen,Directed,2659,,439.420013
+United States,Zambia,Directed,2660,,495.149994
+United States,Zimbabwe,Directed,2661,,227.520004
+Azerbaijan,Bangladesh,Directed,2662,,0.39
+Azerbaijan,Djibouti,Directed,2663,,0.12
+Azerbaijan,Yemen,Directed,2664,,0.05
+Bulgaria,Afghanistan,Directed,2665,,0.19
+Bulgaria,Armenia,Directed,2666,,0.19
+Bulgaria,Bosnia and Herzegovina,Directed,2667,,0.18
+Bulgaria,Georgia,Directed,2668,,0.05
+Bulgaria,Iraq,Directed,2669,,0.2
+Bulgaria,Moldova,Directed,2670,,0.05
+Bulgaria,Mongolia,Directed,2671,,0.04
+Bulgaria,North Macedonia,Directed,2672,,0.07
+Bulgaria,Serbia,Directed,2673,,0.4
+Bulgaria,Syrian Arab Republic,Directed,2674,,0.11
+Bulgaria,Türkiye,Directed,2675,,2.91
+Bulgaria,Ukraine,Directed,2676,,0.28
+Bulgaria,Viet Nam,Directed,2677,,0.01
+Bulgaria,Yemen,Directed,2678,,0.11
+Croatia,Afghanistan,Directed,2679,,0.5
+Croatia,Argentina,Directed,2680,,0.03
+Croatia,Bosnia and Herzegovina,Directed,2681,,10.1
+Croatia,Chile,Directed,2682,,0.04
+Croatia,Colombia,Directed,2683,,0.02
+Croatia,Gambia,Directed,2684,,0.01
+Croatia,Kosovo,Directed,2685,,0.04
+Croatia,Mauritius,Directed,2686,,0.01
+Croatia,Montenegro,Directed,2687,,0.02
+Croatia,Namibia,Directed,2688,,0.01
+Croatia,Peru,Directed,2689,,0.01
+Croatia,Serbia,Directed,2690,,0.05
+Croatia,Türkiye,Directed,2691,,2.91
+Croatia,Ukraine,Directed,2692,,0.06
+Estonia,Afghanistan,Directed,2693,,1.35
+Estonia,Armenia,Directed,2694,,0.02
+Estonia,Bangladesh,Directed,2695,,0.06
+Estonia,Belarus,Directed,2696,,0.21
+Estonia,Ethiopia,Directed,2697,,0.02
+Estonia,Fiji,Directed,2698,,0.11
+Estonia,Georgia,Directed,2699,,1.01
+Estonia,Ghana,Directed,2700,,0.01
+Estonia,Iraq,Directed,2701,,0.2
+Estonia,Kenya,Directed,2702,,0.03
+Estonia,Kosovo,Directed,2703,,0.01
+Estonia,Kyrgyzstan,Directed,2704,,0.16
+Estonia,Libya,Directed,2705,,0.12
+Estonia,Moldova,Directed,2706,,0.93
+Estonia,Nigeria,Directed,2707,,0.05
+Estonia,Sierra Leone,Directed,2708,,0.03
+Estonia,Somalia,Directed,2709,,0.03
+Estonia,Sudan,Directed,2710,,0.03
+Estonia,Syrian Arab Republic,Directed,2711,,0.18
+Estonia,Tajikistan,Directed,2712,,0.01
+Estonia,Türkiye,Directed,2713,,0.07
+Estonia,Uganda,Directed,2714,,0.06
+Estonia,Ukraine,Directed,2715,,2.85
+Estonia,West Bank and Gaza Strip,Directed,2716,,0.12
+Estonia,Yemen,Directed,2717,,0.06
+Israel,Albania,Directed,2718,,0.08
+Israel,Antigua and Barbuda,Directed,2719,,0.02
+Israel,Argentina,Directed,2720,,3.76
+Israel,Armenia,Directed,2721,,0.19
+Israel,Azerbaijan,Directed,2722,,0.49
+Israel,Belarus,Directed,2723,,2.99
+Israel,Benin,Directed,2724,,0.03
+Israel,Bolivia,Directed,2725,,0.01
+Israel,Bosnia and Herzegovina,Directed,2726,,0.02
+Israel,Botswana,Directed,2727,,0.05
+Israel,Brazil,Directed,2728,,2.03
+Israel,Burkina Faso,Directed,2729,,0.07
+Israel,Cabo Verde,Directed,2730,,0.01
+Israel,Cambodia,Directed,2731,,0.04
+Israel,Cameroon,Directed,2732,,0.3
+Israel,Central African Republic,Directed,2733,,0.01
+Israel,Chad,Directed,2734,,0.02
+Israel,Chile,Directed,2735,,0.31
+Israel,China (People's Republic of),Directed,2736,,39.189999
+Israel,Colombia,Directed,2737,,0.76
+Israel,Costa Rica,Directed,2738,,0.25
+Israel,Cote d'Ivoire,Directed,2739,,0.11
+Israel,Cuba,Directed,2740,,0.04
+Israel,Democratic People's Republic of Korea,Directed,2741,,0.04
+Israel,Dominica,Directed,2742,,0.02
+Israel,Dominican Republic,Directed,2743,,0.04
+Israel,Ecuador,Directed,2744,,0.13
+Israel,Egypt,Directed,2745,,0.04
+Israel,El Salvador,Directed,2746,,0.06
+Israel,Equatorial Guinea,Directed,2747,,0.01
+Israel,Eswatini,Directed,2748,,0.03
+Israel,Ethiopia,Directed,2749,,0.63
+Israel,Fiji,Directed,2750,,0.01
+Israel,Gambia,Directed,2751,,0.02
+Israel,Georgia,Directed,2752,,0.45
+Israel,Ghana,Directed,2753,,0.15
+Israel,Guatemala,Directed,2754,,0.19
+Israel,Guinea,Directed,2755,,0.3
+Israel,Guinea-Bissau,Directed,2756,,0.01
+Israel,Haiti,Directed,2757,,0.07
+Israel,Honduras,Directed,2758,,0.25
+Israel,India,Directed,2759,,37.490002
+Israel,Indonesia,Directed,2760,,0.07
+Israel,Iraq,Directed,2761,,0.04
+Israel,Jamaica,Directed,2762,,0.02
+Israel,Jordan,Directed,2763,,46.860001
+Israel,Kazakhstan,Directed,2764,,1.15
+Israel,Kenya,Directed,2765,,0.8
+Israel,Kiribati,Directed,2766,,0.01
+Israel,Kyrgyzstan,Directed,2767,,0.13
+Israel,Lebanon,Directed,2768,,0.03
+Israel,Liberia,Directed,2769,,0.03
+Israel,Madagascar,Directed,2770,,0.02
+Israel,Malawi,Directed,2771,,0.03
+Israel,Mali,Directed,2772,,0.01
+Israel,Marshall Islands,Directed,2773,,0.02
+Israel,Mauritius,Directed,2774,,0.01
+Israel,Mexico,Directed,2775,,3
+Israel,Moldova,Directed,2776,,1.18
+Israel,Mongolia,Directed,2777,,0.02
+Israel,Montenegro,Directed,2778,,0.39
+Israel,Morocco,Directed,2779,,0.04
+Israel,Myanmar,Directed,2780,,0.14
+Israel,Nauru,Directed,2781,,0.08
+Israel,Nepal,Directed,2782,,0.14
+Israel,Niger,Directed,2783,,0.02
+Israel,Nigeria,Directed,2784,,0.17
+Israel,Palau,Directed,2785,,0.01
+Israel,Panama,Directed,2786,,0.27
+Israel,Papua New Guinea,Directed,2787,,0.02
+Israel,Paraguay,Directed,2788,,0.17
+Israel,Peru,Directed,2789,,0.3
+Israel,Philippines,Directed,2790,,0.23
+Israel,Rwanda,Directed,2791,,0.33
+Israel,Senegal,Directed,2792,,0.23
+Israel,Serbia,Directed,2793,,0.61
+Israel,Seychelles,Directed,2794,,0.03
+Israel,Sierra Leone,Directed,2795,,0.2
+Israel,Solomon Islands,Directed,2796,,0.01
+Israel,South Africa,Directed,2797,,0.46
+Israel,South Sudan,Directed,2798,,0.07
+Israel,Sri Lanka,Directed,2799,,0.08
+Israel,Suriname,Directed,2800,,0.01
+Israel,Syrian Arab Republic,Directed,2801,,67.019997
+Israel,Tajikistan,Directed,2802,,0.09
+Israel,Tanzania,Directed,2803,,0.02
+Israel,Thailand,Directed,2804,,0.09
+Israel,Togo,Directed,2805,,0.1
+Israel,Tonga,Directed,2806,,0.01
+Israel,Tunisia,Directed,2807,,0.02
+Israel,Türkiye,Directed,2808,,0.22
+Israel,Turkmenistan,Directed,2809,,0.03
+Israel,Uganda,Directed,2810,,0.11
+Israel,Ukraine,Directed,2811,,11.14
+Israel,Uruguay,Directed,2812,,0.68
+Israel,Uzbekistan,Directed,2813,,0.99
+Israel,Venezuela,Directed,2814,,0.31
+Israel,Viet Nam,Directed,2815,,0.24
+Israel,West Bank and Gaza Strip,Directed,2816,,35.82
+Israel,Zambia,Directed,2817,,0.06
+Israel,Zimbabwe,Directed,2818,,0.01
+Kazakhstan,Afghanistan,Directed,2819,,2.52
+Kazakhstan,Antigua and Barbuda,Directed,2820,,0.05
+Kazakhstan,Kyrgyzstan,Directed,2821,,0.28
+Kazakhstan,Mongolia,Directed,2822,,0.02
+Kazakhstan,North Macedonia,Directed,2823,,0.06
+Kazakhstan,Tajikistan,Directed,2824,,1.34
+Kuwait,Afghanistan,Directed,2825,,6.84
+Kuwait,Argentina,Directed,2826,,10.39
+Kuwait,Bangladesh,Directed,2827,,4.94
+Kuwait,Belize,Directed,2828,,1.59
+Kuwait,Benin,Directed,2829,,0.46
+Kuwait,Bosnia and Herzegovina,Directed,2830,,6.85
+Kuwait,Cabo Verde,Directed,2831,,1.54
+Kuwait,Cameroon,Directed,2832,,0.8
+Kuwait,China (People's Republic of),Directed,2833,,4.57
+Kuwait,Cote d'Ivoire,Directed,2834,,0.87
+Kuwait,Cuba,Directed,2835,,11.46
+Kuwait,Democratic People's Republic of Korea,Directed,2836,,4.21
+Kuwait,Djibouti,Directed,2837,,13.57
+Kuwait,Egypt,Directed,2838,,38.060001
+Kuwait,Eswatini,Directed,2839,,1.2
+Kuwait,Ethiopia,Directed,2840,,4.93
+Kuwait,Gambia,Directed,2841,,0.22
+Kuwait,Guatemala,Directed,2842,,0.1
+Kuwait,Guinea,Directed,2843,,4.35
+Kuwait,Haiti,Directed,2844,,1.23
+Kuwait,India,Directed,2845,,0.42
+Kuwait,Iraq,Directed,2846,,17.549999
+Kuwait,Jordan,Directed,2847,,144.110001
+Kuwait,Kenya,Directed,2848,,2.07
+Kuwait,Kosovo,Directed,2849,,0.33
+Kuwait,Kyrgyzstan,Directed,2850,,0.29
+Kuwait,Lao People's Democratic Republic,Directed,2851,,6.75
+Kuwait,Lebanon,Directed,2852,,20.57
+Kuwait,Liberia,Directed,2853,,0.47
+Kuwait,Malawi,Directed,2854,,2.16
+Kuwait,Maldives,Directed,2855,,1.09
+Kuwait,Mali,Directed,2856,,0.11
+Kuwait,Mauritania,Directed,2857,,11.24
+Kuwait,Montenegro,Directed,2858,,0.09
+Kuwait,Morocco,Directed,2859,,144.529999
+Kuwait,Mozambique,Directed,2860,,1.08
+Kuwait,Nepal,Directed,2861,,0.05
+Kuwait,Pakistan,Directed,2862,,2.93
+Kuwait,Rwanda,Directed,2863,,1.94
+Kuwait,Saint Vincent and the Grenadines,Directed,2864,,0.13
+Kuwait,Senegal,Directed,2865,,1.8
+Kuwait,Serbia,Directed,2866,,0.46
+Kuwait,Sierra Leone,Directed,2867,,5.05
+Kuwait,Somalia,Directed,2868,,2.75
+Kuwait,Sri Lanka,Directed,2869,,5.32
+Kuwait,Sudan,Directed,2870,,53.57
+Kuwait,Thailand,Directed,2871,,0.19
+Kuwait,Togo,Directed,2872,,0.39
+Kuwait,Tunisia,Directed,2873,,13.36
+Kuwait,Uganda,Directed,2874,,4.21
+Kuwait,Viet Nam,Directed,2875,,10.31
+Kuwait,West Bank and Gaza Strip,Directed,2876,,0.86
+Kuwait,Yemen,Directed,2877,,10.4
+Kuwait,Zambia,Directed,2878,,6.38
+Latvia,Albania,Directed,2879,,0.06
+Latvia,Belarus,Directed,2880,,0.03
+Latvia,China (People's Republic of),Directed,2881,,0.03
+Latvia,Georgia,Directed,2882,,0.21
+Latvia,Kazakhstan,Directed,2883,,0.02
+Latvia,Kyrgyzstan,Directed,2884,,0.01
+Latvia,Mexico,Directed,2885,,0.01
+Latvia,Moldova,Directed,2886,,0.1
+Latvia,Syrian Arab Republic,Directed,2887,,0.11
+Latvia,Tajikistan,Directed,2888,,0.02
+Latvia,Türkiye,Directed,2889,,1.76
+Latvia,Ukraine,Directed,2890,,0.33
+Latvia,Uzbekistan,Directed,2891,,0.08
+Malta,Antigua and Barbuda,Directed,2892,,0.03
+Malta,Brazil,Directed,2893,,0.01
+Malta,Cambodia,Directed,2894,,0.01
+Malta,Democratic Republic of the Congo,Directed,2895,,0.03
+Malta,Dominica,Directed,2896,,0.02
+Malta,Ecuador,Directed,2897,,0.01
+Malta,Eritrea,Directed,2898,,0.2
+Malta,Ethiopia,Directed,2899,,0.02
+Malta,India,Directed,2900,,0.01
+Malta,Iraq,Directed,2901,,0.01
+Malta,Kenya,Directed,2902,,0.01
+Malta,Libya,Directed,2903,,0.28
+Malta,Mexico,Directed,2904,,0.02
+Malta,Nigeria,Directed,2905,,0.02
+Malta,Peru,Directed,2906,,0.04
+Malta,Philippines,Directed,2907,,0.01
+Malta,Sierra Leone,Directed,2908,,0.03
+Malta,Somalia,Directed,2909,,0.19
+Malta,Sudan,Directed,2910,,0.01
+Malta,Syrian Arab Republic,Directed,2911,,0.35
+Malta,Tunisia,Directed,2912,,0.01
+Malta,West Bank and Gaza Strip,Directed,2913,,0.04
+Malta,Yemen,Directed,2914,,0.11
+Romania,Afghanistan,Directed,2915,,0.09
+Romania,Albania,Directed,2916,,0.78
+Romania,Algeria,Directed,2917,,0.04
+Romania,Angola,Directed,2918,,0.13
+Romania,Argentina,Directed,2919,,0.01
+Romania,Armenia,Directed,2920,,0.11
+Romania,Azerbaijan,Directed,2921,,0.04
+Romania,Bangladesh,Directed,2922,,0.01
+Romania,Belarus,Directed,2923,,0.01
+Romania,Benin,Directed,2924,,0.03
+Romania,Bosnia and Herzegovina,Directed,2925,,0.02
+Romania,Brazil,Directed,2926,,0.01
+Romania,Burkina Faso,Directed,2927,,0.02
+Romania,Cameroon,Directed,2928,,0.06
+Romania,Central African Republic,Directed,2929,,0.01
+Romania,Chad,Directed,2930,,0.01
+Romania,Chile,Directed,2931,,0.01
+Romania,China (People's Republic of),Directed,2932,,0.06
+Romania,Colombia,Directed,2933,,0.02
+Romania,Congo,Directed,2934,,0.01
+Romania,Cote d'Ivoire,Directed,2935,,0.05
+Romania,Cuba,Directed,2936,,0.01
+Romania,Democratic People's Republic of Korea,Directed,2937,,0.02
+Romania,Democratic Republic of the Congo,Directed,2938,,0.01
+Romania,Ecuador,Directed,2939,,0.01
+Romania,Egypt,Directed,2940,,0.05
+Romania,India,Directed,2941,,0.02
+Romania,Iran,Directed,2942,,0.11
+Romania,Iraq,Directed,2943,,0.08
+Romania,Jordan,Directed,2944,,0.36
+Romania,Kazakhstan,Directed,2945,,0.04
+Romania,Kenya,Directed,2946,,0.01
+Romania,Kyrgyzstan,Directed,2947,,0.01
+Romania,Lebanon,Directed,2948,,0.31
+Romania,Libya,Directed,2949,,0.02
+Romania,Madagascar,Directed,2950,,0.03
+Romania,Mauritius,Directed,2951,,0.02
+Romania,Mexico,Directed,2952,,0.04
+Romania,Moldova,Directed,2953,,24.209999
+Romania,Mongolia,Directed,2954,,0.02
+Romania,Morocco,Directed,2955,,0.07
+Romania,Nigeria,Directed,2956,,0.08
+Romania,North Macedonia,Directed,2957,,0.19
+Romania,Pakistan,Directed,2958,,0.03
+Romania,Peru,Directed,2959,,0.01
+Romania,Rwanda,Directed,2960,,0.01
+Romania,Senegal,Directed,2961,,0.04
+Romania,Serbia,Directed,2962,,1.63
+Romania,Somalia,Directed,2963,,0.06
+Romania,Sri Lanka,Directed,2964,,0.01
+Romania,Sudan,Directed,2965,,0.02
+Romania,Syrian Arab Republic,Directed,2966,,0.46
+Romania,Thailand,Directed,2967,,0.02
+Romania,Togo,Directed,2968,,0.02
+Romania,Tunisia,Directed,2969,,0.04
+Romania,Türkiye,Directed,2970,,6.04
+Romania,Turkmenistan,Directed,2971,,0.3
+Romania,Ukraine,Directed,2972,,0.81
+Romania,Uzbekistan,Directed,2973,,0.01
+Romania,Viet Nam,Directed,2974,,0.15
+Romania,West Bank and Gaza Strip,Directed,2975,,0.49
+Romania,Yemen,Directed,2976,,0.04
+Romania,Zimbabwe,Directed,2977,,0.02
+Chinese Taipei,Belize,Directed,2978,,0.43
+Thailand,Afghanistan,Directed,2979,,0.04
+Thailand,Algeria,Directed,2980,,0.01
+Thailand,Argentina,Directed,2981,,0.02
+Thailand,Azerbaijan,Directed,2982,,0.01
+Thailand,Bangladesh,Directed,2983,,0.51
+Thailand,Belize,Directed,2984,,0.01
+Thailand,Benin,Directed,2985,,0.03
+Thailand,Bhutan,Directed,2986,,1.61
+Thailand,Botswana,Directed,2987,,0.01
+Thailand,Brazil,Directed,2988,,0.02
+Thailand,Burkina Faso,Directed,2989,,0.04
+Thailand,Burundi,Directed,2990,,0.03
+Thailand,Cabo Verde,Directed,2991,,0.02
+Thailand,Cambodia,Directed,2992,,9.61
+Thailand,Cameroon,Directed,2993,,0.02
+Thailand,Chad,Directed,2994,,0.01
+Thailand,Chile,Directed,2995,,0.04
+Thailand,China (People's Republic of),Directed,2996,,0.19
+Thailand,Colombia,Directed,2997,,0.13
+Thailand,Comoros,Directed,2998,,0.03
+Thailand,Congo,Directed,2999,,0.07
+Thailand,Cook Islands,Directed,3000,,0.01
+Thailand,Costa Rica,Directed,3001,,0.01
+Thailand,Cuba,Directed,3002,,0.01
+Thailand,Democratic People's Republic of Korea,Directed,3003,,0.24
+Thailand,Democratic Republic of the Congo,Directed,3004,,0.05
+Thailand,Dominican Republic,Directed,3005,,0.02
+Thailand,Ecuador,Directed,3006,,0.05
+Thailand,Egypt,Directed,3007,,0.05
+Thailand,El Salvador,Directed,3008,,0.08
+Thailand,Eritrea,Directed,3009,,0.11
+Thailand,Eswatini,Directed,3010,,0.03
+Thailand,Ethiopia,Directed,3011,,0.05
+Thailand,Fiji,Directed,3012,,0.13
+Thailand,Gabon,Directed,3013,,0.01
+Thailand,Gambia,Directed,3014,,0.09
+Thailand,Georgia,Directed,3015,,0.02
+Thailand,Ghana,Directed,3016,,0.07
+Thailand,Grenada,Directed,3017,,0.02
+Thailand,Guatemala,Directed,3018,,0.01
+Thailand,Guinea,Directed,3019,,0.05
+Thailand,Guyana,Directed,3020,,0.02
+Thailand,Honduras,Directed,3021,,0.01
+Thailand,India,Directed,3022,,0.07
+Thailand,Indonesia,Directed,3023,,0.43
+Thailand,Iran,Directed,3024,,0.17
+Thailand,Jamaica,Directed,3025,,0.03
+Thailand,Jordan,Directed,3026,,0.07
+Thailand,Kazakhstan,Directed,3027,,0.01
+Thailand,Kenya,Directed,3028,,0.17
+Thailand,Kiribati,Directed,3029,,0.02
+Thailand,Kyrgyzstan,Directed,3030,,0.03
+Thailand,Lao People's Democratic Republic,Directed,3031,,31.84
+Thailand,Lebanon,Directed,3032,,0.01
+Thailand,Lesotho,Directed,3033,,0.05
+Thailand,Liberia,Directed,3034,,0.09
+Thailand,Madagascar,Directed,3035,,0.21
+Thailand,Malawi,Directed,3036,,0.08
+Thailand,Malaysia,Directed,3037,,0.12
+Thailand,Maldives,Directed,3038,,0.08
+Thailand,Mali,Directed,3039,,0.02
+Thailand,Mauritius,Directed,3040,,0.03
+Thailand,Mexico,Directed,3041,,0.2
+Thailand,Mongolia,Directed,3042,,0.3
+Thailand,Morocco,Directed,3043,,0.05
+Thailand,Mozambique,Directed,3044,,0.24
+Thailand,Myanmar,Directed,3045,,8.07
+Thailand,Nepal,Directed,3046,,0.19
+Thailand,Nicaragua,Directed,3047,,0.02
+Thailand,Niger,Directed,3048,,0.01
+Thailand,Nigeria,Directed,3049,,0.09
+Thailand,Pakistan,Directed,3050,,0.13
+Thailand,Palau,Directed,3051,,0.02
+Thailand,Panama,Directed,3052,,0.02
+Thailand,Papua New Guinea,Directed,3053,,0.04
+Thailand,Paraguay,Directed,3054,,0.01
+Thailand,Peru,Directed,3055,,0.09
+Thailand,Philippines,Directed,3056,,0.31
+Thailand,Rwanda,Directed,3057,,0.04
+Thailand,Saint Lucia,Directed,3058,,0.01
+Thailand,Saint Vincent and the Grenadines,Directed,3059,,0.04
+Thailand,Samoa,Directed,3060,,0.07
+Thailand,Senegal,Directed,3061,,0.09
+Thailand,Seychelles,Directed,3062,,0.03
+Thailand,Sierra Leone,Directed,3063,,0.1
+Thailand,Solomon Islands,Directed,3064,,0.01
+Thailand,South Sudan,Directed,3065,,0.08
+Thailand,Sri Lanka,Directed,3066,,0.29
+Thailand,Sudan,Directed,3067,,0.05
+Thailand,Suriname,Directed,3068,,0.02
+Thailand,Tajikistan,Directed,3069,,0.01
+Thailand,Tanzania,Directed,3070,,0.06
+Thailand,Timor-Leste,Directed,3071,,0.16
+Thailand,Togo,Directed,3072,,0.09
+Thailand,Tonga,Directed,3073,,0.28
+Thailand,Tunisia,Directed,3074,,0.03
+Thailand,Türkiye,Directed,3075,,0.01
+Thailand,Tuvalu,Directed,3076,,0.01
+Thailand,Uganda,Directed,3077,,0.1
+Thailand,Uzbekistan,Directed,3078,,0.01
+Thailand,Viet Nam,Directed,3079,,1.01
+Thailand,Zambia,Directed,3080,,0.03
+Thailand,Zimbabwe,Directed,3081,,0.03
+Türkiye,Afghanistan,Directed,3082,,36.52
+Türkiye,Albania,Directed,3083,,6.49
+Türkiye,Algeria,Directed,3084,,5.22
+Türkiye,Angola,Directed,3085,,0.03
+Türkiye,Armenia,Directed,3086,,0.02
+Türkiye,Azerbaijan,Directed,3087,,10.29
+Türkiye,Bangladesh,Directed,3088,,5.58
+Türkiye,Belarus,Directed,3089,,0.07
+Türkiye,Benin,Directed,3090,,2.2
+Türkiye,Bolivia,Directed,3091,,0.07
+Türkiye,Bosnia and Herzegovina,Directed,3092,,20.4
+Türkiye,Botswana,Directed,3093,,0.14
+Türkiye,Brazil,Directed,3094,,0.38
+Türkiye,Burkina Faso,Directed,3095,,1.14
+Türkiye,Burundi,Directed,3096,,1.28
+Türkiye,Cambodia,Directed,3097,,0.45
+Türkiye,Cameroon,Directed,3098,,2.64
+Türkiye,Central African Republic,Directed,3099,,0.75
+Türkiye,Chad,Directed,3100,,2.48
+Türkiye,Chile,Directed,3101,,1.02
+Türkiye,China (People's Republic of),Directed,3102,,3.4
+Türkiye,Colombia,Directed,3103,,2.62
+Türkiye,Comoros,Directed,3104,,1.11
+Türkiye,Congo,Directed,3105,,0.68
+Türkiye,Costa Rica,Directed,3106,,0.04
+Türkiye,Cote d'Ivoire,Directed,3107,,1.41
+Türkiye,Cuba,Directed,3108,,0.06
+Türkiye,Democratic Republic of the Congo,Directed,3109,,2.45
+Türkiye,Djibouti,Directed,3110,,3.47
+Türkiye,Dominican Republic,Directed,3111,,0.07
+Türkiye,Ecuador,Directed,3112,,0.08
+Türkiye,El Salvador,Directed,3113,,0.02
+Türkiye,Eritrea,Directed,3114,,0.54
+Türkiye,Eswatini,Directed,3115,,0.27
+Türkiye,Ethiopia,Directed,3116,,5.83
+Türkiye,Gabon,Directed,3117,,0.34
+Türkiye,Gambia,Directed,3118,,2.1
+Türkiye,Georgia,Directed,3119,,5.86
+Türkiye,Ghana,Directed,3120,,4.49
+Türkiye,Guatemala,Directed,3121,,0.09
+Türkiye,Guinea,Directed,3122,,1.52
+Türkiye,Guinea-Bissau,Directed,3123,,0.98
+Türkiye,Haiti,Directed,3124,,0.52
+Türkiye,Honduras,Directed,3125,,0.08
+Türkiye,India,Directed,3126,,2.1
+Türkiye,Indonesia,Directed,3127,,3.86
+Türkiye,Iran,Directed,3128,,4.23
+Türkiye,Iraq,Directed,3129,,8.27
+Türkiye,Jamaica,Directed,3130,,0.02
+Türkiye,Jordan,Directed,3131,,4.19
+Türkiye,Kazakhstan,Directed,3132,,20.379999
+Türkiye,Kenya,Directed,3133,,1.97
+Türkiye,Kosovo,Directed,3134,,10.67
+Türkiye,Kyrgyzstan,Directed,3135,,18.16
+Türkiye,Lebanon,Directed,3136,,1.97
+Türkiye,Lesotho,Directed,3137,,0.66
+Türkiye,Liberia,Directed,3138,,0.6
+Türkiye,Libya,Directed,3139,,2.85
+Türkiye,Madagascar,Directed,3140,,1.21
+Türkiye,Malawi,Directed,3141,,0.51
+Türkiye,Malaysia,Directed,3142,,1.27
+Türkiye,Maldives,Directed,3143,,0.09
+Türkiye,Mali,Directed,3144,,1.74
+Türkiye,Mauritania,Directed,3145,,1.16
+Türkiye,Mauritius,Directed,3146,,0.25
+Türkiye,Mexico,Directed,3147,,0.55
+Türkiye,Moldova,Directed,3148,,5.28
+Türkiye,Mongolia,Directed,3149,,5.96
+Türkiye,Montenegro,Directed,3150,,5.06
+Türkiye,Morocco,Directed,3151,,2.03
+Türkiye,Mozambique,Directed,3152,,0.73
+Türkiye,Myanmar,Directed,3153,,4.02
+Türkiye,Namibia,Directed,3154,,0.64
+Türkiye,Nepal,Directed,3155,,0.32
+Türkiye,Niger,Directed,3156,,9.59
+Türkiye,Nigeria,Directed,3157,,1.1
+Türkiye,North Macedonia,Directed,3158,,13.16
+Türkiye,Pakistan,Directed,3159,,10.9
+Türkiye,Papua New Guinea,Directed,3160,,0.02
+Türkiye,Paraguay,Directed,3161,,0.04
+Türkiye,Peru,Directed,3162,,0.34
+Türkiye,Philippines,Directed,3163,,1.49
+Türkiye,Rwanda,Directed,3164,,1.34
+Türkiye,Sao Tome and Principe,Directed,3165,,0.06
+Türkiye,Senegal,Directed,3166,,1.18
+Türkiye,Serbia,Directed,3167,,6.47
+Türkiye,Seychelles,Directed,3168,,0.01
+Türkiye,Sierra Leone,Directed,3169,,0.64
+Türkiye,Somalia,Directed,3170,,60.639999
+Türkiye,South Africa,Directed,3171,,0.05
+Türkiye,South Sudan,Directed,3172,,1.27
+Türkiye,Sri Lanka,Directed,3173,,0.36
+Türkiye,Sudan,Directed,3174,,6.98
+Türkiye,Suriname,Directed,3175,,0.03
+Türkiye,Syrian Arab Republic,Directed,3176,,7246.779785
+Türkiye,Tajikistan,Directed,3177,,2.98
+Türkiye,Tanzania,Directed,3178,,1.65
+Türkiye,Thailand,Directed,3179,,1.93
+Türkiye,Togo,Directed,3180,,0.8
+Türkiye,Tonga,Directed,3181,,0.02
+Türkiye,Turkmenistan,Directed,3182,,2.28
+Türkiye,Uganda,Directed,3183,,2.49
+Türkiye,Ukraine,Directed,3184,,5.29
+Türkiye,Uruguay,Directed,3185,,0.02
+Türkiye,Uzbekistan,Directed,3186,,5.68
+Türkiye,Vanuatu,Directed,3187,,0.03
+Türkiye,Venezuela,Directed,3188,,0.14
+Türkiye,Viet Nam,Directed,3189,,0.63
+Türkiye,West Bank and Gaza Strip,Directed,3190,,40.59
+Türkiye,Yemen,Directed,3191,,10.02
+Türkiye,Zambia,Directed,3192,,1.27
+Türkiye,Zimbabwe,Directed,3193,,1.21
+United Arab Emirates,Afghanistan,Directed,3194,,29.370001
+United Arab Emirates,Albania,Directed,3195,,4.62
+United Arab Emirates,Antigua and Barbuda,Directed,3196,,1.45
+United Arab Emirates,Argentina,Directed,3197,,0.33
+United Arab Emirates,Bangladesh,Directed,3198,,8.47
+United Arab Emirates,Bhutan,Directed,3199,,0.03
+United Arab Emirates,Bolivia,Directed,3200,,0.01
+United Arab Emirates,Bosnia and Herzegovina,Directed,3201,,0.02
+United Arab Emirates,Brazil,Directed,3202,,0.19
+United Arab Emirates,Burundi,Directed,3203,,0.05
+United Arab Emirates,Cambodia,Directed,3204,,0.17
+United Arab Emirates,Cameroon,Directed,3205,,0.23
+United Arab Emirates,Central African Republic,Directed,3206,,0.03
+United Arab Emirates,Chad,Directed,3207,,2.14
+United Arab Emirates,Chile,Directed,3208,,5.07
+United Arab Emirates,Colombia,Directed,3209,,8.31
+United Arab Emirates,Comoros,Directed,3210,,1.2
+United Arab Emirates,Congo,Directed,3211,,0.43
+United Arab Emirates,Costa Rica,Directed,3212,,10.03
+United Arab Emirates,Cote d'Ivoire,Directed,3213,,1.04
+United Arab Emirates,Cuba,Directed,3214,,1.02
+United Arab Emirates,Democratic Republic of the Congo,Directed,3215,,0.01
+United Arab Emirates,Djibouti,Directed,3216,,0.22
+United Arab Emirates,Dominica,Directed,3217,,1.75
+United Arab Emirates,Dominican Republic,Directed,3218,,0.53
+United Arab Emirates,Ecuador,Directed,3219,,0.04
+United Arab Emirates,Egypt,Directed,3220,,141.210007
+United Arab Emirates,Equatorial Guinea,Directed,3221,,0.01
+United Arab Emirates,Eritrea,Directed,3222,,16.52
+United Arab Emirates,Eswatini,Directed,3223,,1.89
+United Arab Emirates,Ethiopia,Directed,3224,,0.85
+United Arab Emirates,Gambia,Directed,3225,,1.37
+United Arab Emirates,Ghana,Directed,3226,,0.62
+United Arab Emirates,Guinea,Directed,3227,,5.62
+United Arab Emirates,Guinea-Bissau,Directed,3228,,2.02
+United Arab Emirates,Haiti,Directed,3229,,1
+United Arab Emirates,Honduras,Directed,3230,,0.01
+United Arab Emirates,India,Directed,3231,,1.33
+United Arab Emirates,Indonesia,Directed,3232,,0.22
+United Arab Emirates,Iran,Directed,3233,,0.03
+United Arab Emirates,Iraq,Directed,3234,,390.089996
+United Arab Emirates,Jamaica,Directed,3235,,0.5
+United Arab Emirates,Jordan,Directed,3236,,460.829987
+United Arab Emirates,Kazakhstan,Directed,3237,,0.01
+United Arab Emirates,Kenya,Directed,3238,,3.96
+United Arab Emirates,Kiribati,Directed,3239,,0.2
+United Arab Emirates,Kosovo,Directed,3240,,0.97
+United Arab Emirates,Kyrgyzstan,Directed,3241,,0.31
+United Arab Emirates,Lao People's Democratic Republic,Directed,3242,,1.61
+United Arab Emirates,Lebanon,Directed,3243,,5
+United Arab Emirates,Lesotho,Directed,3244,,0.84
+United Arab Emirates,Liberia,Directed,3245,,0.29
+United Arab Emirates,Libya,Directed,3246,,14.61
+United Arab Emirates,Madagascar,Directed,3247,,0.12
+United Arab Emirates,Malawi,Directed,3248,,0.06
+United Arab Emirates,Malaysia,Directed,3249,,0.01
+United Arab Emirates,Maldives,Directed,3250,,6.19
+United Arab Emirates,Mali,Directed,3251,,16.57
+United Arab Emirates,Mauritania,Directed,3252,,2.25
+United Arab Emirates,Mauritius,Directed,3253,,0.03
+United Arab Emirates,Mexico,Directed,3254,,0.92
+United Arab Emirates,Montenegro,Directed,3255,,7.55
+United Arab Emirates,Morocco,Directed,3256,,439.450012
+United Arab Emirates,Mozambique,Directed,3257,,0.93
+United Arab Emirates,Myanmar,Directed,3258,,0.04
+United Arab Emirates,Nepal,Directed,3259,,1.85
+United Arab Emirates,Niger,Directed,3260,,1.95
+United Arab Emirates,Nigeria,Directed,3261,,0.27
+United Arab Emirates,Pakistan,Directed,3262,,34.259998
+United Arab Emirates,Palau,Directed,3263,,0.5
+United Arab Emirates,Panama,Directed,3264,,0.06
+United Arab Emirates,Peru,Directed,3265,,3.41
+United Arab Emirates,Philippines,Directed,3266,,0.81
+United Arab Emirates,Rwanda,Directed,3267,,1.58
+United Arab Emirates,Saint Vincent and the Grenadines,Directed,3268,,1
+United Arab Emirates,Senegal,Directed,3269,,2.61
+United Arab Emirates,Serbia,Directed,3270,,1203.660034
+United Arab Emirates,Seychelles,Directed,3271,,5.29
+United Arab Emirates,Sierra Leone,Directed,3272,,0.36
+United Arab Emirates,Somalia,Directed,3273,,17.02
+United Arab Emirates,South Africa,Directed,3274,,0.52
+United Arab Emirates,South Sudan,Directed,3275,,0.23
+United Arab Emirates,Sri Lanka,Directed,3276,,0.74
+United Arab Emirates,Sudan,Directed,3277,,132.630005
+United Arab Emirates,Syrian Arab Republic,Directed,3278,,100.370003
+United Arab Emirates,Tajikistan,Directed,3279,,1.72
+United Arab Emirates,Tanzania,Directed,3280,,1.63
+United Arab Emirates,Thailand,Directed,3281,,0.09
+United Arab Emirates,Togo,Directed,3282,,0.53
+United Arab Emirates,Tunisia,Directed,3283,,1.48
+United Arab Emirates,Turkmenistan,Directed,3284,,9.19
+United Arab Emirates,Uganda,Directed,3285,,3.77
+United Arab Emirates,Ukraine,Directed,3286,,0.06
+United Arab Emirates,Uzbekistan,Directed,3287,,0.06
+United Arab Emirates,Vanuatu,Directed,3288,,0.35
+United Arab Emirates,Venezuela,Directed,3289,,0.11
+United Arab Emirates,Viet Nam,Directed,3290,,1.07
+United Arab Emirates,West Bank and Gaza Strip,Directed,3291,,108.919998
+United Arab Emirates,Yemen,Directed,3292,,818.140015
+United Arab Emirates,Zambia,Directed,3293,,0.33
+United Arab Emirates,Zimbabwe,Directed,3294,,0.28
